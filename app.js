@@ -46,6 +46,10 @@ container.innerHTML+=`
 ${article.category || "General"}
 </p>
 
+<p>
+<b>District:</b>
+${article.district || "Karnataka"}
+</p>
 <a href="${article.link}"
 target="_blank">
 Read More
