@@ -1,8 +1,53 @@
-[
-{
-"title":"Welcome To Karnataka News",
-"description":"Your automated news app is working.",
-"image":"https://picsum.photos/600/300",
-"link":"https://news.google.com"
-}
+import feedparser
+import json
+import random
+
+feeds = [
+    "https://feeds.bbci.co.uk/news/rss.xml"
 ]
+
+categories = [
+    "Politics",
+    "Sports",
+    "Business",
+    "Technology"
+]
+
+news = []
+
+for feed_url in feeds:
+
+    feed = feedparser.parse(feed_url)
+
+    for item in feed.entries[:20]:
+
+        news.append({
+
+            "title": item.title,
+
+            "description":
+            item.get("summary",""),
+
+            "link":
+            item.link,
+
+            "image":
+            "https://picsum.photos/600/400",
+
+            "category":
+            random.choice(categories)
+
+        })
+
+with open(
+"news.json",
+"w",
+encoding="utf-8"
+) as f:
+
+    json.dump(
+        news,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
