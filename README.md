@@ -1,1 +1,1 @@
-# Daily-news-local-to-international
+Namma Karnataka News
