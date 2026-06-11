@@ -1,142 +1,64 @@
-[
-  {
-    "title": "El Niño under way and threatens weather extremes, scientists say",
-    "description": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-    "link": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Politics"
-  },
-  {
-    "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
-    "description": "Manufacturer Novo Nordisk says a daily tablet of the drug could be more convenient for some people than weekly injections.",
-    "link": "https://www.bbc.com/news/articles/c9d2pl10lqzo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Politics"
-  },
-  {
-    "title": "Police officer, 19, dies from crash injuries",
-    "description": "Jess Turnbull \"had so much to look forward to in her career and her life\", the chief constable says.",
-    "link": "https://www.bbc.com/news/articles/c621l2nkz4ko?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Business"
-  },
-  {
-    "title": "Asylum appeal backlog at record high, new figures show",
-    "description": "While the government has cut the backlog of cases waiting for a decision, the number of appeals has risen.",
-    "link": "https://www.bbc.com/news/articles/cwyld5rnw9vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Politics"
-  },
-  {
-    "title": "'Mum was killing me': England's Declan Rice on sunburn for his World Cup photoshoot",
-    "description": "The Arsenal midfielder admits he was a touch pink in pre-tournament photos as players try to adjust to scorching conditions.",
-    "link": "https://www.bbc.com/news/articles/cq61l6d870vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Technology"
-  },
-  {
-    "title": "Find your local World Cup hero with our postcode lookup",
-    "description": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
-    "link": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Sports"
-  },
-  {
-    "title": "'Absolutely buzzing': Scotland fans arrive on US soil",
-    "description": "Thousands of Tartan Army members are travelling to Boston ahead of the country's first match at the weekend.",
-    "link": "https://www.bbc.com/news/articles/c1jyd680yrgo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Sports"
-  },
-  {
-    "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
-    "description": "The BBC's Will Grant got access inside the renovated venue ahead of the first game of the tournament.",
-    "link": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Politics"
-  },
-  {
-    "title": "Chris Mason: Healey's resignation is a devastating critique of Starmer's government",
-    "description": "An already politically weakened prime minister has been weakened further by the resignation of the defence secretary.",
-    "link": "https://www.bbc.com/news/articles/cm20vznj2p2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Politics"
-  },
-  {
-    "title": "Olivia Rodrigo on heartbreak and choosing her wedding song",
-    "description": "The pop star discusses the difficulty of writing happy songs, and her Glastonbury anxiety attack.",
-    "link": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Sports"
-  },
-  {
-    "title": "Facing a seismic by-election, the people of Makerfield tell us what matters to them",
-    "description": "In conversations with residents, business owners and campaigners in Makerfield, the BBC found a mixed mood.",
-    "link": "https://www.bbc.com/news/articles/ckg4dywykjeo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Sports"
-  },
-  {
-    "title": "'I haven't left my house, I'm scared' says Mean Girls actor as Belfast shows cancelled over violence",
-    "description": "The Mean Girls musical's run in Belfast is cancelled following disorder in the city.",
-    "link": "https://www.bbc.com/news/articles/cwyex90nkvgo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Technology"
-  },
-  {
-    "title": "Jilted bride who went ahead with wedding gets engaged",
-    "description": "Rather than cancel the £12,000 big day, Kayley Stead went ahead with it, posting videos and photos online.",
-    "link": "https://www.bbc.com/news/articles/c4gyx8gxpzvo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Business"
-  },
-  {
-    "title": "Mis-Teeq on reuniting, UK garage and Alesha Dixon's ad libs",
-    "description": "The noughties girl group are back for a reunion gig to celebrate the 25th anniversary of their debut album.",
-    "link": "https://www.bbc.com/news/articles/cr47l4qwx35o?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Politics"
-  },
-  {
-    "title": "What we know about US sea drone used in helicopter crew rescue mission",
-    "description": "BBC Verify examines what we know about the drone boat and how the mission took place.",
-    "link": "https://www.bbc.com/news/articles/cx2xvnd5eqwo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Sports"
-  },
-  {
-    "title": "Donaldson tells trial letter to alleged victim 'absolutely not' about abuse",
-    "description": "Sir Jeffrey Donaldson, the former DUP leader, is on trial for 18 sex abuse charges, including one count of rape, all of which he denies.",
-    "link": "https://www.bbc.com/news/articles/cvgd93xvznyo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Politics"
-  },
-  {
-    "title": "Ryanair investigated over charging parents to sit with children",
-    "description": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
-    "link": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Business"
-  },
-  {
-    "title": "Rapist jailed for trafficking and abusing girls",
-    "description": "Bawan Harwe is jailed for a series of child abuse offences against girls aged 12 to 16.",
-    "link": "https://www.bbc.com/news/articles/cwy0v8741pxo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Sports"
-  },
-  {
-    "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
-    "description": "The US vice-president says the Israeli leader \"aggressively asserts\" his country's interests, but they do not always align with those of the US.",
-    "link": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Business"
-  },
-  {
-    "title": "'Hidden house' farmer slams contempt conviction",
-    "description": "Helen Lowe was found in contempt of court for failing to remove a house she built inside a barn.",
-    "link": "https://www.bbc.com/news/articles/cwy20de67l1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://picsum.photos/600/400",
-    "category": "Politics"
-  }
+import feedparser
+import json
+import random
+
+feeds = [
+    "https://feeds.bbci.co.uk/news/rss.xml"
 ]
+
+districts = [
+    "Bengaluru",
+    "Mysuru",
+    "Hassan",
+    "Mangaluru",
+    "Shivamogga"
+]
+
+categories = [
+    "Politics",
+    "Sports",
+    "Business",
+    "Technology"
+]
+
+news = []
+
+for feed_url in feeds:
+
+    feed = feedparser.parse(feed_url)
+
+    for item in feed.entries[:30]:
+
+        news.append({
+
+            "title": item.title,
+
+            "description":
+            item.get("summary", ""),
+
+            "link":
+            item.link,
+
+            "image":
+            "https://picsum.photos/600/400",
+
+            "category":
+            random.choice(categories),
+
+            "district":
+            random.choice(districts)
+
+        })
+
+with open(
+    "news.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        news,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
