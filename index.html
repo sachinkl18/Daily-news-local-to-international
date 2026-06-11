@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Karnataka News</title>
+<title>Namma Karnataka News</title>
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -11,13 +11,33 @@
 <body>
 
 <header>
-<h1>📰 Karnataka News</h1>
+
+<h1>📰 Namma Karnataka News</h1>
+
+<div class="breaking">
+<marquee id="breakingNews">
+Loading Breaking News...
+</marquee>
+</div>
 
 <input
 type="text"
 id="search"
-placeholder="Search News..."
+placeholder="🔍 Search News"
 >
+
+<select id="categoryFilter">
+<option value="all">All Categories</option>
+<option value="Politics">Politics</option>
+<option value="Sports">Sports</option>
+<option value="Business">Business</option>
+<option value="Technology">Technology</option>
+</select>
+
+<button id="darkModeBtn">
+🌙 Dark Mode
+</button>
+
 </header>
 
 <div id="news-container"></div>
