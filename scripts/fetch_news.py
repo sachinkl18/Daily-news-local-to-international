@@ -1,37 +1,31 @@
 import json
+import feedparser
+from datetime import datetime
 
-news = [
-
-{
-"title":"ಬೆಂಗಳೂರುದಲ್ಲಿ ಭಾರಿ ಮಳೆ",
-"description":"ನಗರದ ಹಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ಭಾರಿ ಮಳೆಯಾಗಿದೆ.",
-"link":"https://www.google.com",
-"image":"https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-"category":"ರಾಜಕೀಯ",
-"district":"ಬೆಂಗಳೂರು"
-},
-
-{
-"title":"ಹಾಸನದಲ್ಲಿ ಅಡಿಕೆ ಬೆಲೆ ಏರಿಕೆ",
-"description":"ಅಡಿಕೆ ಬೆಲೆಯಲ್ಲಿ ಇಂದು ಏರಿಕೆ ಕಂಡುಬಂದಿದೆ.",
-"link":"https://www.google.com",
-"image":"https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
-"category":"ಕೃಷಿ",
-"district":"ಹಾಸನ"
-},
-
-{
-"title":"ಮೈಸೂರು ದಸರಾ ಸಿದ್ಧತೆ ಆರಂಭ",
-"description":"ದಸರಾ ಉತ್ಸವಕ್ಕೆ ಭರದ ಸಿದ್ಧತೆ ನಡೆಯುತ್ತಿದೆ.",
-"link":"https://www.google.com",
-"image":"https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
-"category":"ಸಂಸ್ಕೃತಿ",
-"district":"ಮೈಸೂರು"
-}
-
+RSS_FEEDS = [
+    "https://feeds.bbci.co.uk/news/rss.xml",
+    "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "https://www.thehindu.com/news/national/feeder/default.rss"
 ]
 
-with open("news.json","w",encoding="utf-8") as f:
-    json.dump(news,f,ensure_ascii=False,indent=2)
+news = []
 
-print("Kannada News Updated")
+for rss_url in RSS_FEEDS:
+    feed = feedparser.parse(rss_url)
+
+    for entry in feed.entries[:100]:
+
+        news.append({
+            "title": entry.get("title", ""),
+            "description": entry.get("summary", ""),
+            "link": entry.get("link", ""),
+            "image": "https://placehold.co/600x400?text=News",
+            "category": "News",
+            "district": "Karnataka",
+            "date": str(datetime.now())
+        })
+
+with open("news.json", "w", encoding="utf-8") as f:
+    json.dump(news, f, ensure_ascii=False, indent=2)
+
+print(f"Saved {len(news)} news articles")
