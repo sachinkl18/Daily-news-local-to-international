@@ -1,6 +1,9 @@
 let allNews=[];
 
 fetch("news.json")
+  news.sort((a,b)=>
+new Date(b.date)-new Date(a.date)
+);
 .then(res=>res.json())
 .then(data=>{
 
