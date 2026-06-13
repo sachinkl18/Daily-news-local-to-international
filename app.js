@@ -1,23 +1,24 @@
 let allNews=[];
 
 fetch("news.json")
-  news.sort((a,b)=>
-new Date(b.date)-new Date(a.date)
-);
-.then(res=>res.json())
-.then(data=>{
+.then(res => res.json())
+.then(data => {
 
-allNews=data;
+    data.sort((a,b)=>
+        new Date(b.date)-new Date(a.date)
+    );
 
-renderNews(data);
+    allNews=data;
 
-if(data.length>0){
+    renderNews(data);
 
-document.getElementById(
-"breakingNews"
-).innerText=data[0].title;
+    if(data.length>0){
 
-}
+        document.getElementById(
+            "breakingNews"
+        ).innerText=data[0].title;
+
+    }
 
 });
 
