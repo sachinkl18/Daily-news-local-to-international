@@ -194,4 +194,7 @@ document.getElementById("weather").innerHTML=
 ${data.current_condition[0].temp_C}°C`;
 
 });
+setInterval(() => {
+    location.reload();
+}, 900000);
 
