@@ -181,3 +181,14 @@ window.open(
 );
 
 }
+fetch("https://wttr.in/Bangalore?format=j1")
+.then(res=>res.json())
+.then(data=>{
+
+document.getElementById("weather").innerHTML=
+
+`🌦 Bengaluru:
+${data.current_condition[0].temp_C}°C`;
+
+});
+
