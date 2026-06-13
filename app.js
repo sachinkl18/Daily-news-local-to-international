@@ -173,4 +173,11 @@ document.querySelector("h1")
 
 }
 
-});
+}); function shareNews(title){
+
+window.open(
+`https://wa.me/?text=${encodeURIComponent(title)}`,
+'_blank'
+);
+
+}
