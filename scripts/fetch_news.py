@@ -37,16 +37,20 @@ except:
     title_kn = title
     description_kn = description
 
+title = entry.get("title", "")
+description = entry.get("summary", "")
+
 news.append({
-    "title": title_kn,
-    "description": description_kn,
+    "title_en": title,
+    "title_kn": title,
+    "description_en": description,
+    "description_kn": description,
     "link": entry.get("link", ""),
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
     "date": str(datetime.now())
 })
-
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(news, f, ensure_ascii=False, indent=2)
 
