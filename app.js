@@ -1,4 +1,5 @@
 let allNews=[];
+let currentLanguage = "kn";
 
 fetch("news.json")
 .then(res => res.json())
@@ -199,3 +200,7 @@ setInterval(() => {
     location.reload();
 }, 900000);
 
+function setLanguage(lang) {
+    currentLanguage = lang;
+    renderNews(allNews);
+}
