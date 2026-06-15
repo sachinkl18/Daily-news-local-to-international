@@ -1,7 +1,7 @@
 import json
 import feedparser
-from deep_translator import GoogleTranslator
 from datetime import datetime
+from deep_translator import GoogleTranslator
 
 RSS_FEEDS = [
     "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
@@ -15,43 +15,45 @@ RSS_FEEDS = [
 news = []
 
 for rss_url in RSS_FEEDS:
-    feed = feedparser.parse(rss_url)
+    try:
+        feed = feedparser.parse(rss_url)
 
-    for entry in feed.entries[:200]:
+        for entry in feed.entries[:200]:
 
-     title = entry.get("title", "")
-description = entry.get("summary", "")
+            title = entry.get("title", "")
+            description = entry.get("summary", "")
 
-try:
-    title_kn = GoogleTranslator(
-        source='auto',
-        target='kn'
-    ).translate(title)
+            try:
+                title_kn = GoogleTranslator(
+                    source="auto",
+                    target="kn"
+                ).translate(title)
 
-    description_kn = GoogleTranslator(
-        source='auto',
-        target='kn'
-    ).translate(description)
+                description_kn = GoogleTranslator(
+                    source="auto",
+                    target="kn"
+                ).translate(description)
 
-except:
-    title_kn = title
-    description_kn = description
+            except:
+                title_kn = title
+                description_kn = description
 
-title = entry.get("title", "")
-description = entry.get("summary", "")
+            news.append({
+                "title_en": title,
+                "title_kn": title_kn,
+                "description_en": description,
+                "description_kn": description_kn,
+                "link": entry.get("link", ""),
+                "image": "https://placehold.co/600x400?text=News",
+                "category": "News",
+                "district": "Karnataka",
+                "date": str(datetime.now())
+            })
 
-news.append({
-    "title_en": title,
-    "title_kn": title,
-    "description_en": description,
-    "description_kn": description,
-    "link": entry.get("link", ""),
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": str(datetime.now())
-})
+    except Exception as e:
+        print("RSS Error:", e)
+
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(news, f, ensure_ascii=False, indent=2)
 
-print(f"Saved {len(news)} news articles")
+print(f"Saved {len(news)} articles")
