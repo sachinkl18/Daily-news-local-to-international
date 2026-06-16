@@ -54,7 +54,18 @@ Dark Mode
 
 <button id="langBtn">
 ಕನ್ನಡ
-</button>
+<script>
+document.getElementById("langBtn").onclick = () => {
+
+    if(currentLanguage==="en"){
+        currentLanguage="kn";
+    }else{
+        currentLanguage="en";
+    }
+
+    renderNews(allNews);
+};
+</script>
 
 </header>
 
