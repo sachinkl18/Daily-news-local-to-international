@@ -42,9 +42,12 @@ container.innerHTML+=`
 
 <div class="news-content">
 
-<h2>${article.title}</h2>
-
-<p>${article.description}</p>
+<h3>${currentLanguage === "kn"
+ ? article.title_kn
+ : article.title_en}</h3>
+<p>${currentLanguage === "kn"
+ ? article.description_kn
+ : article.description_en}</p>
 
 <p>
 <b>Category:</b>
