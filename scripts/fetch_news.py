@@ -75,3 +75,10 @@ if not image and "media_thumbnail" in entry:
 if not image:
     image = "assets/no-image.jpg"
 
+...
+description_kn = ...
+
+image = ""
+
+if "media_content" in entry:
+    ...
