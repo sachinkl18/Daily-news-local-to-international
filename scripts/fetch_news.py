@@ -56,4 +56,6 @@ for rss_url in RSS_FEEDS:
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(news, f, ensure_ascii=False, indent=2)
 
-print(f"Saved {len(news)} articles")
+print(f"Saved {len(news)} articles")  
+
+ok
