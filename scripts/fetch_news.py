@@ -58,27 +58,3 @@ with open("news.json", "w", encoding="utf-8") as f:
 
 print(f"Saved {len(news)} articles")  
 
-image = ""
-
-if "media_content" in entry:
-    try:
-        image = entry.media_content[0]["url"]
-    except:
-        pass
-
-if not image and "media_thumbnail" in entry:
-    try:
-        image = entry.media_thumbnail[0]["url"]
-    except:
-        pass
-
-if not image:
-    image = "assets/no-image.jpg"
-
-...
-description_kn = ...
-
-image = ""
-
-if "media_content" in entry:
-    ...
