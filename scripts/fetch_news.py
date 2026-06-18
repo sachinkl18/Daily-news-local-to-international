@@ -58,4 +58,3 @@ with open("news.json", "w", encoding="utf-8") as f:
 
 print(f"Saved {len(news)} articles")  
 
-ok
