@@ -1,4 +1,5 @@
 feedparser
 requests
 deep-translator
- 
+beautifulsoup4
+lxml
