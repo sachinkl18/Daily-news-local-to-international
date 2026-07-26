@@ -1,16 +1,5 @@
 [
   {
-    "title_en": "PM Modi announces Nandan Nilekani-led task force on exam reforms",
-    "title_kn": "ಪರೀಕ್ಷೆ ಸುಧಾರಣೆಗಳ ಕುರಿತು ನಂದನ್ ನಿಲೇಕಣಿ ನೇತೃತ್ವದ ಕಾರ್ಯಪಡೆಯನ್ನು ಪ್ರಧಾನಿ ಮೋದಿ ಘೋಷಿಸಿದ್ದಾರೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://timesofindia.indiatimes.com/india/pm-modi-returns-with-message-to-students-announces-nandan-nilekani-led-task-force-on-exam-reforms/articleshow/132642261.cms",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:11:46.705731"
-  },
-  {
     "title_en": "Ex-Isro chief, IIT director &amp; more: Who is on Nilekani-led NTA exam reforms panel",
     "title_kn": "ಮಾಜಿ ಇಸ್ರೋ ಮುಖ್ಯಸ್ಥ, IIT ನಿರ್ದೇಶಕ &amp; ಇನ್ನಷ್ಟು: ನಿಲೇಕಣಿ ನೇತೃತ್ವದ ಎನ್‌ಟಿಎ ಪರೀಕ್ಷೆಯ ಸುಧಾರಣಾ ಸಮಿತಿಯಲ್ಲಿ ಯಾರಿದ್ದಾರೆ",
     "description_en": "",
@@ -19,7 +8,40 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:47.390480"
+    "date": "2026-07-26 16:14:41.727186"
+  },
+  {
+    "title_en": "Mirabai Chanu wins India's first gold at Commonwealth Games with record lift",
+    "title_kn": "ಮೀರಾಬಾಯಿ ಚಾನು ಕಾಮನ್‌ವೆಲ್ತ್ ಗೇಮ್ಸ್‌ನಲ್ಲಿ ದಾಖಲೆ ಎತ್ತುವ ಮೂಲಕ ಭಾರತಕ್ಕೆ ಮೊದಲ ಚಿನ್ನ ಗೆದ್ದರು",
+    "description_en": "The 31-year-old lifted a Commonwealth and Games record 85kg in the snatch before registering a Games record 105kg in the clean and jerk. She finished with a total lift of 190kg to claim the gold medal.",
+    "description_kn": "31 ವರ್ಷ ವಯಸ್ಸಿನವರು ಸ್ನ್ಯಾಚ್‌ನಲ್ಲಿ 85 ಕೆಜಿ ಕಾಮನ್‌ವೆಲ್ತ್ ಮತ್ತು ಗೇಮ್ಸ್ ದಾಖಲೆಯನ್ನು ಎತ್ತುವ ಮೊದಲು ಕ್ಲೀನ್ ಮತ್ತು ಜರ್ಕ್‌ನಲ್ಲಿ ಗೇಮ್ಸ್ ದಾಖಲೆಯನ್ನು 105 ಕೆಜಿ ದಾಖಲಿಸಿದರು. ಅವರು ಒಟ್ಟು 190 ಕೆಜಿ ಎತ್ತುವ ಮೂಲಕ ಚಿನ್ನದ ಪದಕವನ್ನು ಪಡೆದರು.",
+    "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/mirabai-chanu-wins-gold-in-weightlifting-at-glasgow-commonwealth-games/articleshow/132643351.cms",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:43.131812"
+  },
+  {
+    "title_en": "PM Modi announces Nandan Nilekani-led task force on exam reforms",
+    "title_kn": "ಪರೀಕ್ಷೆ ಸುಧಾರಣೆಗಳ ಕುರಿತು ನಂದನ್ ನಿಲೇಕಣಿ ನೇತೃತ್ವದ ಕಾರ್ಯಪಡೆಯನ್ನು ಪ್ರಧಾನಿ ಮೋದಿ ಘೋಷಿಸಿದ್ದಾರೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://timesofindia.indiatimes.com/india/pm-modi-returns-with-message-to-students-announces-nandan-nilekani-led-task-force-on-exam-reforms/articleshow/132642261.cms",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:43.236423"
+  },
+  {
+    "title_en": "From Jantar Mantar to Parliament: Govt, oppn brace for fight over NEET row, other issues",
+    "title_kn": "ಜಂತರ್ ಮಂತರ್‌ನಿಂದ ಸಂಸತ್ತಿನವರೆಗೆ: NEET ಸಾಲು, ಇತರ ವಿಷಯಗಳ ಹೋರಾಟಕ್ಕೆ ಸರ್ಕಾರ, ವಿರೋಧ",
+    "description_en": "As the monsoon session reconvenes, tensions rise again over the NEET-UG paper leak scandal. Opposition factions are determined to maintain pressure on the administration following significant protests. Prime Minister Modi has introduced reforms for examinations and established a dedicated task force for student welfare. In response, Rahul Gandhi is targeting the government over police conduct. The government aims to introduce a bill designed to eradicate malpractice in examinations.",
+    "description_kn": "ಮುಂಗಾರು ಅಧಿವೇಶನ ಮತ್ತೆ ಸೇರುತ್ತಿದ್ದಂತೆ, NEET-UG ಪೇಪರ್ ಸೋರಿಕೆ ಹಗರಣದ ಮೇಲೆ ಮತ್ತೆ ಉದ್ವಿಗ್ನತೆ ಹೆಚ್ಚುತ್ತಿದೆ. ಗಮನಾರ್ಹ ಪ್ರತಿಭಟನೆಗಳ ನಂತರ ಆಡಳಿತದ ಮೇಲೆ ಒತ್ತಡವನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು ವಿರೋಧ ಬಣಗಳು ನಿರ್ಧರಿಸಿವೆ. ಪ್ರಧಾನಿ ಮೋದಿ ಅವರು ಪರೀಕ್ಷೆಗಳಿಗೆ ಸುಧಾರಣೆಗಳನ್ನು ಪರಿಚಯಿಸಿದ್ದಾರೆ ಮತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳ ಕಲ್ಯಾಣಕ್ಕಾಗಿ ಮೀಸಲಾದ ಕಾರ್ಯಪಡೆಯನ್ನು ಸ್ಥಾಪಿಸಿದ್ದಾರೆ. ಇದಕ್ಕೆ ಪ್ರತಿಯಾಗಿ ರಾಹುಲ್ ಗಾಂಧಿ ಪೊಲೀಸರ ವರ್ತನೆ ಬಗ್ಗೆ ಸರ್ಕಾರವನ್ನು ಟಾರ್ಗೆಟ್ ಮಾಡಿದ್ದಾರೆ. ಪರೀಕ್ಷೆಗಳಲ್ಲಿನ ಅವ್ಯವಹಾರವನ್ನು ನಿರ್ಮೂಲನೆ ಮಾಡಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ಮಸೂದೆಯನ್ನು ಪರಿಚಯಿಸಲು ಸರ್ಕಾರ ಉದ್ದೇಶಿಸಿದೆ.",
+    "link": "https://timesofindia.indiatimes.com/india/from-jantar-mantar-to-parliament-govt-opposition-brace-for-fight-over-neet-row-other-issues/articleshow/132643378.cms",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:44.370699"
   },
   {
     "title_en": "'Will announce future strategy soon': Dipke says Punjab 'paper leak' on CJP's radar",
@@ -30,18 +52,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:48.643102"
-  },
-  {
-    "title_en": "Wangchuk to be discharged from hospital on Monday after CJP ends 36-day protest",
-    "title_kn": "ಸಿಜೆಪಿ 36 ದಿನಗಳ ಪ್ರತಿಭಟನೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸಿದ ನಂತರ ವಾಂಗ್ಚುಕ್ ಅವರನ್ನು ಸೋಮವಾರ ಆಸ್ಪತ್ರೆಯಿಂದ ಬಿಡುಗಡೆ ಮಾಡಲಾಗುತ್ತದೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://timesofindia.indiatimes.com/india/sonam-wangchuk-to-be-discharged-from-hospital-on-monday-after-cjp-ends-36-day-protest/articleshow/132642569.cms",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:11:49.068878"
+    "date": "2026-07-26 16:14:44.591301"
   },
   {
     "title_en": "Sergey Brin says he fought Google's ban on engineers using Gemini",
@@ -52,18 +63,29 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:49.256805"
+    "date": "2026-07-26 16:14:44.851428"
   },
   {
-    "title_en": "'Hang culprits': Mother of NEET aspirant who died says Pradhan's exit not enough",
-    "title_kn": "‘ಅಪರಾಧಿಗಳನ್ನು ಗಲ್ಲಿಗೇರಿಸಿ’: ಪ್ರಧಾನ್‌ ನಿರ್ಗಮನ ಸಾಕಾಗುವುದಿಲ್ಲ ಎಂದ ಮೃತ NEET ಆಕಾಂಕ್ಷಿ ತಾಯಿ",
-    "description_en": "Parents of Akanksha Chaturvedi demand justice and compensation after her suicide following the NEET-UG paper leak. They express dissatisfaction with Union Education Minister Dharmendra Pradhan's resignation from his post. Akanksha's mother called for stricter punishment for those responsible for the examination controversy. Her father stated that his daughter aspired to become a doctor and serve the nation.",
-    "description_kn": "ನೀಟ್-ಯುಜಿ ಪೇಪರ್ ಸೋರಿಕೆಯಾದ ನಂತರ ಆಕಾಂಕ್ಷಾ ಚತುರ್ವೇದಿ ಆತ್ಮಹತ್ಯೆ ಮಾಡಿಕೊಂಡ ನಂತರ ನ್ಯಾಯ ಮತ್ತು ಪರಿಹಾರಕ್ಕಾಗಿ ಆಕೆಯ ಪೋಷಕರು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ. ಕೇಂದ್ರ ಶಿಕ್ಷಣ ಸಚಿವ ಧರ್ಮೇಂದ್ರ ಪ್ರಧಾನ್ ಅವರು ತಮ್ಮ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ ನೀಡಿದ್ದಕ್ಕೆ ಅವರು ಅಸಮಾಧಾನ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ. ಪರೀಕ್ಷಾ ವಿವಾದಕ್ಕೆ ಕಾರಣರಾದವರಿಗೆ ಕಠಿಣ ಶಿಕ್ಷೆ ವಿಧಿಸಬೇಕು ಎಂದು ಆಕಾಂಕ್ಷಾ ಅವರ ತಾಯಿ ಒತ್ತಾಯಿಸಿದ್ದಾರೆ. ತನ್ನ ಮಗಳು ವೈದ್ಯೆಯಾಗಿ ದೇಶಸೇವೆ ಮಾಡಬೇಕೆಂಬ ಹಂಬಲ ಹೊಂದಿದ್ದಾಳೆ ಎಂದು ಆಕೆಯ ತಂದೆ ಹೇಳಿದ್ದಾರೆ.",
-    "link": "https://timesofindia.indiatimes.com/city/nagpur/pradhans-resignation-not-enough-neet-aspirant-akanksha-chaturvedis-parents-demand-justice-and-compensation/articleshow/132641632.cms",
+    "title_en": "Wangchuk to be discharged from hospital on Monday after CJP ends 36-day protest",
+    "title_kn": "ಸಿಜೆಪಿ 36 ದಿನಗಳ ಪ್ರತಿಭಟನೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸಿದ ನಂತರ ವಾಂಗ್ಚುಕ್ ಅವರನ್ನು ಸೋಮವಾರ ಆಸ್ಪತ್ರೆಯಿಂದ ಬಿಡುಗಡೆ ಮಾಡಲಾಗುತ್ತದೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://timesofindia.indiatimes.com/india/sonam-wangchuk-to-be-discharged-from-hospital-on-monday-after-cjp-ends-36-day-protest/articleshow/132642569.cms",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:50.151531"
+    "date": "2026-07-26 16:14:44.952862"
+  },
+  {
+    "title_en": "Why India's tiles and marble industry isn't worried about the Red Sea crisis",
+    "title_kn": "ಭಾರತದ ಟೈಲ್ಸ್ ಮತ್ತು ಮಾರ್ಬಲ್ ಉದ್ಯಮವು ಕೆಂಪು ಸಮುದ್ರದ ಬಿಕ್ಕಟ್ಟಿನ ಬಗ್ಗೆ ಏಕೆ ಚಿಂತಿಸುತ್ತಿಲ್ಲ",
+    "description_en": "India's tiles and marble sector anticipates continued growth, supported by strong domestic housing demand. Rising freight costs and supply chain issues present short-term challenges for manufacturers. Robust residential real estate transactions indicate sustained consumer interest in premium housing options. Expanding commercial projects and infrastructure development will further boost material consumption. Industry stakeholders remain optimistic about long-term growth driven by urbanization and construction.",
+    "description_kn": "ಭಾರತದ ಟೈಲ್ಸ್ ಮತ್ತು ಮಾರ್ಬಲ್ ವಲಯವು ನಿರಂತರ ಬೆಳವಣಿಗೆಯನ್ನು ನಿರೀಕ್ಷಿಸುತ್ತದೆ, ಬಲವಾದ ದೇಶೀಯ ವಸತಿ ಬೇಡಿಕೆಯಿಂದ ಬೆಂಬಲಿತವಾಗಿದೆ. ಏರುತ್ತಿರುವ ಸರಕು ವೆಚ್ಚಗಳು ಮತ್ತು ಪೂರೈಕೆ ಸರಪಳಿ ಸಮಸ್ಯೆಗಳು ತಯಾರಕರಿಗೆ ಅಲ್ಪಾವಧಿಯ ಸವಾಲುಗಳನ್ನು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತವೆ. ದೃಢವಾದ ವಸತಿ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ವಹಿವಾಟುಗಳು ಪ್ರೀಮಿಯಂ ವಸತಿ ಆಯ್ಕೆಗಳಲ್ಲಿ ನಿರಂತರ ಗ್ರಾಹಕ ಆಸಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತವೆ. ವಾಣಿಜ್ಯ ಯೋಜನೆಗಳನ್ನು ವಿಸ್ತರಿಸುವುದು ಮತ್ತು ಮೂಲಸೌಕರ್ಯ ಅಭಿವೃದ್ಧಿಯು ವಸ್ತು ಬಳಕೆಯನ್ನು ಮತ್ತಷ್ಟು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಉದ್ಯಮದ ಮಧ್ಯಸ್ಥಗಾರರು ನಗರೀಕರಣ ಮತ್ತು ನಿರ್ಮಾಣದಿಂದ ನಡೆಸಲ್ಪಡುವ ದೀರ್ಘಾವಧಿಯ ಬೆಳವಣಿಗೆಯ ಬಗ್ಗೆ ಆಶಾವಾದಿಗಳಾಗಿರುತ್ತಾರೆ.",
+    "link": "https://timesofindia.indiatimes.com/real-estate/news/why-indias-tiles-and-marble-industry-isnt-worried-about-the-red-sea-crisis/articleshow/132643558.cms",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:46.265263"
   },
   {
     "title_en": "Jeff Bezos ex-wife MacKenzie Scott helped write a 'donation playbook' for Snap founder",
@@ -74,18 +96,18 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:50.410872"
+    "date": "2026-07-26 16:14:46.472067"
   },
   {
-    "title_en": "Sooryavanshi creates history, sets unique T20I record before turning 16",
-    "title_kn": "ಸೂರ್ಯವಂಶಿ ಇತಿಹಾಸವನ್ನು ಸೃಷ್ಟಿಸಿದರು, 16 ನೇ ವರ್ಷಕ್ಕೆ ಕಾಲಿಡುವ ಮೊದಲು ಅನನ್ಯ T20I ದಾಖಲೆಯನ್ನು ಸ್ಥಾಪಿಸಿದರು",
-    "description_en": "The left-handed opener achieved the feat during the third and final T20I against Zimbabwe in Harare on Sunday, scoring 81 off 48 balls to lead India to 192/5 after they elected to bat first.",
-    "description_kn": "ಭಾನುವಾರ ಹರಾರೆಯಲ್ಲಿ ನಡೆದ ಜಿಂಬಾಬ್ವೆ ವಿರುದ್ಧದ ಮೂರನೇ ಮತ್ತು ಅಂತಿಮ T20I ಪಂದ್ಯದಲ್ಲಿ ಎಡಗೈ ಆರಂಭಿಕ ಆಟಗಾರ ಈ ಸಾಧನೆಯನ್ನು ಮಾಡಿದರು, ಅವರು ಮೊದಲು ಬ್ಯಾಟಿಂಗ್ ಮಾಡಲು ಆಯ್ಕೆ ಮಾಡಿದ ನಂತರ ಭಾರತವನ್ನು 192/5 ಗೆ 48 ಎಸೆತಗಳಲ್ಲಿ 81 ರನ್ ಗಳಿಸಿದರು.",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/vaibhav-sooryavanshi-scripts-history-becomes-first-player-to-achieve-unique-t20i-feat-before-turning-16/articleshow/132641737.cms",
+    "title_en": "RDJ's role led to Chris Evans' return as Captain America for 'Avengers: Doomsday'",
+    "title_kn": "ಆರ್‌ಡಿಜೆ ಪಾತ್ರವು ಕ್ರಿಸ್ ಇವಾನ್ಸ್ 'ಅವೆಂಜರ್ಸ್: ಡೂಮ್ಸ್‌ಡೇ' ಗಾಗಿ ಕ್ಯಾಪ್ಟನ್ ಅಮೇರಿಕಾ ಆಗಿ ಮರಳಲು ಕಾರಣವಾಯಿತು",
+    "description_en": "In an exciting turn of events, Chris Evans will reprise his beloved role as Captain America in the highly anticipated Avengers: Doomsday. After careful consideration and rejecting countless offers for eight years, Evans chose to come back, motivated in part by Robert Downey Jr.'s role as Doctor Doom. He aims to make Steve Rogers’ story impactful as the film introduces returning X-Men stars, scheduled for release on December 18.",
+    "description_kn": "ಘಟನೆಗಳ ಒಂದು ರೋಮಾಂಚಕಾರಿ ತಿರುವಿನಲ್ಲಿ, ಕ್ರಿಸ್ ಇವಾನ್ಸ್ ಹೆಚ್ಚು ನಿರೀಕ್ಷಿತ ಅವೆಂಜರ್ಸ್: ಡೂಮ್ಸ್‌ಡೇನಲ್ಲಿ ಕ್ಯಾಪ್ಟನ್ ಅಮೇರಿಕಾ ಆಗಿ ತನ್ನ ಪ್ರೀತಿಯ ಪಾತ್ರವನ್ನು ಪುನರಾವರ್ತಿಸುತ್ತಾನೆ. ಎಚ್ಚರಿಕೆಯಿಂದ ಪರಿಗಣಿಸಿದ ನಂತರ ಮತ್ತು ಎಂಟು ವರ್ಷಗಳವರೆಗೆ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಕೊಡುಗೆಗಳನ್ನು ತಿರಸ್ಕರಿಸಿದ ನಂತರ, ಇವಾನ್ಸ್ ಹಿಂತಿರುಗಲು ನಿರ್ಧರಿಸಿದರು, ಡಾಕ್ಟರ್ ಡೂಮ್ ಪಾತ್ರದಲ್ಲಿ ರಾಬರ್ಟ್ ಡೌನಿ ಜೂನಿಯರ್ ಪಾತ್ರವು ಭಾಗಶಃ ಪ್ರೇರೇಪಿಸಲ್ಪಟ್ಟಿದೆ. ಅವರು ಸ್ಟೀವ್ ರೋಜರ್ಸ್ ಅವರ ಕಥೆಯನ್ನು ಪ್ರಭಾವಶಾಲಿಯಾಗಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದು, ಚಲನಚಿತ್ರವು ಹಿಂದಿರುಗುವ X-ಮೆನ್ ತಾರೆಯರನ್ನು ಪರಿಚಯಿಸುತ್ತದೆ, ಡಿಸೆಂಬರ್ 18 ರಂದು ಬಿಡುಗಡೆ ಮಾಡಲು ನಿರ್ಧರಿಸಲಾಗಿದೆ.",
+    "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-heard-over-a-dozen-scripts-chris-evans-returns-as-captain-america-for-avengers-doomsday-because-of-robert-downey-jr-/articleshow/132638805.cms",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:51.414688"
+    "date": "2026-07-26 16:14:47.574287"
   },
   {
     "title_en": "How Guatemala's logging system is helping save rainforests",
@@ -96,18 +118,18 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:53.264155"
+    "date": "2026-07-26 16:14:47.774237"
   },
   {
-    "title_en": "Idaho Airbnb shaped like a ship earns $80,000 a year, now for sale",
-    "title_kn": "ಹಡಗಿನ ಆಕಾರದಲ್ಲಿರುವ Idaho Airbnb ವರ್ಷಕ್ಕೆ $80,000 ಗಳಿಸುತ್ತದೆ, ಈಗ ಮಾರಾಟಕ್ಕೆ",
-    "description_en": "Nestled in Salmon, Idaho, a captivating pirate-themed house is on the market for $799,000, boasting a remarkable annual income of around $80,000 from its Airbnb bookings. The property stands out amidst a collection of luxurious and historic homes detailed in market reports. Economic shifts are shaping the landscape of luxury real estate, with affluent baby boomers opting for more spacious residences as they transition into retirement.",
-    "description_kn": "ಇಡಾಹೊದ ಸಾಲ್ಮನ್‌ನಲ್ಲಿ ನೆಲೆಸಿರುವ, ಆಕರ್ಷಕವಾದ ಕಡಲುಗಳ್ಳರ-ವಿಷಯದ ಮನೆಯು $799,000 ಮಾರುಕಟ್ಟೆಯಲ್ಲಿದೆ, ಅದರ Airbnb ಬುಕಿಂಗ್‌ಗಳಿಂದ ಸುಮಾರು $80,000 ಗಮನಾರ್ಹ ವಾರ್ಷಿಕ ಆದಾಯವನ್ನು ಹೊಂದಿದೆ. ಮಾರುಕಟ್ಟೆ ವರದಿಗಳಲ್ಲಿ ವಿವರಿಸಲಾದ ಐಷಾರಾಮಿ ಮತ್ತು ಐತಿಹಾಸಿಕ ಮನೆಗಳ ಸಂಗ್ರಹದ ನಡುವೆ ಆಸ್ತಿಯು ಎದ್ದು ಕಾಣುತ್ತದೆ. ಆರ್ಥಿಕ ಬದಲಾವಣೆಗಳು ಐಷಾರಾಮಿ ರಿಯಲ್ ಎಸ್ಟೇಟ್‌ನ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುತ್ತಿವೆ, ಶ್ರೀಮಂತ ಬೇಬಿ ಬೂಮರ್‌ಗಳು ನಿವೃತ್ತಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತಿದ್ದಂತೆ ಹೆಚ್ಚು ವಿಶಾಲವಾದ ನಿವಾಸಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳುತ್ತಾರೆ.",
-    "link": "https://timesofindia.indiatimes.com/real-estate/this-idaho-airbnb-looks-like-a-ship-has-a-secret-treasure-room-and-earns-80000-a-year-now-its-for-sale/articleshow/132641522.cms",
+    "title_en": "‘Panda of the sea’ fish returns to Hong Kong after DNA gives it away",
+    "title_kn": "ಡಿಎನ್‌ಎ ನೀಡಿದ ನಂತರ 'ಪಾಂಡಾ ಆಫ್ ದಿ ಸೀ' ಮೀನು ಹಾಂಗ್ ಕಾಂಗ್‌ಗೆ ಮರಳುತ್ತದೆ",
+    "description_en": "A recent study has confirmed the presence of the rare Chinese bahaba in Hong Kong's waters through genetic material extracted from seawater. Nicknamed the 'Panda of the Sea,' this critically endangered fish had evaded scientific capture for over ten years. Researchers utilized cutting-edge environmental DNA technology, revealing traces of the fish's DNA across various western bays, thereby advancing non-invasive methods for marine population monitoring and conservation.",
+    "description_kn": "ಇತ್ತೀಚಿನ ಅಧ್ಯಯನವೊಂದು ಸಮುದ್ರದ ನೀರಿನಿಂದ ಹೊರತೆಗೆಯಲಾದ ಆನುವಂಶಿಕ ವಸ್ತುಗಳ ಮೂಲಕ ಹಾಂಗ್ ಕಾಂಗ್‌ನ ನೀರಿನಲ್ಲಿ ಅಪರೂಪದ ಚೀನೀ ಬಾಹಾಬಾದ ಉಪಸ್ಥಿತಿಯನ್ನು ದೃಢಪಡಿಸಿದೆ. 'ಸಮುದ್ರದ ಪಾಂಡಾ' ಎಂಬ ಅಡ್ಡಹೆಸರು, ತೀವ್ರವಾಗಿ ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಈ ಮೀನು ಹತ್ತು ವರ್ಷಗಳ ಕಾಲ ವೈಜ್ಞಾನಿಕ ಸೆರೆಹಿಡಿಯುವಿಕೆಯನ್ನು ತಪ್ಪಿಸಿದೆ. ಸಂಶೋಧಕರು ಅತ್ಯಾಧುನಿಕ ಪರಿಸರ DNA ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸಿಕೊಂಡರು, ವಿವಿಧ ಪಶ್ಚಿಮ ಕೊಲ್ಲಿಗಳಲ್ಲಿ ಮೀನಿನ DNA ಯ ಕುರುಹುಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದರು, ಇದರಿಂದಾಗಿ ಸಮುದ್ರ ಜನಸಂಖ್ಯೆಯ ಮೇಲ್ವಿಚಾರಣೆ ಮತ್ತು ಸಂರಕ್ಷಣೆಗಾಗಿ ಆಕ್ರಮಣಶೀಲವಲ್ಲದ ವಿಧಾನಗಳನ್ನು ಮುಂದುವರೆಸಿದರು.",
+    "link": "https://timesofindia.indiatimes.com/world/rest-of-world/the-chinese-bahaba-a-critically-endangered-fish-nicknamed-the-panda-of-the-sea-was-missing-from-hong-kong-for-over-a-decade-until-its-dna-gave-it-away/articleshow/132642425.cms",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:54.380050"
+    "date": "2026-07-26 16:14:48.797761"
   },
   {
     "title_en": "Amid billionaire exodus, NYC's Mamdani tells $5M homeowners: Check your mail",
@@ -118,40 +140,18 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:54.574471"
+    "date": "2026-07-26 16:14:49.053199"
   },
   {
-    "title_en": "‘Responsible for brutal assault on students’: Oppn turns heat on Shah, seeks resignation",
-    "title_kn": "‘ವಿದ್ಯಾರ್ಥಿಗಳ ಮೇಲಿನ ಅಮಾನುಷ ಹಲ್ಲೆಗೆ ಹೊಣೆ’: ಶಾ ವಿರುದ್ಧ ಒಪಿಎನ್‌ ಬಿಸಿ, ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹ",
-    "description_en": "Opposition parties will intensify their Parliament attack on the government. They are demanding Home Minister Amit Shah's resignation over police action. This action involved students protesting the NEET paper leak issue. The government is also set to introduce amendments to the anti-paper leak law. Questions are also being raised about a key higher education secretary appointment.",
-    "description_kn": "ವಿರೋಧ ಪಕ್ಷಗಳು ಸರ್ಕಾರದ ವಿರುದ್ಧ ಸಂಸತ್ತಿನ ದಾಳಿಯನ್ನು ತೀವ್ರಗೊಳಿಸುತ್ತವೆ. ಪೊಲೀಸ್ ಕ್ರಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ರಾಜೀನಾಮೆಗೆ ಒತ್ತಾಯಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಕ್ರಮವು NEET ಪೇಪರ್ ಸೋರಿಕೆ ವಿಷಯವನ್ನು ಪ್ರತಿಭಟಿಸುವ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಒಳಗೊಂಡಿತ್ತು. ಕಾಗದ ಸೋರಿಕೆ ತಡೆ ಕಾನೂನಿಗೆ ತಿದ್ದುಪಡಿ ತರಲು ಸರ್ಕಾರ ಸಜ್ಜಾಗಿದೆ. ಪ್ರಮುಖ ಉನ್ನತ ಶಿಕ್ಷಣ ಕಾರ್ಯದರ್ಶಿ ನೇಮಕದ ಬಗ್ಗೆಯೂ ಪ್ರಶ್ನೆಗಳು ಎದ್ದಿವೆ.",
-    "link": "https://timesofindia.indiatimes.com/india/responsible-for-brutal-assault-on-innocent-students-after-dharmendra-pradhan-opposition-turns-heat-on-amit-shah-seeks-resignation/articleshow/132642724.cms",
+    "title_en": "'Hang culprits': Mother of NEET aspirant who died says Pradhan's exit not enough",
+    "title_kn": "‘ಅಪರಾಧಿಗಳನ್ನು ಗಲ್ಲಿಗೇರಿಸಿ’: ಪ್ರಧಾನ್‌ ನಿರ್ಗಮನ ಸಾಕಾಗುವುದಿಲ್ಲ ಎಂದ ಮೃತ NEET ಆಕಾಂಕ್ಷಿ ತಾಯಿ",
+    "description_en": "Parents of Akanksha Chaturvedi demand justice and compensation after her suicide following the NEET-UG paper leak. They express dissatisfaction with Union Education Minister Dharmendra Pradhan's resignation from his post. Akanksha's mother called for stricter punishment for those responsible for the examination controversy. Her father stated that his daughter aspired to become a doctor and serve the nation.",
+    "description_kn": "ನೀಟ್-ಯುಜಿ ಪೇಪರ್ ಸೋರಿಕೆಯಾದ ನಂತರ ಆಕಾಂಕ್ಷಾ ಚತುರ್ವೇದಿ ಆತ್ಮಹತ್ಯೆ ಮಾಡಿಕೊಂಡ ನಂತರ ನ್ಯಾಯ ಮತ್ತು ಪರಿಹಾರಕ್ಕಾಗಿ ಆಕೆಯ ಪೋಷಕರು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ. ಕೇಂದ್ರ ಶಿಕ್ಷಣ ಸಚಿವ ಧರ್ಮೇಂದ್ರ ಪ್ರಧಾನ್ ಅವರು ತಮ್ಮ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ ನೀಡಿದ್ದಕ್ಕೆ ಅವರು ಅಸಮಾಧಾನ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ. ಪರೀಕ್ಷಾ ವಿವಾದಕ್ಕೆ ಕಾರಣರಾದವರಿಗೆ ಕಠಿಣ ಶಿಕ್ಷೆ ವಿಧಿಸಬೇಕು ಎಂದು ಆಕಾಂಕ್ಷಾ ಅವರ ತಾಯಿ ಒತ್ತಾಯಿಸಿದ್ದಾರೆ. ತನ್ನ ಮಗಳು ವೈದ್ಯೆಯಾಗಿ ದೇಶಸೇವೆ ಮಾಡಬೇಕೆಂಬ ಹಂಬಲ ಹೊಂದಿದ್ದಾಳೆ ಎಂದು ಆಕೆಯ ತಂದೆ ಹೇಳಿದ್ದಾರೆ.",
+    "link": "https://timesofindia.indiatimes.com/city/nagpur/pradhans-resignation-not-enough-neet-aspirant-akanksha-chaturvedis-parents-demand-justice-and-compensation/articleshow/132641632.cms",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:55.635605"
-  },
-  {
-    "title_en": "Berlin police hunt 'Islamist suspect' after Pride attack kills one, injures 16",
-    "title_kn": "ಪ್ರೈಡ್ ಅಟ್ಯಾಕ್ ಒಬ್ಬನನ್ನು ಕೊಂದು 16 ಮಂದಿ ಗಾಯಗೊಂಡ ನಂತರ ಬರ್ಲಿನ್ ಪೊಲೀಸರು 'ಇಸ್ಲಾಮಿಸ್ಟ್ ಶಂಕಿತ'ನನ್ನು ಬೇಟೆಯಾಡಿದರು",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://timesofindia.indiatimes.com/world/europe/berlin-police-hunt-islamist-suspect-after-pride-attack-kills-one-injures-16/articleshow/132642244.cms",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:11:55.741569"
-  },
-  {
-    "title_en": "Russia uses sexual torture as systematic weapon against Ukrainian men: Report",
-    "title_kn": "ಉಕ್ರೇನಿಯನ್ ಪುರುಷರ ವಿರುದ್ಧ ರಷ್ಯಾ ಲೈಂಗಿಕ ಚಿತ್ರಹಿಂಸೆಯನ್ನು ವ್ಯವಸ್ಥಿತ ಅಸ್ತ್ರವಾಗಿ ಬಳಸುತ್ತದೆ: ವರದಿ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://timesofindia.indiatimes.com/world/europe/russia-uses-sexual-torture-as-systematic-weapon-against-ukrainian-men-report/articleshow/132640853.cms",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:11:55.839014"
+    "date": "2026-07-26 16:14:49.263184"
   },
   {
     "title_en": "Patrick Mahomes says wife and kids gave meaning to his NFL greatness",
@@ -162,7 +162,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:56.037828"
+    "date": "2026-07-26 16:14:49.478915"
   },
   {
     "title_en": "Gabriel Langton remains conscious after horrific Commonwealth Games fall",
@@ -173,7 +173,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:56.218143"
+    "date": "2026-07-26 16:14:49.766900"
   },
   {
     "title_en": "Patrick and Brittany Mahomes turned family grief into a mission of hope",
@@ -184,7 +184,51 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:56.497754"
+    "date": "2026-07-26 16:14:50.045626"
+  },
+  {
+    "title_en": "Sooryavanshi creates history, sets unique T20I record before turning 16",
+    "title_kn": "ಸೂರ್ಯವಂಶಿ ಇತಿಹಾಸವನ್ನು ಸೃಷ್ಟಿಸಿದರು, 16 ನೇ ವರ್ಷಕ್ಕೆ ಕಾಲಿಡುವ ಮೊದಲು ಅನನ್ಯ T20I ದಾಖಲೆಯನ್ನು ಸ್ಥಾಪಿಸಿದರು",
+    "description_en": "The left-handed opener achieved the feat during the third and final T20I against Zimbabwe in Harare on Sunday, scoring 81 off 48 balls to lead India to 192/5 after they elected to bat first.",
+    "description_kn": "ಭಾನುವಾರ ಹರಾರೆಯಲ್ಲಿ ನಡೆದ ಜಿಂಬಾಬ್ವೆ ವಿರುದ್ಧದ ಮೂರನೇ ಮತ್ತು ಅಂತಿಮ T20I ಪಂದ್ಯದಲ್ಲಿ ಎಡಗೈ ಆರಂಭಿಕ ಆಟಗಾರ ಈ ಸಾಧನೆಯನ್ನು ಮಾಡಿದರು, ಅವರು ಮೊದಲು ಬ್ಯಾಟಿಂಗ್ ಮಾಡಲು ಆಯ್ಕೆ ಮಾಡಿದ ನಂತರ ಭಾರತವನ್ನು 192/5 ಗೆ 48 ಎಸೆತಗಳಲ್ಲಿ 81 ರನ್ ಗಳಿಸಿದರು.",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/vaibhav-sooryavanshi-scripts-history-becomes-first-player-to-achieve-unique-t20i-feat-before-turning-16/articleshow/132641737.cms",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:50.312512"
+  },
+  {
+    "title_en": "‘Responsible for brutal assault on students’: Oppn turns heat on Shah, seeks resignation",
+    "title_kn": "‘ವಿದ್ಯಾರ್ಥಿಗಳ ಮೇಲಿನ ಅಮಾನುಷ ಹಲ್ಲೆಗೆ ಹೊಣೆ’: ಶಾ ವಿರುದ್ಧ ಒಪಿಎನ್‌ ಬಿಸಿ, ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹ",
+    "description_en": "Opposition parties will intensify their Parliament attack on the government. They are demanding Home Minister Amit Shah's resignation over police action. This action involved students protesting the NEET paper leak issue. The government is also set to introduce amendments to the anti-paper leak law. Questions are also being raised about a key higher education secretary appointment.",
+    "description_kn": "ವಿರೋಧ ಪಕ್ಷಗಳು ಸರ್ಕಾರದ ವಿರುದ್ಧ ಸಂಸತ್ತಿನ ದಾಳಿಯನ್ನು ತೀವ್ರಗೊಳಿಸುತ್ತವೆ. ಪೊಲೀಸ್ ಕ್ರಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ರಾಜೀನಾಮೆಗೆ ಒತ್ತಾಯಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಕ್ರಮವು NEET ಪೇಪರ್ ಸೋರಿಕೆ ವಿಷಯವನ್ನು ಪ್ರತಿಭಟಿಸುವ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಒಳಗೊಂಡಿತ್ತು. ಕಾಗದ ಸೋರಿಕೆ ತಡೆ ಕಾನೂನಿಗೆ ತಿದ್ದುಪಡಿ ತರಲು ಸರ್ಕಾರ ಸಜ್ಜಾಗಿದೆ. ಪ್ರಮುಖ ಉನ್ನತ ಶಿಕ್ಷಣ ಕಾರ್ಯದರ್ಶಿ ನೇಮಕದ ಬಗ್ಗೆಯೂ ಪ್ರಶ್ನೆಗಳು ಎದ್ದಿವೆ.",
+    "link": "https://timesofindia.indiatimes.com/india/responsible-for-brutal-assault-on-innocent-students-after-dharmendra-pradhan-opposition-turns-heat-on-amit-shah-seeks-resignation/articleshow/132642724.cms",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:50.535602"
+  },
+  {
+    "title_en": "Berlin police hunt 'Islamist suspect' after Pride attack kills one, injures 16",
+    "title_kn": "ಪ್ರೈಡ್ ಅಟ್ಯಾಕ್ ಒಬ್ಬನನ್ನು ಕೊಂದು 16 ಮಂದಿ ಗಾಯಗೊಂಡ ನಂತರ ಬರ್ಲಿನ್ ಪೊಲೀಸರು 'ಇಸ್ಲಾಮಿಸ್ಟ್ ಶಂಕಿತ'ನನ್ನು ಬೇಟೆಯಾಡಿದರು",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://timesofindia.indiatimes.com/world/europe/berlin-police-hunt-islamist-suspect-after-pride-attack-kills-one-injures-16/articleshow/132642244.cms",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:50.715274"
+  },
+  {
+    "title_en": "Russia uses sexual torture as systematic weapon against Ukrainian men: Report",
+    "title_kn": "ಉಕ್ರೇನಿಯನ್ ಪುರುಷರ ವಿರುದ್ಧ ರಷ್ಯಾ ಲೈಂಗಿಕ ಚಿತ್ರಹಿಂಸೆಯನ್ನು ವ್ಯವಸ್ಥಿತ ಅಸ್ತ್ರವಾಗಿ ಬಳಸುತ್ತದೆ: ವರದಿ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://timesofindia.indiatimes.com/world/europe/russia-uses-sexual-torture-as-systematic-weapon-against-ukrainian-men-report/articleshow/132640853.cms",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:50.810258"
   },
   {
     "title_en": "Thousands of Himachal teachers launch indefinite hunger strike against School Complex System",
@@ -195,7 +239,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:56.728776"
+    "date": "2026-07-26 16:14:51.042387"
   },
   {
     "title_en": "Nepal to require Everest climbers to prove experience first",
@@ -206,7 +250,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:57.951677"
+    "date": "2026-07-26 16:14:51.319528"
   },
   {
     "title_en": "India’s first hydrogen-powered train saves 3,200 litres of diesel; Delhi route tests next",
@@ -217,7 +261,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:59.536897"
+    "date": "2026-07-26 16:14:51.522130"
   },
   {
     "title_en": "‘No law bars eating chicken over Ganga’: SC judge flags delayed bail at NLIU lecture",
@@ -228,7 +272,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:11:59.821397"
+    "date": "2026-07-26 16:14:51.750101"
   },
   {
     "title_en": "'This is a new subject for me': Pralhad Joshi after taking charge as education minister",
@@ -239,7 +283,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:00.039650"
+    "date": "2026-07-26 16:14:51.962425"
   },
   {
     "title_en": "Romania shoots down third suspected Russian drone in three days, summons Moscow's envoy",
@@ -250,7 +294,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:00.320380"
+    "date": "2026-07-26 16:14:52.197675"
   },
   {
     "title_en": "'Misleading': MEA fact-checks viral claim on spokesperson Jaiswal's CJP protest remarks",
@@ -261,7 +305,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:00.510478"
+    "date": "2026-07-26 16:14:52.398926"
   },
   {
     "title_en": "Can China’s electric rocket launcher make Musk’s chemical rockets obsolete?",
@@ -272,7 +316,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:00.687094"
+    "date": "2026-07-26 16:14:52.597284"
   },
   {
     "title_en": "Chanambam Rishikanta Singh wins silver in weightlifting, sets CWG record",
@@ -283,7 +327,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:00.941980"
+    "date": "2026-07-26 16:14:52.812688"
   },
   {
     "title_en": "'Don't cry later': Owaisi makes alliance offer to Akhilesh to oust BJP in UP polls",
@@ -294,7 +338,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:01.169853"
+    "date": "2026-07-26 16:14:53.025451"
   },
   {
     "title_en": "Why is Prince Yadav not playing 3rd T20I vs Zimbabwe? BCCI reveals reason",
@@ -305,7 +349,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:01.382406"
+    "date": "2026-07-26 16:14:53.225441"
   },
   {
     "title_en": "Baby crib sent flying, 800k flee: Typhoon Noul hits China, 10 dead; scary visuals emerge",
@@ -316,7 +360,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:01.625886"
+    "date": "2026-07-26 16:14:53.435047"
   },
   {
     "title_en": "R Madhavan praises Amitabh Bachchan's age-appropriate roles",
@@ -327,7 +371,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:01.805801"
+    "date": "2026-07-26 16:14:53.788114"
   },
   {
     "title_en": "'Politics has become corrupted': Siddaramaiah says won't contest 2028 Karnataka polls",
@@ -338,7 +382,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:01.998607"
+    "date": "2026-07-26 16:14:53.992735"
   },
   {
     "title_en": "Housing society fines: Who pays when the flat is rented — owner or tenant?",
@@ -349,7 +393,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:02.201303"
+    "date": "2026-07-26 16:14:54.238974"
   },
   {
     "title_en": "IPO rush ahead: Zepto, Shiprocket and 12 more firms to hit primary market",
@@ -360,7 +404,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:02.377172"
+    "date": "2026-07-26 16:14:54.461207"
   },
   {
     "title_en": "The Taliban's Trojan horse: What really happened after Afghanistan's opium ban",
@@ -371,7 +415,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:02.456164"
+    "date": "2026-07-26 16:14:54.568643"
   },
   {
     "title_en": "Pradhan offered to quit on 1st day of student protest? BJP leader's big claim",
@@ -382,7 +426,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:02.660627"
+    "date": "2026-07-26 16:14:54.771905"
   },
   {
     "title_en": "Can the government take control of foreign-funded assets? FCRA Bill explained",
@@ -393,7 +437,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:02.895852"
+    "date": "2026-07-26 16:14:54.993059"
   },
   {
     "title_en": "Putin preparing to send more Russians to war': Zelenskyy claims losses now exceed recruitment",
@@ -404,7 +448,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:03.098825"
+    "date": "2026-07-26 16:14:55.211207"
   },
   {
     "title_en": "Jana Nayagan box office crosses Rs 100 crore, earns Rs 14.86 crore on day 4",
@@ -415,7 +459,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:03.316662"
+    "date": "2026-07-26 16:14:55.398673"
   },
   {
     "title_en": "'52 tonnes waste cleared': NDMC races to restore Jantar Mantar after CJP protest",
@@ -426,7 +470,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:03.930190"
+    "date": "2026-07-26 16:14:55.619393"
   },
   {
     "title_en": "Watch: Wildfires rage across France, Spain as thousands flee, national emergency declared",
@@ -437,7 +481,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:04.032087"
+    "date": "2026-07-26 16:14:55.740103"
   },
   {
     "title_en": "4 killed, several injured in massive explosion at Assam rod manufacturing unit",
@@ -448,194 +492,128 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:04.362904"
+    "date": "2026-07-26 16:14:55.953046"
   },
   {
-    "title_en": "'Highly volatile': India issues Black Sea advisory after strike in Ukraine's Odesa",
-    "title_kn": "'ಅತ್ಯಂತ ಬಾಷ್ಪಶೀಲ': ಉಕ್ರೇನ್‌ನ ಒಡೆಸಾದಲ್ಲಿ ಮುಷ್ಕರದ ನಂತರ ಭಾರತ ಕಪ್ಪು ಸಮುದ್ರದ ಸಲಹೆಯನ್ನು ನೀಡುತ್ತದೆ",
+    "title_en": "Govt firm on 50% merit quota for Pharm D admissions: Minister",
+    "title_kn": "ಫಾರ್ಮ್ ಡಿ ಪ್ರವೇಶಕ್ಕೆ 50% ಮೆರಿಟ್ ಕೋಟಾದಲ್ಲಿ ಸರ್ಕಾರಿ ಸಂಸ್ಥೆ: ಸಚಿವ",
+    "description_en": "Challenging the government’s decision, the Kerala State Self Financing Pharmacy College Management Association has approached the High Court, seeking permission to continue admissions to all Pharm D seats independently",
+    "description_kn": "ಸರ್ಕಾರದ ನಿರ್ಧಾರವನ್ನು ಪ್ರಶ್ನಿಸಿ, ಕೇರಳ ರಾಜ್ಯ ಸೆಲ್ಫ್ ಫೈನಾನ್ಸಿಂಗ್ ಫಾರ್ಮಸಿ ಕಾಲೇಜ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ ಅಸೋಸಿಯೇಷನ್ ​​ಉಚ್ಚ ನ್ಯಾಯಾಲಯದ ಮೊರೆ ಹೋಗಿದ್ದು, ಎಲ್ಲಾ ಫಾರ್ಮ್ ಡಿ ಸೀಟುಗಳಿಗೆ ಸ್ವತಂತ್ರವಾಗಿ ಪ್ರವೇಶವನ್ನು ಮುಂದುವರಿಸಲು ಅನುಮತಿ ಕೋರಿದೆ.",
+    "link": "https://www.thehindu.com/news/national/kerala/govt-firm-on-50-merit-quota-for-pharm-d-admissions-minister/article71269996.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:56.922234"
+  },
+  {
+    "title_en": "Server issues, shortage of meter readers delay Gruha Jyothi verification",
+    "title_kn": "ಸರ್ವರ್ ಸಮಸ್ಯೆ, ಮೀಟರ್ ರೀಡರ್ ಕೊರತೆಯಿಂದ ಗೃಹ ಜ್ಯೋತಿ ಪರಿಶೀಲನೆ ವಿಳಂಬವಾಗಿದೆ",
     "description_en": "",
     "description_kn": "",
-    "link": "https://timesofindia.indiatimes.com/india/india-issues-black-sea-advisory-after-strike-in-ukraines-odesa-calls-maritime-corridor-highly-volatile/articleshow/132637983.cms",
+    "link": "https://www.thehindu.com/news/national/karnataka/server-issues-shortage-of-meter-readers-delays-gruha-jyothi-verification/article71269303.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:04.451809"
+    "date": "2026-07-26 16:14:57.807448"
   },
   {
-    "title_en": "India Test squad hit by injury crisis ahead of Sri Lanka tour; Bumrah, Sundar face fitness race",
-    "title_kn": "ಶ್ರೀಲಂಕಾ ಪ್ರವಾಸದ ಮೊದಲು ಗಾಯದ ಬಿಕ್ಕಟ್ಟಿನಿಂದ ಬಳಲುತ್ತಿರುವ ಭಾರತ ಟೆಸ್ಟ್ ತಂಡ; ಬುಮ್ರಾ, ಸುಂದರ್ ಫಿಟ್‌ನೆಸ್ ರೇಸ್ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ",
-    "description_en": "Several key Indian players face fitness issues ahead of the Sri Lanka Test tour.  Washington Sundar and Jasprit Bumrah are among those with injury concerns.  Sai Sudharsan is also likely to be picked subject to his recovery.  Harshit Rana and Nitish Kumar Reddy are unavailable due to unhealed injuries.  The team's fitness levels are a concern for future tournaments.",
-    "description_kn": "ಶ್ರೀಲಂಕಾ ಟೆಸ್ಟ್ ಪ್ರವಾಸದ ಮೊದಲು ಹಲವಾರು ಪ್ರಮುಖ ಭಾರತೀಯ ಆಟಗಾರರು ಫಿಟ್‌ನೆಸ್ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ.  ವಾಷಿಂಗ್ಟನ್ ಸುಂದರ್ ಮತ್ತು ಜಸ್ಪ್ರೀತ್ ಬುಮ್ರಾ ಗಾಯದ ಆತಂಕದಲ್ಲಿರುವವರಲ್ಲಿ ಸೇರಿದ್ದಾರೆ.  ಸಾಯಿ ಸುದರ್ಶನ್ ಅವರ ಚೇತರಿಕೆಯ ವಿಷಯವಾಗಿ ಆಯ್ಕೆಯಾಗುವ ಸಾಧ್ಯತೆಯಿದೆ.  ವಾಸಿಯಾಗದ ಕಾರಣ ಹರ್ಷಿತ್ ರಾಣಾ ಮತ್ತು ನಿತೀಶ್ ಕುಮಾರ್ ರೆಡ್ಡಿ ಅಲಭ್ಯರಾಗಿದ್ದಾರೆ.  ತಂಡದ ಫಿಟ್ನೆಸ್ ಮಟ್ಟಗಳು ಭವಿಷ್ಯದ ಪಂದ್ಯಾವಳಿಗಳಿಗೆ ಕಳವಳಕಾರಿಯಾಗಿದೆ.",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-test-squad-hit-by-injury-crisis-ahead-of-sri-lanka-tour-bumrah-sundar-face-fitness-race/articleshow/132639090.cms",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:04.731481"
-  },
-  {
-    "title_en": "Open drain, broken barriers: Hazards on Delhi stretch where 20-yr-old, US student died",
-    "title_kn": "ತೆರೆದ ಚರಂಡಿ, ಒಡೆದ ತಡೆಗೋಡೆಗಳು: ದೆಹಲಿಯಲ್ಲಿ ಅಪಾಯಗಳು ಸಂಭವಿಸಿ 20 ವರ್ಷದ ಅಮೆರಿಕ ವಿದ್ಯಾರ್ಥಿ ಸಾವು",
-    "description_en": "A 20-year-old student died after his car skidded and plunged into an open drain. The drain remained largely uncovered and lacked adequate safety barriers for public protection. Locals blamed civic authorities for alleged apathy and repeated unaddressed complaints about the hazard. The Delhi Development Authority stated a proposal for a box drain was under process. Traffic police deemed speed breakers unfeasible for accident prevention on Nangal Dewat Road.",
-    "description_kn": "ಕಾರು ಸ್ಕಿಡ್ ಆಗಿ ತೆರೆದ ಚರಂಡಿಗೆ ಉರುಳಿ 20 ವರ್ಷದ ವಿದ್ಯಾರ್ಥಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾನೆ. ಚರಂಡಿಯು ಬಹುಮಟ್ಟಿಗೆ ಮುಚ್ಚಲ್ಪಟ್ಟಿಲ್ಲ ಮತ್ತು ಸಾರ್ವಜನಿಕ ರಕ್ಷಣೆಗಾಗಿ ಸಾಕಷ್ಟು ಸುರಕ್ಷತಾ ತಡೆಗೋಡೆಗಳನ್ನು ಹೊಂದಿಲ್ಲ. ನಾಗರಿಕ ಅಧಿಕಾರಿಗಳು ನಿರಾಸಕ್ತಿ ಮತ್ತು ಅಪಾಯದ ಬಗ್ಗೆ ಪದೇ ಪದೇ ತಿಳಿಸದ ದೂರುಗಳಿಗೆ ಸ್ಥಳೀಯರು ಆರೋಪಿಸಿದರು. ದೆಹಲಿ ಅಭಿವೃದ್ಧಿ ಪ್ರಾಧಿಕಾರವು ಬಾಕ್ಸ್ ಡ್ರೈನ್ ಪ್ರಸ್ತಾವನೆಯು ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿದೆ ಎಂದು ಹೇಳಿದೆ. ನಂಗಲ್ ದೇವತ್ ರಸ್ತೆಯಲ್ಲಿ ಅಪಘಾತ ತಡೆಗೆ ಸ್ಪೀಡ್ ಬ್ರೇಕರ್‌ಗಳು ಕಾರ್ಯಸಾಧುವಲ್ಲ ಎಂದು ಸಂಚಾರ ಪೊಲೀಸರು ಅಭಿಪ್ರಾಯಪಟ್ಟಿದ್ದಾರೆ.",
-    "link": "https://timesofindia.indiatimes.com/city/delhi/open-drain-broken-barriers-hazards-on-delhi-stretch-where-20-year-old-us-student-died/articleshow/132637543.cms",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:05.049261"
-  },
-  {
-    "title_en": "Student housing made easier: How MP's Aawaas Sahayata Scheme supports tribal youth",
-    "title_kn": "ವಿದ್ಯಾರ್ಥಿ ವಸತಿಯನ್ನು ಸುಲಭಗೊಳಿಸಲಾಗಿದೆ: ಸಂಸದರ ಆವಾಸ್ ಸಹಾಯತಾ ಯೋಜನೆಯು ಬುಡಕಟ್ಟು ಯುವಕರನ್ನು ಹೇಗೆ ಬೆಂಬಲಿಸುತ್ತದೆ",
-    "description_en": "The Aawaas Sahayata scheme significantly benefits Scheduled Tribe students in Madhya Pradesh by providing essential support for their higher education outside their hometowns. To qualify, students must not have access to government hostel facilities. The application process is streamlined online via the MPTAAS portal, ensuring ease of access. Important documentation required includes an Aadhaar card, domicile certificate, and caste certificate for proper verification.",
-    "description_kn": "ಆವಾಸ್ ಸಹಾಯತಾ ಯೋಜನೆಯು ಮಧ್ಯಪ್ರದೇಶದ ಪರಿಶಿಷ್ಟ ಪಂಗಡದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ತಮ್ಮ ಊರಿನ ಹೊರಗೆ ಅವರ ಉನ್ನತ ಶಿಕ್ಷಣಕ್ಕೆ ಅಗತ್ಯವಾದ ಬೆಂಬಲವನ್ನು ನೀಡುವ ಮೂಲಕ ಗಣನೀಯವಾಗಿ ಪ್ರಯೋಜನ ಪಡೆಯುತ್ತದೆ. ಅರ್ಹತೆ ಪಡೆಯಲು, ವಿದ್ಯಾರ್ಥಿಗಳು ಸರ್ಕಾರಿ ಹಾಸ್ಟೆಲ್ ಸೌಲಭ್ಯಗಳಿಗೆ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿರಬಾರದು. ಅಪ್ಲಿಕೇಶನ್ ಪ್ರಕ್ರಿಯೆಯನ್ನು MPTAAS ಪೋರ್ಟಲ್ ಮೂಲಕ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಸುವ್ಯವಸ್ಥಿತಗೊಳಿಸಲಾಗಿದೆ, ಪ್ರವೇಶದ ಸುಲಭತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ. ಸರಿಯಾದ ಪರಿಶೀಲನೆಗಾಗಿ ಆಧಾರ್ ಕಾರ್ಡ್, ವಾಸಸ್ಥಳ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಜಾತಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಒಳಗೊಂಡಿರುವ ಪ್ರಮುಖ ದಾಖಲೆಗಳು ಅಗತ್ಯವಿದೆ.",
-    "link": "https://timesofindia.indiatimes.com/real-estate/student-housing-made-easier-how-madhya-pradeshs-aawaas-sahayata-scheme-supports-tribal-youth/articleshow/132639102.cms",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:05.222943"
-  },
-  {
-    "title_en": "Madhya Pradesh content creator booked over ‘highly abusive’ reel against Pradhan",
-    "title_kn": "ಮಧ್ಯಪ್ರದೇಶದ ಕಂಟೆಂಟ್ ಕ್ರಿಯೇಟರ್ ಪ್ರಧಾನ್ ವಿರುದ್ಧ 'ಅತ್ಯಂತ ನಿಂದನೀಯ' ರೀಲ್ ಅನ್ನು ಬುಕ್ ಮಾಡಿದ್ದಾರೆ",
-    "description_en": "Yashpal Soni, a local social media influencer, was booked on July 23 over an Instagram reel he had posted and has been questioned in the matter",
-    "description_kn": "ಸ್ಥಳೀಯ ಸೋಷಿಯಲ್ ಮೀಡಿಯಾ ಪ್ರಭಾವಿ ಯಶ್ಪಾಲ್ ಸೋನಿ ಅವರು ಪೋಸ್ಟ್ ಮಾಡಿದ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ರೀಲ್‌ನ ಮೇಲೆ ಜುಲೈ 23 ರಂದು ಪ್ರಕರಣ ದಾಖಲಿಸಲಾಗಿದೆ ಮತ್ತು ಈ ವಿಷಯದಲ್ಲಿ ಪ್ರಶ್ನಿಸಲಾಗಿದೆ.",
-    "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-content-creator-booked-over-highly-abusive-reel-against-pradhan/article71269701.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:06.454855"
-  },
-  {
-    "title_en": "Telangana sanctions ₹2,278 crore for Adilabad joint-use airport project, 2009 acres of land acquisition by December",
-    "title_kn": "ತೆಲಂಗಾಣ ಅದಿಲಾಬಾದ್ ಜಂಟಿ ಬಳಕೆಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಯೋಜನೆಗೆ ₹2,278 ಕೋಟಿ ಮಂಜೂರು ಮಾಡಿದೆ, ಡಿಸೆಂಬರ್ ವೇಳೆಗೆ 2009 ಎಕರೆ ಭೂಸ್ವಾಧೀನ",
+    "title_en": "Inter-district vehicle-lifting gang busted; 10 arrested",
+    "title_kn": "ಅಂತರ ಜಿಲ್ಲಾ ವಾಹನ ಎತ್ತುವಳಿ ದಂಧೆ ಪತ್ತೆ; 10 ಮಂದಿಯನ್ನು ಬಂಧಿಸಿದ್ದಾರೆ",
     "description_en": "",
     "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-sanctions-2278-crore-for-adilabad-joint-use-airport-project-2009-acres-of-land-acquisition-by-december/article71269830.ece",
+    "link": "https://www.thehindu.com/news/national/telangana/inter-district-vehicle-lifting-gang-busted-10-arrested/article71269492.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:06.550977"
+    "date": "2026-07-26 16:14:57.904893"
   },
   {
-    "title_en": "Govt. reduces fresh A-Khata charge from 5% to 2% till August 23",
-    "title_kn": "ಸರಕಾರ ಆಗಸ್ಟ್ 23 ರವರೆಗೆ ತಾಜಾ ಎ-ಖಾಟಾ ಶುಲ್ಕವನ್ನು 5% ರಿಂದ 2% ಕ್ಕೆ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ",
+    "title_en": "PM Modi announces high-powered task force to make exams leak-proof",
+    "title_kn": "ಪರೀಕ್ಷೆಗಳು ಸೋರಿಕೆಯಾಗದಂತೆ ಮಾಡಲು ಉನ್ನತ ಶಕ್ತಿಯ ಕಾರ್ಯಪಡೆಯನ್ನು ಪ್ರಧಾನಿ ಮೋದಿ ಘೋಷಿಸಿದ್ದಾರೆ",
+    "description_en": "New Union Education Minister Pralhad Joshi takes charge on July 26",
+    "description_kn": "ಕೇಂದ್ರದ ನೂತನ ಶಿಕ್ಷಣ ಸಚಿವ ಪ್ರಲ್ಹಾದ್ ಜೋಶಿ ಜುಲೈ 26 ರಂದು ಅಧಿಕಾರ ಸ್ವೀಕರಿಸಲಿದ್ದಾರೆ",
+    "link": "https://www.thehindu.com/news/national/pm-modi-announces-task-force-for-exam-reforms-nandan-nilekani-to-lead/article71269731.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:58.958727"
+  },
+  {
+    "title_en": "Plea in Madras HC seeks constitution of expert committee over evaluation of Assistant Professor aspirants’ exam papers",
+    "title_kn": "ಅಸಿಸ್ಟೆಂಟ್ ಪ್ರೊಫೆಸರ್ ಆಕಾಂಕ್ಷಿಗಳ ಪರೀಕ್ಷಾ ಪತ್ರಿಕೆಗಳ ಮೌಲ್ಯಮಾಪನಕ್ಕೆ ತಜ್ಞರ ಸಮಿತಿಯನ್ನು ರಚಿಸುವಂತೆ ಮದ್ರಾಸ್ ಹೈಕೋರ್ಟ್‌ನಲ್ಲಿ ಮನವಿ",
+    "description_en": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan would be hearing on Monday the case filed by Karu Nagarajan of ‘We The Leaders’ movement",
+    "description_kn": "‘ವಿ ದಿ ಲೀಡರ್ಸ್’ ಆಂದೋಲನದ ಕರು ನಾಗರಾಜನ್ ಅವರು ಸಲ್ಲಿಸಿರುವ ಪ್ರಕರಣದ ವಿಚಾರಣೆಯನ್ನು ಮುಖ್ಯ ನ್ಯಾಯಮೂರ್ತಿ ಸುಶ್ರುತ್ ಅರವಿಂದ್ ಧರ್ಮಾಧಿಕಾರಿ ಮತ್ತು ನ್ಯಾಯಮೂರ್ತಿ ಜಿ.ಅರುಳ್ ಮುರುಗನ್ ಸೋಮವಾರ ನಡೆಸಲಿದ್ದಾರೆ.",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/plea-in-madras-hc-seeks-constitution-of-expert-committee-over-evaluation-of-assistant-professor-aspirants-exam-papers/article71268558.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:14:59.167545"
+  },
+  {
+    "title_en": "Former Narsampet MLA Peddi Sudarshan Reddy shifted to Yashoda Hospital after cardiac arrest",
+    "title_kn": "ನರಸಂಪೇಟೆ ಮಾಜಿ ಶಾಸಕ ಪೆದ್ದಿ ಸುದರ್ಶನ್ ರೆಡ್ಡಿ ಹೃದಯಾಘಾತದ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಯಶೋದಾ ಆಸ್ಪತ್ರೆಗೆ ತೆರಳಿದ್ದಾರೆ",
     "description_en": "",
     "description_kn": "",
-    "link": "https://www.thehindu.com/news/cities/bangalore/govt-reduces-fresh-a-khata-charge-from-5-to-2-till-august-23/article71269606.ece",
+    "link": "https://www.thehindu.com/news/national/telangana/former-narsampet-mla-peddi-sudarshan-reddy-critical-after-heart-attack/article71268672.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:06.717551"
+    "date": "2026-07-26 16:14:59.644294"
   },
   {
-    "title_en": "Ivory missing from eight dead wild elephants of Malayattoor, Vazhachal forests of Kerala",
-    "title_kn": "ಕೇರಳದ ಮಲಯತ್ತೂರು, ವಜಚಲ್ ಅರಣ್ಯದ ಎಂಟು ಸತ್ತ ಕಾಡಾನೆಗಳಿಂದ ದಂತ ಕಾಣೆಯಾಗಿದೆ",
-    "description_en": "However, the SIT ruled out any possibility of any “deliberate or accidental human-caused mortality”, namely poaching, poisoning, weapon injuries, or anthropogenic interference in the elephant deaths.",
-    "description_kn": "ಆದಾಗ್ಯೂ, ಯಾವುದೇ \"ಉದ್ದೇಶಪೂರ್ವಕ ಅಥವಾ ಆಕಸ್ಮಿಕವಾಗಿ ಮಾನವ-ಉಂಟುಮಾಡುವ ಮರಣ\", ಅಂದರೆ ಬೇಟೆಯಾಡುವುದು, ವಿಷಪ್ರಾಶನ, ಶಸ್ತ್ರಾಸ್ತ್ರ ಗಾಯಗಳು ಅಥವಾ ಆನೆಗಳ ಸಾವಿನಲ್ಲಿ ಮಾನವಜನ್ಯ ಹಸ್ತಕ್ಷೇಪದ ಯಾವುದೇ ಸಾಧ್ಯತೆಯನ್ನು SIT ತಳ್ಳಿಹಾಕಿದೆ.",
-    "link": "https://www.thehindu.com/news/national/kerala/ivory-and-tush-missing-from-eight-dead-wild-elephants-of-malayattoor-vazhachal-forests-of-kerala/article71268949.ece",
+    "title_en": "Giri Pradakshina: Ten years of oil, for the feet that walk the Simhachalam hill",
+    "title_kn": "ಗಿರಿ ಪ್ರದಕ್ಷಿಣೆ: ಸಿಂಹಾಚಲ ಬೆಟ್ಟದಲ್ಲಿ ನಡೆಯುವ ಪಾದಗಳಿಗೆ ಹತ್ತು ವರ್ಷ ಎಣ್ಣೆ",
+    "description_en": "Shri Satya Sai Baba devotees boil sesame oil with black pepper, garlic, vetiver roots, camphor and ajwain, a service they have offered for ten years to those walking the 32-km route",
+    "description_kn": "ಶ್ರೀ ಸತ್ಯ ಸಾಯಿಬಾಬಾ ಭಕ್ತರು ಕರಿಮೆಣಸು, ಬೆಳ್ಳುಳ್ಳಿ, ವೆಟಿವರ್ ಬೇರುಗಳು, ಕರ್ಪೂರ ಮತ್ತು ಅಜವೈನ್ಗಳೊಂದಿಗೆ ಎಳ್ಳು ಎಣ್ಣೆಯನ್ನು ಕುದಿಸುತ್ತಾರೆ, ಅವರು 32 ಕಿಮೀ ಮಾರ್ಗದಲ್ಲಿ ನಡೆಯುವವರಿಗೆ ಹತ್ತು ವರ್ಷಗಳಿಂದ ಸೇವೆಯನ್ನು ನೀಡುತ್ತಾರೆ.",
+    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/giri-pradakshina-ten-years-of-oil-for-the-feet-that-walk-the-simhachalam-hill/article71269017.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:07.297952"
+    "date": "2026-07-26 16:15:00.780557"
   },
   {
-    "title_en": "BJP forced Pradhan to resign as Gen Z targeted Modi’s resignation: Revanth",
-    "title_kn": "ಮೋದಿ ರಾಜೀನಾಮೆಯನ್ನು ಗುರಿಯಾಗಿಟ್ಟುಕೊಂಡು ಜನರಲ್ ಝೆಡ್ ರಾಜೀನಾಮೆಗೆ ಬಿಜೆಪಿ ಒತ್ತಾಯಿಸಿತು: ರೇವಂತ್",
+    "title_en": "‘Telugu Mahotsavam’ to be annual  event, says Minister Kandula Durgesh",
+    "title_kn": "'ತೆಲುಗು ಮಹೋತ್ಸವ' ವಾರ್ಷಿಕ ಕಾರ್ಯಕ್ರಮವಾಗಲಿದೆ ಎಂದು ಸಚಿವ ಕಂದುಲ ದುರ್ಗೇಶ್ ತಿಳಿಸಿದ್ದಾರೆ",
     "description_en": "",
     "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/telangana/bjp-forced-pradhan-to-resign-as-gen-z-targeted-modis-resignation-revanth/article71269720.ece",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/telugu-mahotsavam-to-be-annual-event-says-minister-kandula-durgesh/article71269886.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:07.622674"
+    "date": "2026-07-26 16:15:02.220787"
   },
   {
-    "title_en": "Hyderabad Police warn of cyber fraud in name of Indiramma housing scheme",
-    "title_kn": "ಇಂದಿರಮ್ಮ ವಸತಿ ಯೋಜನೆ ಹೆಸರಿನಲ್ಲಿ ಸೈಬರ್ ವಂಚನೆ: ಹೈದರಾಬಾದ್ ಪೊಲೀಸರು ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದಾರೆ",
+    "title_en": "Monsoon Session of Karnataka Legislature to begin on August 13",
+    "title_kn": "ಕರ್ನಾಟಕ ವಿಧಾನಮಂಡಲದ ಮುಂಗಾರು ಅಧಿವೇಶನ ಆಗಸ್ಟ್ 13 ರಂದು ಆರಂಭವಾಗಲಿದೆ",
     "description_en": "",
     "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-warn-of-cyber-fraud-in-name-of-indiramma-housing-scheme/article71269615.ece",
+    "link": "https://www.thehindu.com/news/national/karnataka/monsoon-session-of-karnataka-legislature-to-begin-on-august-13/article71270147.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:07.736688"
+    "date": "2026-07-26 16:15:02.315252"
   },
   {
-    "title_en": "Kollam District Development Committee in Kerala urges speedy execution of projects",
-    "title_kn": "ಕೇರಳದ ಕೊಲ್ಲಂ ಜಿಲ್ಲಾ ಅಭಿವೃದ್ಧಿ ಸಮಿತಿಯು ಯೋಜನೆಗಳನ್ನು ತ್ವರಿತವಾಗಿ ಕಾರ್ಯಗತಗೊಳಿಸಲು ಒತ್ತಾಯಿಸುತ್ತದೆ",
+    "title_en": "Revanth to speak to Rahul Gandhi on opening Parliament, Assembly doors for Gen Z",
+    "title_kn": "ಜನರಲ್ ಝಡ್ ಗೆ ಸಂಸತ್ತು, ವಿಧಾನಸಭೆ ಬಾಗಿಲು ತೆರೆಯುವ ಕುರಿತು ರಾಹುಲ್ ಗಾಂಧಿ ಜತೆ ಮಾತನಾಡಲಿರುವ ರೇವಂತ್",
     "description_en": "",
     "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/kerala/kollam-district-development-committee-in-kerala-urges-speedy-execution-of-projects/article71269632.ece",
+    "link": "https://www.thehindu.com/news/national/telangana/revanth-to-speak-to-rahul-gandhi-on-opening-parliament-assembly-doors-for-gen-z/article71270049.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:07.844169"
+    "date": "2026-07-26 16:15:02.413860"
   },
   {
-    "title_en": "Pradhan had offered to quit at start of protest, was asked to wait, claims Vijayvargiya",
-    "title_kn": "ಪ್ರತಿಭಟನೆಯ ಪ್ರಾರಂಭದಲ್ಲಿ ಪ್ರಧಾನ್ ಅವರು ತೊರೆಯಲು ಮುಂದಾದರು, ಕಾಯಲು ಕೇಳಲಾಯಿತು ಎಂದು ವಿಜಯವರ್ಗಿಯಾ ಹೇಳುತ್ತಾರೆ",
-    "description_en": "Says Dharmendra Pradhan’s resignation foiled plans of foreign forces that wanted to create unrest in India",
-    "description_kn": "ಧರ್ಮೇಂದ್ರ ಪ್ರಧಾನ್ ಅವರ ರಾಜೀನಾಮೆಯು ಭಾರತದಲ್ಲಿ ಅಶಾಂತಿಯನ್ನು ಸೃಷ್ಟಿಸಲು ಬಯಸಿದ ವಿದೇಶಿ ಶಕ್ತಿಗಳ ಯೋಜನೆಗಳನ್ನು ವಿಫಲಗೊಳಿಸಿದೆ ಎಂದು ಹೇಳುತ್ತಾರೆ",
-    "link": "https://www.thehindu.com/news/national/pradhan-offered-to-quit-on-first-day-of-student-agitation-bjp-leader-vijayvargiya/article71268701.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:09.340363"
-  },
-  {
-    "title_en": "‘We did not want to give up’: Doctor recalls 30-minute CPR that revived former BRS MLA Peddi Sudarshan Reddy",
-    "title_kn": "‘ನಾವು ಬಿಟ್ಟುಕೊಡಲು ಬಯಸಲಿಲ್ಲ’: ಮಾಜಿ ಬಿಆರ್‌ಎಸ್ ಶಾಸಕ ಪೆದ್ದಿ ಸುದರ್ಶನ್ ರೆಡ್ಡಿಗೆ ಪುನಶ್ಚೇತನ ನೀಡಿದ 30 ನಿಮಿಷಗಳ ಸಿಪಿಆರ್ ಅನ್ನು ವೈದ್ಯರು ನೆನಪಿಸಿಕೊಂಡರು",
+    "title_en": "APSRTC employees to submit memorandums on July 27 against private e-bus policy",
+    "title_kn": "ಖಾಸಗಿ ಇ-ಬಸ್ ನೀತಿಯ ವಿರುದ್ಧ APSRTC ನೌಕರರು ಜುಲೈ 27 ರಂದು ಮೆಮೊರಾಂಡಮ್‌ಗಳನ್ನು ಸಲ್ಲಿಸುತ್ತಾರೆ",
     "description_en": "",
     "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/telangana/we-did-not-want-to-give-up-doctor-recalls-30-minute-cpr-that-revived-former-brs-mla-peddi-sudarshan-reddy/article71269670.ece",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-employees-to-submit-memorandums-on-july-27-against-private-e-bus-policy/article71270009.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:09.447536"
-  },
-  {
-    "title_en": "FIR in alleged KPSC scam: OMR answer sheet tampering, nepotism, question paper leak, corruption alleged",
-    "title_kn": "ಕೆಪಿಎಸ್‌ಸಿ ಹಗರಣದಲ್ಲಿ ಎಫ್‌ಐಆರ್: ಒಎಂಆರ್ ಉತ್ತರ ಪತ್ರಿಕೆ ತಿದ್ದುವಿಕೆ, ಸ್ವಜನಪಕ್ಷಪಾತ, ಪ್ರಶ್ನೆ ಪತ್ರಿಕೆ ಸೋರಿಕೆ, ಭ್ರಷ್ಟಾಚಾರ ಆರೋಪ",
-    "description_en": "The Vidhana Soudha Police have registered an FIR in connection with alleged irregularities in the Karnataka Public Service Commission’s recruitment process for 400 veterinary officers",
-    "description_kn": "ಕರ್ನಾಟಕ ಲೋಕಸೇವಾ ಆಯೋಗದ 400 ಪಶುವೈದ್ಯಾಧಿಕಾರಿಗಳ ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ನಡೆದಿರುವ ಅಕ್ರಮಗಳ ಆರೋಪದ ಮೇಲೆ ವಿಧಾನಸೌಧ ಪೊಲೀಸರು ಎಫ್‌ಐಆರ್ ದಾಖಲಿಸಿದ್ದಾರೆ.",
-    "link": "https://www.thehindu.com/news/cities/bangalore/fir-in-alleged-kpsc-scam-omr-answer-sheet-tampering-nepotism-question-paper-leak-corruption-alleged/article71269205.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:10.380779"
-  },
-  {
-    "title_en": "31 arrested, 97 wanted persons detained in massive Thiruvananthapuram Rural Police crackdown",
-    "title_kn": "ತಿರುವನಂತಪುರಂ ಗ್ರಾಮಾಂತರ ಪೊಲೀಸ್‌ ಕಾರ್ಯಾಚರಣೆಯಲ್ಲಿ 31 ಮಂದಿ ಬಂಧನ, 97 ವಾಂಟೆಡ್‌ ವ್ಯಕ್ತಿಗಳನ್ನು ಬಂಧಿಸಲಾಗಿದೆ",
-    "description_en": "The operation, spearheaded by District Police Chief (Thiruvananthapuram Rural) Prasanthan Kani, resulted in multiple cases getting registered against those involved in the sale of prohibited tobacco products",
-    "description_kn": "ಜಿಲ್ಲಾ ಪೊಲೀಸ್ ಮುಖ್ಯಸ್ಥ (ತಿರುವನಂತಪುರಂ ಗ್ರಾಮಾಂತರ) ಪ್ರಶಾಂತನ್ ಕಣಿ ನೇತೃತ್ವದಲ್ಲಿ ನಡೆದ ಕಾರ್ಯಾಚರಣೆಯಲ್ಲಿ ನಿಷೇಧಿತ ತಂಬಾಕು ಉತ್ಪನ್ನಗಳ ಮಾರಾಟದಲ್ಲಿ ಭಾಗಿಯಾಗಿರುವವರ ವಿರುದ್ಧ ಹಲವು ಪ್ರಕರಣಗಳು ದಾಖಲಾಗಿವೆ.",
-    "link": "https://www.thehindu.com/news/national/kerala/31-arrested-97-wanted-persons-detained-in-massive-thiruvananthapuram-rural-police-crackdown/article71269646.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:11.008741"
-  },
-  {
-    "title_en": "Four workers killed in cylinder blast at factory in Assam's Cachar",
-    "title_kn": "ಅಸ್ಸಾಂನ ಕ್ಯಾಚಾರ್‌ನಲ್ಲಿರುವ ಕಾರ್ಖಾನೆಯಲ್ಲಿ ಸಿಲಿಂಡರ್ ಸ್ಫೋಟಗೊಂಡು ನಾಲ್ವರು ಕಾರ್ಮಿಕರು ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ",
-    "description_en": "According to a preliminary investigation, the explosion was caused by an LPG cylinder engaged in casting work, the officer said",
-    "description_kn": "ಪ್ರಾಥಮಿಕ ತನಿಖೆಯ ಪ್ರಕಾರ, ಎರಕಹೊಯ್ದ ಕೆಲಸದಲ್ಲಿ ತೊಡಗಿದ್ದ ಎಲ್‌ಪಿಜಿ ಸಿಲಿಂಡರ್‌ನಿಂದ ಸ್ಫೋಟ ಸಂಭವಿಸಿದೆ ಎಂದು ಅಧಿಕಾರಿ ತಿಳಿಸಿದ್ದಾರೆ.",
-    "link": "https://www.thehindu.com/news/national/assam/assam-cachar-factory-cylinder-blast-updates-july-26-2026/article71269732.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:11.637278"
-  },
-  {
-    "title_en": "Forest department begins profiling straying elephants to tackle rising human-wildlife conflict in north Kerala",
-    "title_kn": "ಉತ್ತರ ಕೇರಳದಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಮಾನವ-ವನ್ಯಜೀವಿ ಸಂಘರ್ಷವನ್ನು ನಿಭಾಯಿಸಲು ಅರಣ್ಯ ಇಲಾಖೆಯು ದಾರಿ ತಪ್ಪಿದ ಆನೆಗಳ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದೆ",
-    "description_en": "Rapid Response Teams, field staff, and forest watchers are documenting elephants that repeatedly stray into human settlements through photographs, videos, and field reports, says Forest department official",
-    "description_kn": "ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆ ತಂಡಗಳು, ಕ್ಷೇತ್ರ ಸಿಬ್ಬಂದಿ ಮತ್ತು ಅರಣ್ಯ ವೀಕ್ಷಕರು ಛಾಯಾಚಿತ್ರಗಳು, ವೀಡಿಯೊಗಳು ಮತ್ತು ಕ್ಷೇತ್ರ ವರದಿಗಳ ಮೂಲಕ ಪದೇ ಪದೇ ಜನವಸತಿಗೆ ನುಗ್ಗುವ ಆನೆಗಳನ್ನು ದಾಖಲಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ಅರಣ್ಯ ಇಲಾಖೆ ಅಧಿಕಾರಿ ಹೇಳುತ್ತಾರೆ.",
-    "link": "https://www.thehindu.com/news/national/kerala/forest-department-begins-profiling-straying-elephants-to-tackle-rising-human-wildlife-conflict-in-north-kerala/article71268844.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:12.149890"
+    "date": "2026-07-26 16:15:02.517875"
   },
   {
     "title_en": "Police arrest railway loco pilot for murder of elderly woman in Tirupati",
@@ -646,117 +624,161 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:12.334587"
+    "date": "2026-07-26 16:15:02.727588"
   },
   {
-    "title_en": "Delay in FIR, medical aid alleged in pregnant minor’s POCSO case",
-    "title_kn": "ಎಫ್‌ಐಆರ್‌ನಲ್ಲಿ ವಿಳಂಬ, ಗರ್ಭಿಣಿ ಅಪ್ರಾಪ್ತ ಪೋಕ್ಸೋ ಪ್ರಕರಣದಲ್ಲಿ ವೈದ್ಯಕೀಯ ನೆರವು ಆರೋಪ",
-    "description_en": "Child rights organisations say procedural lapses could have affected the victim’s health; police say the alleged delay will be investigated",
-    "description_kn": "ಮಕ್ಕಳ ಹಕ್ಕುಗಳ ಸಂಘಟನೆಗಳು ಕಾರ್ಯವಿಧಾನದ ಲೋಪಗಳು ಬಲಿಪಶುವಿನ ಆರೋಗ್ಯದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು ಎಂದು ಹೇಳುತ್ತಾರೆ; ಆಪಾದಿತ ವಿಳಂಬದ ಬಗ್ಗೆ ತನಿಖೆ ನಡೆಸಲಾಗುವುದು ಎಂದು ಪೊಲೀಸರು ತಿಳಿಸಿದ್ದಾರೆ",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/delay-in-fir-medical-aid-alleged-in-pregnant-minors-pocso-case/article71269425.ece",
+    "title_en": "Did you authorise the use of lethal weapons against students, Rahul Gandhi asks Home Minister Amit Shah",
+    "title_kn": "ವಿದ್ಯಾರ್ಥಿಗಳ ಮೇಲೆ ಮಾರಕಾಸ್ತ್ರ ಪ್ರಯೋಗಿಸಲು ನೀವು ಅನುಮತಿ ನೀಡಿದ್ದೀರಾ ಎಂದು ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಅವರನ್ನು ರಾಹುಲ್ ಗಾಂಧಿ ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ",
+    "description_en": "Opposition parties are keen to corner the Modi government over ‘chadhawa chori’ and the impact of blending 20% ethanol in fuel",
+    "description_kn": "'ಚಡವಾ ಚೋರಿ' ಮತ್ತು ಇಂಧನದಲ್ಲಿ 20% ಎಥೆನಾಲ್ ಮಿಶ್ರಣದ ಪರಿಣಾಮದ ಮೇಲೆ ಮೋದಿ ಸರ್ಕಾರವನ್ನು ಮೂಲೆಗುಂಪು ಮಾಡಲು ವಿರೋಧ ಪಕ್ಷಗಳು ಉತ್ಸುಕವಾಗಿವೆ.",
+    "link": "https://www.thehindu.com/news/national/rahul-gandhi-writes-to-amit-shah-on-delhi-police-assault-on-students/article71268998.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:13.304198"
+    "date": "2026-07-26 16:15:02.940657"
   },
   {
-    "title_en": "TDP leader condemns YSRCP’s attempts to politicise Mega DSC drive",
-    "title_kn": "ಮೆಗಾ ಡಿಎಸ್ಸಿ ಡ್ರೈವ್ ಅನ್ನು ರಾಜಕೀಯಗೊಳಿಸುವ ವೈಎಸ್ಆರ್ಸಿಪಿಯ ಪ್ರಯತ್ನಗಳನ್ನು ಟಿಡಿಪಿ ನಾಯಕರು ಖಂಡಿಸಿದ್ದಾರೆ",
-    "description_en": "The High Court found no fault in the conduct of the examination, but the opposition party is making a slew of allegations, and provoking and emotionally blackmailing those who did not qualify, says TDP national spokesperson Neelayapalem Vijay Kumar",
-    "description_kn": "ಹೈಕೋರ್ಟ್ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಯಾವುದೇ ತಪ್ಪಿಲ್ಲ, ಆದರೆ ವಿರೋಧ ಪಕ್ಷವು ಹಲವಾರು ಆರೋಪಗಳನ್ನು ಮಾಡುತ್ತಿದೆ ಮತ್ತು ಅರ್ಹತೆ ಪಡೆಯದವರನ್ನು ಪ್ರಚೋದಿಸುತ್ತದೆ ಮತ್ತು ಭಾವನಾತ್ಮಕವಾಗಿ ಬ್ಲ್ಯಾಕ್ ಮೇಲ್ ಮಾಡುತ್ತಿದೆ ಎಂದು ಟಿಡಿಪಿ ರಾಷ್ಟ್ರೀಯ ವಕ್ತಾರ ನೀಲಯಪಾಲೆಂ ವಿಜಯ್ ಕುಮಾರ್ ಹೇಳಿದ್ದಾರೆ.",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-leader-condemns-ysrcps-attempts-to-politicise-mega-dsc-drive/article71269787.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:14.223676"
-  },
-  {
-    "title_en": "Mann ki Baat: India emerging as trusted global defence partner, says PM Modi",
-    "title_kn": "ಮನ್ ಕಿ ಬಾತ್: ಭಾರತ ವಿಶ್ವಾಸಾರ್ಹ ಜಾಗತಿಕ ರಕ್ಷಣಾ ಪಾಲುದಾರನಾಗಿ ಹೊರಹೊಮ್ಮುತ್ತಿದೆ ಎಂದು ಪ್ರಧಾನಿ ಮೋದಿ ಹೇಳಿದ್ದಾರೆ",
-    "description_en": "Prime Minister Narendra Modi says indigenous defence production, defence exports and strategic partnerships with friendly nations reflect the growing strength of an Atmanirbhar Bharat",
-    "description_kn": "ಸ್ವದೇಶಿ ರಕ್ಷಣಾ ಉತ್ಪಾದನೆ, ರಕ್ಷಣಾ ರಫ್ತು ಮತ್ತು ಸೌಹಾರ್ದ ರಾಷ್ಟ್ರಗಳೊಂದಿಗಿನ ಕಾರ್ಯತಂತ್ರದ ಸಹಭಾಗಿತ್ವವು ಆತ್ಮನಿರ್ಭರ ಭಾರತ್‌ನ ಬೆಳೆಯುತ್ತಿರುವ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ ಎಂದು ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿ ಹೇಳಿದ್ದಾರೆ.",
-    "link": "https://www.thehindu.com/news/national/mann-ki-baat-india-emerging-as-trusted-global-defence-partner-says-pm-modi/article71268787.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:15.034740"
-  },
-  {
-    "title_en": "Kerala Agricultural University launches entrepreneurship programme, releases startup grants",
-    "title_kn": "ಕೇರಳ ಕೃಷಿ ವಿಶ್ವವಿದ್ಯಾನಿಲಯವು ಉದ್ಯಮಶೀಲತಾ ಕಾರ್ಯಕ್ರಮವನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತದೆ, ಆರಂಭಿಕ ಅನುದಾನವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ",
-    "description_en": "Minister for Agriculture T. Siddique launches training programme for aspiring agripreneurs; first instalment of grant assistance under PM RKVY-RAFTAAR scheme released to 10 eligible startups",
-    "description_kn": "ಕೃಷಿ ಸಚಿವ ಟಿ. ಸಿದ್ದಿಕ್ ಅವರು ಮಹತ್ವಾಕಾಂಕ್ಷಿ ಕೃಷಿಕರಿಗೆ ತರಬೇತಿ ಕಾರ್ಯಕ್ರಮವನ್ನು ಪ್ರಾರಂಭಿಸಿದರು; PM RKVY-RAFTAAR ಯೋಜನೆಯಡಿ ಅನುದಾನದ ಮೊದಲ ಕಂತು 10 ಅರ್ಹ ಸ್ಟಾರ್ಟ್‌ಅಪ್‌ಗಳಿಗೆ ಬಿಡುಗಡೆ",
-    "link": "https://www.thehindu.com/news/national/kerala/kerala-agricultural-university-launches-entrepreneurship-programme-releases-startup-grants/article71269783.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:16.411003"
-  },
-  {
-    "title_en": "Former Shivamogga MLA passes away",
-    "title_kn": "Former Shivamogga MLA passes away",
+    "title_en": "Hyderabad’s Tank Bund gridlocked for hours amid CM's candlelight march, solidarity protest",
+    "title_kn": "ಸಿಎಂ ಕ್ಯಾಂಡಲ್ ಲೈಟ್ ಮೆರವಣಿಗೆ, ಒಗ್ಗಟ್ಟಿನ ಪ್ರತಿಭಟನೆಯ ನಡುವೆ ಹೈದರಾಬಾದ್‌ನ ಟ್ಯಾಂಕ್‌ಬಂಡ್‌ಗೆ ಗಂಟೆಗಳ ಕಾಲ ಗ್ರಿಡ್‌ಬಂಡ್",
     "description_en": "",
     "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/former-shivamogga-mla-passes-away/article71269758.ece",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-tank-bund-gridlocked-for-hours-amid-cms-candlelight-march-solidarity-protest/article71267100.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:16.501687"
+    "date": "2026-07-26 16:15:03.642435"
   },
   {
-    "title_en": "Former Karnataka Chief Minister Siddaramaiah announces retirement from electoral politics, citing age and ‘polluted’ politics",
-    "title_kn": "ಕರ್ನಾಟಕದ ಮಾಜಿ ಮುಖ್ಯಮಂತ್ರಿ ಸಿದ್ದರಾಮಯ್ಯ ಅವರು ವಯಸ್ಸು ಮತ್ತು 'ಕಲುಷಿತ' ರಾಜಕೀಯವನ್ನು ಉಲ್ಲೇಖಿಸಿ ಚುನಾವಣಾ ರಾಜಕೀಯದಿಂದ ನಿವೃತ್ತಿ ಘೋಷಿಸಿದರು",
-    "description_en": "Former Chief Minister Siddaramaiah has announced his retirement from electoral politics, while asserting that he will continue to remain active in public life and work for the Congress and the people",
-    "description_kn": "ಮಾಜಿ ಮುಖ್ಯಮಂತ್ರಿ ಸಿದ್ದರಾಮಯ್ಯ ಅವರು ಚುನಾವಣಾ ರಾಜಕೀಯದಿಂದ ನಿವೃತ್ತಿ ಘೋಷಿಸಿದ್ದು, ಸಾರ್ವಜನಿಕ ಜೀವನದಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ ಉಳಿಯುತ್ತೇನೆ ಮತ್ತು ಕಾಂಗ್ರೆಸ್ ಮತ್ತು ಜನರಿಗಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ ಎಂದು ಪ್ರತಿಪಾದಿಸಿದ್ದಾರೆ.",
-    "link": "https://www.thehindu.com/news/national/karnataka/former-karnataka-chief-minister-siddaramaiah-announces-retirement-from-electoral-politics-citing-age-and-polluted-politics/article71269306.ece",
+    "title_en": "HIV awareness quiz, marathon to be held in Ernakulam",
+    "title_kn": "ಎಚ್‌ಐವಿ ಜಾಗೃತಿ ರಸಪ್ರಶ್ನೆ, ಎರ್ನಾಕುಲಂನಲ್ಲಿ ಮ್ಯಾರಥಾನ್ ನಡೆಯಲಿದೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/kerala/hiv-awareness-quiz-marathon-to-be-held-in-ernakulam/article71270061.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:17.714065"
+    "date": "2026-07-26 16:15:03.751835"
   },
   {
-    "title_en": "Criminal cases against people’s representatives in Kerala: IUML leader faces 120 BUDS Act cases, five face sexual harassment charges",
-    "title_kn": "ಕೇರಳದಲ್ಲಿ ಜನಪ್ರತಿನಿಧಿಗಳ ವಿರುದ್ಧ ಕ್ರಿಮಿನಲ್ ಪ್ರಕರಣಗಳು: IUML ನಾಯಕನ ವಿರುದ್ಧ 120 BUDS ಆಕ್ಟ್ ಪ್ರಕರಣಗಳು, ಐವರು ಲೈಂಗಿಕ ಕಿರುಕುಳ ಆರೋಪ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ",
+    "title_en": "SiliconAndhra to attempt three Guinness record",
+    "title_kn": "ಸಿಲಿಕಾನ್ ಆಂಧ್ರ ಮೂರು ಗಿನ್ನಿಸ್ ದಾಖಲೆಗೆ ಪ್ರಯತ್ನಿಸಿದೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/siliconandhra-to-attempt-three-guinness-record/article71269793.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:03.859205"
+  },
+  {
+    "title_en": "Kerala Chief Minister calls on Catholicos at Devalokam",
+    "title_kn": "ಕೇರಳ ಮುಖ್ಯಮಂತ್ರಿಗಳು ದೇವಲೋಕದಲ್ಲಿ ಕ್ಯಾಥೋಲಿಕರನ್ನು ಭೇಟಿ ಮಾಡಿದರು",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-chief-minister-calls-on-catholicos-at-devalokam/article71270050.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:03.998811"
+  },
+  {
+    "title_en": "Maharashtra SIR: 88% enumeration forms distributed, 60% digitised",
+    "title_kn": "ಮಹಾರಾಷ್ಟ್ರ SIR: 88% ಎಣಿಕೆಯ ನಮೂನೆಗಳನ್ನು ವಿತರಿಸಲಾಗಿದೆ, 60% ಡಿಜಿಟೈಸ್ ಮಾಡಲಾಗಿದೆ",
+    "description_en": "Among the major urban districts, Thane reported a distribution of 67.97% and digitisation of 27.56%, Mumbai Suburban 67.79% and 28.72%, Mumbai City 72.37% and 38.88%, while Pune recorded 70% distribution and 45.04% digitisation",
+    "description_kn": "ಪ್ರಮುಖ ನಗರ ಜಿಲ್ಲೆಗಳಲ್ಲಿ, ಥಾಣೆ 67.97% ಮತ್ತು ಡಿಜಿಟಲೀಕರಣವನ್ನು 27.56%, ಮುಂಬೈ ಉಪನಗರ 67.79% ಮತ್ತು 28.72%, ಮುಂಬೈ ನಗರ 72.37% ಮತ್ತು 38.88% ರ ವಿತರಣೆಯನ್ನು ವರದಿ ಮಾಡಿದೆ, ಆದರೆ ಪುಣೆ 70% ವಿತರಣೆ ಮತ್ತು 45.04% ಡಿಜಿಟಲೀಕರಣವನ್ನು ದಾಖಲಿಸಿದೆ.",
+    "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sir-enumeration-forms-distribution-digitisation-updates-july-26-2026/article71269627.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:04.729055"
+  },
+  {
+    "title_en": "Assam flood toll 66, BJP seeks relief funds from party workers",
+    "title_kn": "ಅಸ್ಸಾಂ ಪ್ರವಾಹದ ಸಂಖ್ಯೆ 66, ಬಿಜೆಪಿ ಪಕ್ಷದ ಕಾರ್ಯಕರ್ತರಿಂದ ಪರಿಹಾರ ಧನ ಕೇಳಿದೆ",
+    "description_en": "Chief Minister Himanta Biswa Sarma says clothes will be distributed to 4 lakh women and children; State Congress president Gaurav Gogoi says the government has failed the flood victims",
+    "description_kn": "4 ಲಕ್ಷ ಮಹಿಳೆಯರು ಮತ್ತು ಮಕ್ಕಳಿಗೆ ಬಟ್ಟೆ ವಿತರಿಸಲಾಗುವುದು ಎಂದು ಮುಖ್ಯಮಂತ್ರಿ ಹಿಮಂತ ಬಿಸ್ವಾ ಶರ್ಮಾ ಹೇಳಿದ್ದಾರೆ; ಪ್ರವಾಹ ಸಂತ್ರಸ್ತರಿಗೆ ಸರ್ಕಾರ ವಿಫಲವಾಗಿದೆ ಎಂದು ರಾಜ್ಯ ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷ ಗೌರವ್ ಗೊಗೊಯ್ ಹೇಳಿದ್ದಾರೆ",
+    "link": "https://www.thehindu.com/news/national/assam/assam-flood-toll-66-bjp-seeks-relief-funds-from-party-workers/article71269821.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:05.412058"
+  },
+  {
+    "title_en": "Rights panel directs Corpn. to prepare action plan for mosquito-control in Kochi",
+    "title_kn": "ಹಕ್ಕುಗಳ ಫಲಕವು Corpn ಅನ್ನು ನಿರ್ದೇಶಿಸುತ್ತದೆ. ಕೊಚ್ಚಿಯಲ್ಲಿ ಸೊಳ್ಳೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಕ್ರಿಯಾ ಯೋಜನೆ ಸಿದ್ಧಪಡಿಸಲು",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/kerala/rights-panel-directs-corpn-to-prepare-action-plan-for-mosquito-control-in-kochi/article71267148.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:05.523632"
+  },
+  {
+    "title_en": "Encroachment on government land on the rise in Idukki’s Wagamon",
+    "title_kn": "ಇಡುಕ್ಕಿಯ ವಾಗಮೋನ್‌ನಲ್ಲಿ ಸರಕಾರಿ ಭೂಮಿ ಒತ್ತುವರಿ ಹೆಚ್ಚುತ್ತಿದೆ",
+    "description_en": "Large real estate groups have reportedly purchased nearly 25 acres of land on the meadows, a main tourist attraction in Wagamon, to carry out constructions",
+    "description_kn": "ದೊಡ್ಡ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಗುಂಪುಗಳು ನಿರ್ಮಾಣಗಳನ್ನು ಕೈಗೊಳ್ಳಲು ವಾಗಾಮೋನ್‌ನ ಪ್ರಮುಖ ಪ್ರವಾಸಿ ಆಕರ್ಷಣೆಯಾದ ಹುಲ್ಲುಗಾವಲುಗಳ ಮೇಲೆ ಸುಮಾರು 25 ಎಕರೆ ಭೂಮಿಯನ್ನು ಖರೀದಿಸಿವೆ ಎಂದು ವರದಿಯಾಗಿದೆ.",
+    "link": "https://www.thehindu.com/news/national/kerala/encroachment-on-government-land-on-the-rise-in-idukkis-wagamon/article71269831.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:06.882245"
+  },
+  {
+    "title_en": "MEA advisory urges Indian seafarers to assess security risks before taking jobs in Black Sea region",
+    "title_kn": "ಕಪ್ಪು ಸಮುದ್ರ ಪ್ರದೇಶದಲ್ಲಿ ಉದ್ಯೋಗಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ಭದ್ರತಾ ಅಪಾಯಗಳನ್ನು ನಿರ್ಣಯಿಸಲು MEA ಸಲಹೆಯು ಭಾರತೀಯ ನಾವಿಕರನ್ನು ಒತ್ತಾಯಿಸುತ್ತದೆ",
+    "description_en": "The advisory comes a day after the MV AGN Ragnar, carrying four Indian crew, was hit by a projectile in Odesa; two Indians on the ship confirmed safe, but information still awaited on the other two, says Indian Embassy in Kyiv",
+    "description_kn": "ನಾಲ್ಕು ಭಾರತೀಯ ಸಿಬ್ಬಂದಿಯನ್ನು ಹೊತ್ತ MV AGN ರಾಗ್ನರ್ ಒಡೆಸಾದಲ್ಲಿ ಉತ್ಕ್ಷೇಪಕದಿಂದ ಹೊಡೆದ ಒಂದು ದಿನದ ನಂತರ ಈ ಸಲಹೆ ಬಂದಿದೆ; ಹಡಗಿನಲ್ಲಿದ್ದ ಇಬ್ಬರು ಭಾರತೀಯರು ಸುರಕ್ಷಿತವಾಗಿದ್ದಾರೆ ಎಂದು ದೃಢಪಡಿಸಿದರು, ಆದರೆ ಇತರ ಇಬ್ಬರ ಬಗ್ಗೆ ಇನ್ನೂ ಮಾಹಿತಿ ಕಾಯುತ್ತಿದೆ ಎಂದು ಕೈವ್‌ನಲ್ಲಿರುವ ಭಾರತೀಯ ರಾಯಭಾರ ಕಚೇರಿ ತಿಳಿಸಿದೆ",
+    "link": "https://www.thehindu.com/news/national/mea-advisory-urges-indian-seafarers-to-assess-security-risks-before-taking-jobs-in-black-sea-region/article71269712.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:07.341590"
+  },
+  {
+    "title_en": "Criminal cases against people’s representatives in Kerala: five face sexual harassment charges, IUML leader faces 120 BUDS Act cases",
+    "title_kn": "ಕೇರಳದಲ್ಲಿ ಜನಪ್ರತಿನಿಧಿಗಳ ವಿರುದ್ಧ ಕ್ರಿಮಿನಲ್ ಪ್ರಕರಣಗಳು: ಐವರು ಲೈಂಗಿಕ ಕಿರುಕುಳ ಆರೋಪ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ, IUML ನಾಯಕ 120 BUDS ಆಕ್ಟ್ ಪ್ರಕರಣಗಳನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ",
     "description_en": "As per details of pending cases against sitting or former MPs and MLAs submitted by the District Judiciary before the Kerala High Court, Thiruvananthapuram has the highest number of cases, followed by Kasaragod and Kannur",
     "description_kn": "ಕೇರಳ ಹೈಕೋರ್ಟಿನಲ್ಲಿ ಜಿಲ್ಲಾ ನ್ಯಾಯಾಂಗವು ಸಲ್ಲಿಸಿರುವ ಹಾಲಿ ಅಥವಾ ಮಾಜಿ ಸಂಸದರು ಮತ್ತು ಶಾಸಕರ ವಿರುದ್ಧ ಬಾಕಿ ಉಳಿದಿರುವ ಪ್ರಕರಣಗಳ ವಿವರಗಳ ಪ್ರಕಾರ, ತಿರುವನಂತಪುರಂನಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಪ್ರಕರಣಗಳಿವೆ, ನಂತರ ಕಾಸರಗೋಡು ಮತ್ತು ಕಣ್ಣೂರು",
     "link": "https://www.thehindu.com/news/national/kerala/criminal-cases-against-peoples-representatives-in-kerala-iuml-leader-faces-120-buds-act-cases-five-face-sexual-harassment-charges/article71269309.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:18.712091"
+    "date": "2026-07-26 16:15:07.737123"
   },
   {
-    "title_en": "Karnataka CM convenes meeting of MPs in Delhi to press State’s pending demands",
-    "title_kn": "ರಾಜ್ಯದ ಬಾಕಿ ಇರುವ ಬೇಡಿಕೆಗಳ ಕುರಿತು ಒತ್ತಾಯಿಸಲು ಕರ್ನಾಟಕ ಸಿಎಂ ದೆಹಲಿಯಲ್ಲಿ ಸಂಸದರ ಸಭೆ ಕರೆದಿದ್ದಾರೆ",
-    "description_en": "The Chief Minister said Karnataka was passing through a difficult period owing to the drought situation and expressed hope that the Centre would extend the required assistance",
-    "description_kn": "ಬರ ಪರಿಸ್ಥಿತಿಯಿಂದ ಕರ್ನಾಟಕ ಸಂಕಷ್ಟದ ಅವಧಿಯನ್ನು ಎದುರಿಸುತ್ತಿದೆ ಎಂದು ಹೇಳಿದ ಮುಖ್ಯಮಂತ್ರಿ, ಕೇಂದ್ರವು ಅಗತ್ಯ ನೆರವನ್ನು ನೀಡುತ್ತದೆ ಎಂದು ಭರವಸೆ ವ್ಯಕ್ತಪಡಿಸಿದರು.",
-    "link": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-karnataka-mps-meeting-in-delhi/article71268782.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:19.327017"
-  },
-  {
-    "title_en": "BJP MLC Ravi claims his comments not targeted at any community",
-    "title_kn": "ಯಾವುದೇ ಸಮುದಾಯವನ್ನು ಗುರಿಯಾಗಿಸಿಕೊಂಡು ಹೇಳಿಕೆ ನೀಡಿಲ್ಲ ಎಂದು ಬಿಜೆಪಿ ಎಂಎಲ್ಸಿ ರವಿ ಹೇಳಿದ್ದಾರೆ",
+    "title_en": "‘This is only a beginning…,’ say youths in Bengaluru",
+    "title_kn": "‘ಇದು ಆರಂಭವಷ್ಟೇ...’ ಎನ್ನುತ್ತಾರೆ ಬೆಂಗಳೂರಿನ ಯುವಕರು",
     "description_en": "",
     "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/bjp-mlc-ravi-claims-his-comments-not-targeted-at-any-community/article71269399.ece",
+    "link": "https://www.thehindu.com/news/national/karnataka/this-is-only-a-beginning...-say-youths-in-bengaluru/article71269869.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:19.432402"
+    "date": "2026-07-26 16:15:08.370795"
   },
   {
-    "title_en": "Poets recite verses in solidarity with Jantar Mantar stir",
-    "title_kn": "ಕವಿಗಳು ಜಂತರ್ ಮಂತರ್ ಸಂಚಲನಕ್ಕೆ ಒಗ್ಗಟ್ಟಿನಿಂದ ಪದ್ಯಗಳನ್ನು ಪಠಿಸುತ್ತಾರೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/poets-recite-verses-in-solidarity-with-jantar-mantar-stir/article71269238.ece",
+    "title_en": "NHAI begins relocating ‘unscientifically located’ bus stops on Edappally-Aroor bypass",
+    "title_kn": "ಎಡಪ್ಪಲ್ಲಿ-ಅರೂರ್ ಬೈಪಾಸ್‌ನಲ್ಲಿ 'ಅವೈಜ್ಞಾನಿಕವಾಗಿ ನೆಲೆಗೊಂಡಿರುವ' ಬಸ್ ನಿಲ್ದಾಣಗಳನ್ನು ಸ್ಥಳಾಂತರಿಸಲು NHAI ಪ್ರಾರಂಭಿಸಿದೆ",
+    "description_en": "The NHAI has begun shifting bus stops located near U-turns and entrances to side roads. The initiative is aimed at easing traffic snarls and preventing accidents along the Edappally-Aroor bypass",
+    "description_kn": "NHAI ಯು-ಟರ್ನ್‌ಗಳ ಬಳಿ ಇರುವ ಬಸ್ ನಿಲ್ದಾಣಗಳನ್ನು ಮತ್ತು ಅಡ್ಡ ರಸ್ತೆಗಳಿಗೆ ಪ್ರವೇಶವನ್ನು ಬದಲಾಯಿಸಲು ಪ್ರಾರಂಭಿಸಿದೆ. ಈ ಉಪಕ್ರಮವು ಎಡಪ್ಪಲ್ಲಿ-ಅರೂರ್ ಬೈಪಾಸ್‌ನಲ್ಲಿ ಟ್ರಾಫಿಕ್ ದಟ್ಟಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಮತ್ತು ಅಪಘಾತಗಳನ್ನು ತಡೆಯುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ.",
+    "link": "https://www.thehindu.com/news/national/kerala/nhai-begins-relocating-unscientifically-located-bus-stops-on-edappally-aroor-bypass/article71263514.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:19.526841"
+    "date": "2026-07-26 16:15:09.198497"
+  },
+  {
+    "title_en": "Talks with Pakistan will only be on PoK, says Rajnath Singh",
+    "title_kn": "ಪಾಕಿಸ್ತಾನದೊಂದಿಗೆ ಮಾತುಕತೆ ಕೇವಲ ಪಿಒಕೆ ಬಗ್ಗೆ ಮಾತ್ರ ಎಂದು ರಾಜನಾಥ್ ಸಿಂಗ್ ಹೇಳಿದ್ದಾರೆ",
+    "description_en": "Rajnath Singh says the government has given the armed forces a free hand to respond decisively to threats and expressed confidence that no adversary would dare cast a hostile eye on India",
+    "description_kn": "ಬೆದರಿಕೆಗಳಿಗೆ ನಿರ್ಣಾಯಕವಾಗಿ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಸಶಸ್ತ್ರ ಪಡೆಗಳಿಗೆ ಸರ್ಕಾರ ಮುಕ್ತ ಹಸ್ತವನ್ನು ನೀಡಿದೆ ಎಂದು ರಾಜನಾಥ್ ಸಿಂಗ್ ಹೇಳಿದರು ಮತ್ತು ಯಾವುದೇ ಎದುರಾಳಿಯು ಭಾರತದ ಮೇಲೆ ಪ್ರತಿಕೂಲ ಕಣ್ಣು ಹಾಕಲು ಧೈರ್ಯ ಮಾಡುವುದಿಲ್ಲ ಎಂದು ವಿಶ್ವಾಸ ವ್ಯಕ್ತಪಡಿಸಿದರು.",
+    "link": "https://www.thehindu.com/news/national/rajnath-singh-in-dras-kargil-vijay-diwas-india-operation-sindoor-pakistan/article71268738.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:09.641900"
   },
   {
     "title_en": "Karnataka Cabinet expansion likely this week as Congress steps up Delhi consultations",
@@ -767,18 +789,249 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:20.242532"
+    "date": "2026-07-26 16:15:09.841319"
   },
   {
-    "title_en": "Server issues, shortage of meter readers delays Gruha Jyothi verification",
-    "title_kn": "ಸರ್ವರ್ ಸಮಸ್ಯೆ, ಮೀಟರ್ ರೀಡರ್ ಕೊರತೆಯಿಂದ ಗೃಹ ಜ್ಯೋತಿ ಪರಿಶೀಲನೆ ವಿಳಂಬವಾಗಿದೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/server-issues-shortage-of-meter-readers-delays-gruha-jyothi-verification/article71269303.ece",
+    "title_en": "Madhya Pradesh content creator booked over ‘highly abusive’ reel against Pradhan",
+    "title_kn": "ಮಧ್ಯಪ್ರದೇಶದ ಕಂಟೆಂಟ್ ಕ್ರಿಯೇಟರ್ ಪ್ರಧಾನ್ ವಿರುದ್ಧ 'ಅತ್ಯಂತ ನಿಂದನೀಯ' ರೀಲ್ ಅನ್ನು ಬುಕ್ ಮಾಡಿದ್ದಾರೆ",
+    "description_en": "Yashpal Soni, a local social media influencer, was booked on July 23 over an Instagram reel he had posted and has been questioned in the matter",
+    "description_kn": "ಸ್ಥಳೀಯ ಸೋಷಿಯಲ್ ಮೀಡಿಯಾ ಪ್ರಭಾವಿ ಯಶ್ಪಾಲ್ ಸೋನಿ ಅವರು ಪೋಸ್ಟ್ ಮಾಡಿದ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ರೀಲ್‌ನ ಮೇಲೆ ಜುಲೈ 23 ರಂದು ಪ್ರಕರಣ ದಾಖಲಿಸಲಾಗಿದೆ ಮತ್ತು ಈ ವಿಷಯದಲ್ಲಿ ಪ್ರಶ್ನಿಸಲಾಗಿದೆ.",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-content-creator-booked-over-highly-abusive-reel-against-pradhan/article71269701.ece",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:20.324453"
+    "date": "2026-07-26 16:15:10.030413"
+  },
+  {
+    "title_en": "Telangana sanctions ₹2,278 crore for Adilabad joint-use airport project, 2009 acres of land acquisition by December",
+    "title_kn": "ತೆಲಂಗಾಣ ಅದಿಲಾಬಾದ್ ಜಂಟಿ ಬಳಕೆಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಯೋಜನೆಗೆ ₹2,278 ಕೋಟಿ ಮಂಜೂರು ಮಾಡಿದೆ, ಡಿಸೆಂಬರ್ ವೇಳೆಗೆ 2009 ಎಕರೆ ಭೂಸ್ವಾಧೀನ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-sanctions-2278-crore-for-adilabad-joint-use-airport-project-2009-acres-of-land-acquisition-by-december/article71269830.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:10.148980"
+  },
+  {
+    "title_en": "Govt. reduces fresh A-Khata charge from 5% to 2% till August 23",
+    "title_kn": "ಸರಕಾರ ಆಗಸ್ಟ್ 23 ರವರೆಗೆ ತಾಜಾ ಎ-ಖಾಟಾ ಶುಲ್ಕವನ್ನು 5% ರಿಂದ 2% ಕ್ಕೆ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/cities/bangalore/govt-reduces-fresh-a-khata-charge-from-5-to-2-till-august-23/article71269606.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:10.248308"
+  },
+  {
+    "title_en": "Ivory missing from eight dead wild elephants of Malayattoor, Vazhachal forests of Kerala",
+    "title_kn": "ಕೇರಳದ ಮಲಯತ್ತೂರು, ವಜಚಲ್ ಅರಣ್ಯದ ಎಂಟು ಸತ್ತ ಕಾಡಾನೆಗಳಿಂದ ದಂತ ಕಾಣೆಯಾಗಿದೆ",
+    "description_en": "However, the SIT ruled out any possibility of any “deliberate or accidental human-caused mortality”, namely poaching, poisoning, weapon injuries, or anthropogenic interference in the elephant deaths.",
+    "description_kn": "ಆದಾಗ್ಯೂ, ಯಾವುದೇ \"ಉದ್ದೇಶಪೂರ್ವಕ ಅಥವಾ ಆಕಸ್ಮಿಕವಾಗಿ ಮಾನವ-ಉಂಟುಮಾಡುವ ಮರಣ\", ಅಂದರೆ ಬೇಟೆಯಾಡುವುದು, ವಿಷಪ್ರಾಶನ, ಶಸ್ತ್ರಾಸ್ತ್ರ ಗಾಯಗಳು ಅಥವಾ ಆನೆಗಳ ಸಾವಿನಲ್ಲಿ ಮಾನವಜನ್ಯ ಹಸ್ತಕ್ಷೇಪದ ಯಾವುದೇ ಸಾಧ್ಯತೆಯನ್ನು SIT ತಳ್ಳಿಹಾಕಿದೆ.",
+    "link": "https://www.thehindu.com/news/national/kerala/ivory-and-tush-missing-from-eight-dead-wild-elephants-of-malayattoor-vazhachal-forests-of-kerala/article71268949.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:10.435102"
+  },
+  {
+    "title_en": "BJP forced Pradhan to resign as Gen Z targeted Modi’s resignation: Revanth",
+    "title_kn": "ಮೋದಿ ರಾಜೀನಾಮೆಯನ್ನು ಗುರಿಯಾಗಿಟ್ಟುಕೊಂಡು ಜನರಲ್ ಝೆಡ್ ರಾಜೀನಾಮೆಗೆ ಬಿಜೆಪಿ ಒತ್ತಾಯಿಸಿತು: ರೇವಂತ್",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/telangana/bjp-forced-pradhan-to-resign-as-gen-z-targeted-modis-resignation-revanth/article71269720.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:10.555572"
+  },
+  {
+    "title_en": "Hyderabad Police warn of cyber fraud in name of Indiramma housing scheme",
+    "title_kn": "ಇಂದಿರಮ್ಮ ವಸತಿ ಯೋಜನೆ ಹೆಸರಿನಲ್ಲಿ ಸೈಬರ್ ವಂಚನೆ: ಹೈದರಾಬಾದ್ ಪೊಲೀಸರು ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದಾರೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-warn-of-cyber-fraud-in-name-of-indiramma-housing-scheme/article71269615.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:10.650613"
+  },
+  {
+    "title_en": "Kollam District Development Committee in Kerala urges speedy execution of projects",
+    "title_kn": "ಕೇರಳದ ಕೊಲ್ಲಂ ಜಿಲ್ಲಾ ಅಭಿವೃದ್ಧಿ ಸಮಿತಿಯು ಯೋಜನೆಗಳನ್ನು ತ್ವರಿತವಾಗಿ ಕಾರ್ಯಗತಗೊಳಿಸಲು ಒತ್ತಾಯಿಸುತ್ತದೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/kerala/kollam-district-development-committee-in-kerala-urges-speedy-execution-of-projects/article71269632.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:10.749948"
+  },
+  {
+    "title_en": "Pradhan had offered to quit at start of protest, was asked to wait, claims Vijayvargiya",
+    "title_kn": "ಪ್ರತಿಭಟನೆಯ ಪ್ರಾರಂಭದಲ್ಲಿ ಪ್ರಧಾನ್ ಅವರು ತೊರೆಯಲು ಮುಂದಾದರು, ಕಾಯಲು ಕೇಳಲಾಯಿತು ಎಂದು ವಿಜಯವರ್ಗಿಯಾ ಹೇಳುತ್ತಾರೆ",
+    "description_en": "Says Dharmendra Pradhan’s resignation foiled plans of foreign forces that wanted to create unrest in India",
+    "description_kn": "ಧರ್ಮೇಂದ್ರ ಪ್ರಧಾನ್ ಅವರ ರಾಜೀನಾಮೆಯು ಭಾರತದಲ್ಲಿ ಅಶಾಂತಿಯನ್ನು ಸೃಷ್ಟಿಸಲು ಬಯಸಿದ ವಿದೇಶಿ ಶಕ್ತಿಗಳ ಯೋಜನೆಗಳನ್ನು ವಿಫಲಗೊಳಿಸಿದೆ ಎಂದು ಹೇಳುತ್ತಾರೆ",
+    "link": "https://www.thehindu.com/news/national/pradhan-offered-to-quit-on-first-day-of-student-agitation-bjp-leader-vijayvargiya/article71268701.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:11.054793"
+  },
+  {
+    "title_en": "‘We did not want to give up’: Doctor recalls 30-minute CPR that revived former BRS MLA Peddi Sudarshan Reddy",
+    "title_kn": "‘ನಾವು ಬಿಟ್ಟುಕೊಡಲು ಬಯಸಲಿಲ್ಲ’: ಮಾಜಿ ಬಿಆರ್‌ಎಸ್ ಶಾಸಕ ಪೆದ್ದಿ ಸುದರ್ಶನ್ ರೆಡ್ಡಿಗೆ ಪುನಶ್ಚೇತನ ನೀಡಿದ 30 ನಿಮಿಷಗಳ ಸಿಪಿಆರ್ ಅನ್ನು ವೈದ್ಯರು ನೆನಪಿಸಿಕೊಂಡರು",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/telangana/we-did-not-want-to-give-up-doctor-recalls-30-minute-cpr-that-revived-former-brs-mla-peddi-sudarshan-reddy/article71269670.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:11.157908"
+  },
+  {
+    "title_en": "FIR in alleged KPSC scam: OMR answer sheet tampering, nepotism, question paper leak, corruption alleged",
+    "title_kn": "ಕೆಪಿಎಸ್‌ಸಿ ಹಗರಣದಲ್ಲಿ ಎಫ್‌ಐಆರ್: ಒಎಂಆರ್ ಉತ್ತರ ಪತ್ರಿಕೆ ತಿದ್ದುವಿಕೆ, ಸ್ವಜನಪಕ್ಷಪಾತ, ಪ್ರಶ್ನೆ ಪತ್ರಿಕೆ ಸೋರಿಕೆ, ಭ್ರಷ್ಟಾಚಾರ ಆರೋಪ",
+    "description_en": "The Vidhana Soudha Police have registered an FIR in connection with alleged irregularities in the Karnataka Public Service Commission’s recruitment process for 400 veterinary officers",
+    "description_kn": "ಕರ್ನಾಟಕ ಲೋಕಸೇವಾ ಆಯೋಗದ 400 ಪಶುವೈದ್ಯಾಧಿಕಾರಿಗಳ ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ನಡೆದಿರುವ ಅಕ್ರಮಗಳ ಆರೋಪದ ಮೇಲೆ ವಿಧಾನಸೌಧ ಪೊಲೀಸರು ಎಫ್‌ಐಆರ್ ದಾಖಲಿಸಿದ್ದಾರೆ.",
+    "link": "https://www.thehindu.com/news/cities/bangalore/fir-in-alleged-kpsc-scam-omr-answer-sheet-tampering-nepotism-question-paper-leak-corruption-alleged/article71269205.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:11.365266"
+  },
+  {
+    "title_en": "31 arrested, 97 wanted persons detained in massive Thiruvananthapuram Rural Police crackdown",
+    "title_kn": "ತಿರುವನಂತಪುರಂ ಗ್ರಾಮಾಂತರ ಪೊಲೀಸ್‌ ಕಾರ್ಯಾಚರಣೆಯಲ್ಲಿ 31 ಮಂದಿ ಬಂಧನ, 97 ವಾಂಟೆಡ್‌ ವ್ಯಕ್ತಿಗಳನ್ನು ಬಂಧಿಸಲಾಗಿದೆ",
+    "description_en": "The operation, spearheaded by District Police Chief (Thiruvananthapuram Rural) Prasanthan Kani, resulted in multiple cases getting registered against those involved in the sale of prohibited tobacco products",
+    "description_kn": "ಜಿಲ್ಲಾ ಪೊಲೀಸ್ ಮುಖ್ಯಸ್ಥ (ತಿರುವನಂತಪುರಂ ಗ್ರಾಮಾಂತರ) ಪ್ರಶಾಂತನ್ ಕಣಿ ನೇತೃತ್ವದಲ್ಲಿ ನಡೆದ ಕಾರ್ಯಾಚರಣೆಯಲ್ಲಿ ನಿಷೇಧಿತ ತಂಬಾಕು ಉತ್ಪನ್ನಗಳ ಮಾರಾಟದಲ್ಲಿ ಭಾಗಿಯಾಗಿರುವವರ ವಿರುದ್ಧ ಹಲವು ಪ್ರಕರಣಗಳು ದಾಖಲಾಗಿವೆ.",
+    "link": "https://www.thehindu.com/news/national/kerala/31-arrested-97-wanted-persons-detained-in-massive-thiruvananthapuram-rural-police-crackdown/article71269646.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:11.573602"
+  },
+  {
+    "title_en": "Four workers killed in cylinder blast at factory in Assam's Cachar",
+    "title_kn": "ಅಸ್ಸಾಂನ ಕ್ಯಾಚಾರ್‌ನಲ್ಲಿರುವ ಕಾರ್ಖಾನೆಯಲ್ಲಿ ಸಿಲಿಂಡರ್ ಸ್ಫೋಟಗೊಂಡು ನಾಲ್ವರು ಕಾರ್ಮಿಕರು ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ",
+    "description_en": "According to a preliminary investigation, the explosion was caused by an LPG cylinder engaged in casting work, the officer said",
+    "description_kn": "ಪ್ರಾಥಮಿಕ ತನಿಖೆಯ ಪ್ರಕಾರ, ಎರಕಹೊಯ್ದ ಕೆಲಸದಲ್ಲಿ ತೊಡಗಿದ್ದ ಎಲ್‌ಪಿಜಿ ಸಿಲಿಂಡರ್‌ನಿಂದ ಸ್ಫೋಟ ಸಂಭವಿಸಿದೆ ಎಂದು ಅಧಿಕಾರಿ ತಿಳಿಸಿದ್ದಾರೆ.",
+    "link": "https://www.thehindu.com/news/national/assam/assam-cachar-factory-cylinder-blast-updates-july-26-2026/article71269732.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:11.797176"
+  },
+  {
+    "title_en": "Forest department begins profiling straying elephants to tackle rising human-wildlife conflict in north Kerala",
+    "title_kn": "ಉತ್ತರ ಕೇರಳದಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಮಾನವ-ವನ್ಯಜೀವಿ ಸಂಘರ್ಷವನ್ನು ನಿಭಾಯಿಸಲು ಅರಣ್ಯ ಇಲಾಖೆಯು ದಾರಿ ತಪ್ಪಿದ ಆನೆಗಳ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದೆ",
+    "description_en": "Rapid Response Teams, field staff, and forest watchers are documenting elephants that repeatedly stray into human settlements through photographs, videos, and field reports, says Forest department official",
+    "description_kn": "ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆ ತಂಡಗಳು, ಕ್ಷೇತ್ರ ಸಿಬ್ಬಂದಿ ಮತ್ತು ಅರಣ್ಯ ವೀಕ್ಷಕರು ಛಾಯಾಚಿತ್ರಗಳು, ವೀಡಿಯೊಗಳು ಮತ್ತು ಕ್ಷೇತ್ರ ವರದಿಗಳ ಮೂಲಕ ಪದೇ ಪದೇ ಜನವಸತಿಗೆ ನುಗ್ಗುವ ಆನೆಗಳನ್ನು ದಾಖಲಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ಅರಣ್ಯ ಇಲಾಖೆ ಅಧಿಕಾರಿ ಹೇಳುತ್ತಾರೆ.",
+    "link": "https://www.thehindu.com/news/national/kerala/forest-department-begins-profiling-straying-elephants-to-tackle-rising-human-wildlife-conflict-in-north-kerala/article71268844.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:12.021387"
+  },
+  {
+    "title_en": "Delay in FIR, medical aid alleged in pregnant minor’s POCSO case",
+    "title_kn": "ಎಫ್‌ಐಆರ್‌ನಲ್ಲಿ ವಿಳಂಬ, ಗರ್ಭಿಣಿ ಅಪ್ರಾಪ್ತ ಪೋಕ್ಸೋ ಪ್ರಕರಣದಲ್ಲಿ ವೈದ್ಯಕೀಯ ನೆರವು ಆರೋಪ",
+    "description_en": "Child rights organisations say procedural lapses could have affected the victim’s health; police say the alleged delay will be investigated",
+    "description_kn": "ಮಕ್ಕಳ ಹಕ್ಕುಗಳ ಸಂಘಟನೆಗಳು ಕಾರ್ಯವಿಧಾನದ ಲೋಪಗಳು ಬಲಿಪಶುವಿನ ಆರೋಗ್ಯದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು ಎಂದು ಹೇಳುತ್ತಾರೆ; ಆಪಾದಿತ ವಿಳಂಬದ ಬಗ್ಗೆ ತನಿಖೆ ನಡೆಸಲಾಗುವುದು ಎಂದು ಪೊಲೀಸರು ತಿಳಿಸಿದ್ದಾರೆ",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/delay-in-fir-medical-aid-alleged-in-pregnant-minors-pocso-case/article71269425.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:12.224472"
+  },
+  {
+    "title_en": "TDP leader condemns YSRCP’s attempts to politicise Mega DSC drive",
+    "title_kn": "ಮೆಗಾ ಡಿಎಸ್ಸಿ ಡ್ರೈವ್ ಅನ್ನು ರಾಜಕೀಯಗೊಳಿಸುವ ವೈಎಸ್ಆರ್ಸಿಪಿಯ ಪ್ರಯತ್ನಗಳನ್ನು ಟಿಡಿಪಿ ನಾಯಕರು ಖಂಡಿಸಿದ್ದಾರೆ",
+    "description_en": "The High Court found no fault in the conduct of the examination, but the opposition party is making a slew of allegations, and provoking and emotionally blackmailing those who did not qualify, says TDP national spokesperson Neelayapalem Vijay Kumar",
+    "description_kn": "ಹೈಕೋರ್ಟ್ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಯಾವುದೇ ತಪ್ಪಿಲ್ಲ, ಆದರೆ ವಿರೋಧ ಪಕ್ಷವು ಹಲವಾರು ಆರೋಪಗಳನ್ನು ಮಾಡುತ್ತಿದೆ ಮತ್ತು ಅರ್ಹತೆ ಪಡೆಯದವರನ್ನು ಪ್ರಚೋದಿಸುತ್ತದೆ ಮತ್ತು ಭಾವನಾತ್ಮಕವಾಗಿ ಬ್ಲ್ಯಾಕ್ ಮೇಲ್ ಮಾಡುತ್ತಿದೆ ಎಂದು ಟಿಡಿಪಿ ರಾಷ್ಟ್ರೀಯ ವಕ್ತಾರ ನೀಲಯಪಾಲೆಂ ವಿಜಯ್ ಕುಮಾರ್ ಹೇಳಿದ್ದಾರೆ.",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-leader-condemns-ysrcps-attempts-to-politicise-mega-dsc-drive/article71269787.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:12.420438"
+  },
+  {
+    "title_en": "Mann ki Baat: India emerging as trusted global defence partner, says PM Modi",
+    "title_kn": "ಮನ್ ಕಿ ಬಾತ್: ಭಾರತ ವಿಶ್ವಾಸಾರ್ಹ ಜಾಗತಿಕ ರಕ್ಷಣಾ ಪಾಲುದಾರನಾಗಿ ಹೊರಹೊಮ್ಮುತ್ತಿದೆ ಎಂದು ಪ್ರಧಾನಿ ಮೋದಿ ಹೇಳಿದ್ದಾರೆ",
+    "description_en": "Prime Minister Narendra Modi says indigenous defence production, defence exports and strategic partnerships with friendly nations reflect the growing strength of an Atmanirbhar Bharat",
+    "description_kn": "ಸ್ವದೇಶಿ ರಕ್ಷಣಾ ಉತ್ಪಾದನೆ, ರಕ್ಷಣಾ ರಫ್ತು ಮತ್ತು ಸೌಹಾರ್ದ ರಾಷ್ಟ್ರಗಳೊಂದಿಗಿನ ಕಾರ್ಯತಂತ್ರದ ಸಹಭಾಗಿತ್ವವು ಆತ್ಮನಿರ್ಭರ ಭಾರತ್‌ನ ಬೆಳೆಯುತ್ತಿರುವ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ ಎಂದು ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿ ಹೇಳಿದ್ದಾರೆ.",
+    "link": "https://www.thehindu.com/news/national/mann-ki-baat-india-emerging-as-trusted-global-defence-partner-says-pm-modi/article71268787.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:12.683466"
+  },
+  {
+    "title_en": "Kerala Agricultural University launches entrepreneurship programme, releases startup grants",
+    "title_kn": "ಕೇರಳ ಕೃಷಿ ವಿಶ್ವವಿದ್ಯಾನಿಲಯವು ಉದ್ಯಮಶೀಲತಾ ಕಾರ್ಯಕ್ರಮವನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತದೆ, ಆರಂಭಿಕ ಅನುದಾನವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ",
+    "description_en": "Minister for Agriculture T. Siddique launches training programme for aspiring agripreneurs; first instalment of grant assistance under PM RKVY-RAFTAAR scheme released to 10 eligible startups",
+    "description_kn": "ಕೃಷಿ ಸಚಿವ ಟಿ. ಸಿದ್ದಿಕ್ ಅವರು ಮಹತ್ವಾಕಾಂಕ್ಷಿ ಕೃಷಿಕರಿಗೆ ತರಬೇತಿ ಕಾರ್ಯಕ್ರಮವನ್ನು ಪ್ರಾರಂಭಿಸಿದರು; PM RKVY-RAFTAAR ಯೋಜನೆಯಡಿ ಅನುದಾನದ ಮೊದಲ ಕಂತು 10 ಅರ್ಹ ಸ್ಟಾರ್ಟ್‌ಅಪ್‌ಗಳಿಗೆ ಬಿಡುಗಡೆ",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-agricultural-university-launches-entrepreneurship-programme-releases-startup-grants/article71269783.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:12.999409"
+  },
+  {
+    "title_en": "Former Shivamogga MLA passes away",
+    "title_kn": "Former Shivamogga MLA passes away",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/former-shivamogga-mla-passes-away/article71269758.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:13.100283"
+  },
+  {
+    "title_en": "Former Karnataka Chief Minister Siddaramaiah announces retirement from electoral politics, citing age and ‘polluted’ politics",
+    "title_kn": "ಕರ್ನಾಟಕದ ಮಾಜಿ ಮುಖ್ಯಮಂತ್ರಿ ಸಿದ್ದರಾಮಯ್ಯ ಅವರು ವಯಸ್ಸು ಮತ್ತು 'ಕಲುಷಿತ' ರಾಜಕೀಯವನ್ನು ಉಲ್ಲೇಖಿಸಿ ಚುನಾವಣಾ ರಾಜಕೀಯದಿಂದ ನಿವೃತ್ತಿ ಘೋಷಿಸಿದರು",
+    "description_en": "Former Chief Minister Siddaramaiah has announced his retirement from electoral politics, while asserting that he will continue to remain active in public life and work for the Congress and the people",
+    "description_kn": "ಮಾಜಿ ಮುಖ್ಯಮಂತ್ರಿ ಸಿದ್ದರಾಮಯ್ಯ ಅವರು ಚುನಾವಣಾ ರಾಜಕೀಯದಿಂದ ನಿವೃತ್ತಿ ಘೋಷಿಸಿದ್ದು, ಸಾರ್ವಜನಿಕ ಜೀವನದಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ ಉಳಿಯುತ್ತೇನೆ ಮತ್ತು ಕಾಂಗ್ರೆಸ್ ಮತ್ತು ಜನರಿಗಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ ಎಂದು ಪ್ರತಿಪಾದಿಸಿದ್ದಾರೆ.",
+    "link": "https://www.thehindu.com/news/national/karnataka/former-karnataka-chief-minister-siddaramaiah-announces-retirement-from-electoral-politics-citing-age-and-polluted-politics/article71269306.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:13.309130"
+  },
+  {
+    "title_en": "Karnataka CM convenes meeting of MPs in Delhi to press State’s pending demands",
+    "title_kn": "ರಾಜ್ಯದ ಬಾಕಿ ಇರುವ ಬೇಡಿಕೆಗಳ ಕುರಿತು ಒತ್ತಾಯಿಸಲು ಕರ್ನಾಟಕ ಸಿಎಂ ದೆಹಲಿಯಲ್ಲಿ ಸಂಸದರ ಸಭೆ ಕರೆದಿದ್ದಾರೆ",
+    "description_en": "The Chief Minister said Karnataka was passing through a difficult period owing to the drought situation and expressed hope that the Centre would extend the required assistance",
+    "description_kn": "ಬರ ಪರಿಸ್ಥಿತಿಯಿಂದ ಕರ್ನಾಟಕ ಸಂಕಷ್ಟದ ಅವಧಿಯನ್ನು ಎದುರಿಸುತ್ತಿದೆ ಎಂದು ಹೇಳಿದ ಮುಖ್ಯಮಂತ್ರಿ, ಕೇಂದ್ರವು ಅಗತ್ಯ ನೆರವನ್ನು ನೀಡುತ್ತದೆ ಎಂದು ಭರವಸೆ ವ್ಯಕ್ತಪಡಿಸಿದರು.",
+    "link": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-karnataka-mps-meeting-in-delhi/article71268782.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:13.501767"
+  },
+  {
+    "title_en": "BJP MLC Ravi claims his comments not targeted at any community",
+    "title_kn": "ಯಾವುದೇ ಸಮುದಾಯವನ್ನು ಗುರಿಯಾಗಿಸಿಕೊಂಡು ಹೇಳಿಕೆ ನೀಡಿಲ್ಲ ಎಂದು ಬಿಜೆಪಿ ಎಂಎಲ್ಸಿ ರವಿ ಹೇಳಿದ್ದಾರೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/bjp-mlc-ravi-claims-his-comments-not-targeted-at-any-community/article71269399.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:13.609900"
+  },
+  {
+    "title_en": "Poets recite verses in solidarity with Jantar Mantar stir",
+    "title_kn": "ಕವಿಗಳು ಜಂತರ್ ಮಂತರ್ ಸಂಚಲನಕ್ಕೆ ಒಗ್ಗಟ್ಟಿನಿಂದ ಪದ್ಯಗಳನ್ನು ಪಠಿಸುತ್ತಾರೆ",
+    "description_en": "",
+    "description_kn": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/poets-recite-verses-in-solidarity-with-jantar-mantar-stir/article71269238.ece",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:13.740335"
   },
   {
     "title_en": "Kodiyathur panchayat member dies in accident",
@@ -789,7 +1042,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:20.889249"
+    "date": "2026-07-26 16:15:13.854110"
   },
   {
     "title_en": "Madanapalle tomato prices remain higher",
@@ -800,7 +1053,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:21.220770"
+    "date": "2026-07-26 16:15:13.968375"
   },
   {
     "title_en": "Power contract workers call for 'Chalo Vijayawada' on August 10",
@@ -811,7 +1064,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:21.304745"
+    "date": "2026-07-26 16:15:14.054660"
   },
   {
     "title_en": "Bengaluru Traffic Police proposes regulated carpooling to ease traffic congestion",
@@ -822,7 +1075,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:21.871524"
+    "date": "2026-07-26 16:15:14.255556"
   },
   {
     "title_en": "Kerala Police issue warning against cyber fraud using fake KTDC hotel booking websites",
@@ -833,7 +1086,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:22.696321"
+    "date": "2026-07-26 16:15:14.449872"
   },
   {
     "title_en": "47 lawyers complete 40-hour mediation training in Mandya",
@@ -844,18 +1097,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:22.785345"
-  },
-  {
-    "title_en": "PM Modi announces task force for exam reforms, Nandan Nilekani to lead",
-    "title_kn": "ಪ್ರಧಾನಿ ಮೋದಿಯವರು ಪರೀಕ್ಷಾ ಸುಧಾರಣೆಗಳಿಗಾಗಿ ಕಾರ್ಯಪಡೆಯನ್ನು ಘೋಷಿಸಿದರು, ನಂದನ್ ನಿಲೇಕಣಿ ನೇತೃತ್ವ ವಹಿಸುತ್ತಾರೆ",
-    "description_en": "The task force constituted for NTA examination reforms will also include former ISRO Chairman S. Somnath, former IB Director Tapan Deka, IIT Chennai director V. Kamakoti, former Education Secretary Anita Karwal, and logistics expert Amrit Lal Meena.",
-    "description_kn": "ಎನ್‌ಟಿಎ ಪರೀಕ್ಷಾ ಸುಧಾರಣೆಗಳಿಗಾಗಿ ರಚಿಸಲಾದ ಕಾರ್ಯಪಡೆಯಲ್ಲಿ ಮಾಜಿ ಇಸ್ರೋ ಅಧ್ಯಕ್ಷ ಎಸ್. ಸೋಮನಾಥ್, ಮಾಜಿ ಐಬಿ ನಿರ್ದೇಶಕ ತಪನ್ ದೇಕಾ, ಐಐಟಿ ಚೆನ್ನೈ ನಿರ್ದೇಶಕ ವಿ. ಕಾಮಕೋಟಿ, ಮಾಜಿ ಶಿಕ್ಷಣ ಕಾರ್ಯದರ್ಶಿ ಅನಿತಾ ಕರ್ವಾಲ್ ಮತ್ತು ಲಾಜಿಸ್ಟಿಕ್ಸ್ ತಜ್ಞ ಅಮೃತ್ ಲಾಲ್ ಮೀನಾ ಕೂಡ ಇದ್ದಾರೆ.",
-    "link": "https://www.thehindu.com/news/national/pm-modi-announces-task-force-for-exam-reforms-nandan-nilekani-to-lead/article71269731.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:23.677829"
+    "date": "2026-07-26 16:15:14.547181"
   },
   {
     "title_en": "BJP deploying unfair campaign practices ahead of Bankipur bypoll, says Prashant Kishor",
@@ -866,7 +1108,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:24.166619"
+    "date": "2026-07-26 16:15:14.750525"
   },
   {
     "title_en": "Guru Tegh Bahadur’s sacrifice symbolises courage, service and compassion: Governor",
@@ -877,7 +1119,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:24.965277"
+    "date": "2026-07-26 16:15:15.017984"
   },
   {
     "title_en": "KPSC temporarily stays veterinary officer selection list, forms internal inquiry committee to review exam process",
@@ -888,7 +1130,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:25.544820"
+    "date": "2026-07-26 16:15:15.347654"
   },
   {
     "title_en": "‘Jyeshtabhishekam’ festival concludes with ‘Kavacha Samarpanam’ in Tirupati",
@@ -899,7 +1141,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:26.128446"
+    "date": "2026-07-26 16:15:15.461583"
   },
   {
     "title_en": "BJP Kisan Morcha pitches crop diversification to tackle climate challenges",
@@ -910,249 +1152,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:26.326799"
-  },
-  {
-    "title_en": "Kargil Vijay Diwas: Soldiers’ sacrifice is the foundation of our freedom and security, says Karnataka CM D.K. Shivakumar",
-    "title_kn": "ಕಾರ್ಗಿಲ್ ವಿಜಯ್ ದಿವಸ್: ಸೈನಿಕರ ತ್ಯಾಗ ನಮ್ಮ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಭದ್ರತೆಯ ಅಡಿಪಾಯ ಎಂದು ಕರ್ನಾಟಕ ಸಿಎಂ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್",
-    "description_en": "Recalling the conflict, Chief Minister D.K. Shivakumar said 527 soldiers were martyred during the Kargil War, including 13 from Karnataka",
-    "description_kn": "ಸಂಘರ್ಷವನ್ನು ನೆನಪಿಸಿಕೊಂಡ ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಕಾರ್ಗಿಲ್ ಯುದ್ಧದಲ್ಲಿ ಕರ್ನಾಟಕದ 13 ಮಂದಿ ಸೇರಿದಂತೆ 527 ಯೋಧರು ಹುತಾತ್ಮರಾಗಿದ್ದಾರೆ ಎಂದು ಶಿವಕುಮಾರ್ ಹೇಳಿದ್ದಾರೆ",
-    "link": "https://www.thehindu.com/news/national/karnataka/kargil-vijay-diwas-soldiers-sacrifice-is-foundation-of-our-freedom-and-security-says-karnataka-cm-dk-shivakumar/article71268808.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:26.527721"
-  },
-  {
-    "title_en": "Pradhan’s resignation a victory for students, says AIDSO",
-    "title_kn": "ಪ್ರಧಾನ್ ಅವರ ರಾಜೀನಾಮೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಗೆಲುವು ಎಂದು AIDSO ಹೇಳಿದೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/pradhans-resignation-a-victory-for-students-says-aidso/article71269655.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:26.620534"
-  },
-  {
-    "title_en": "Kerala MLA Sudhakaran alleges Congress-CPI(M) nexus in Alappuzha",
-    "title_kn": "ಆಲಪ್ಪುಳದಲ್ಲಿ ಕಾಂಗ್ರೆಸ್-ಸಿಪಿಐ(ಎಂ) ನಂಟು ಇದೆ ಎಂದು ಕೇರಳ ಶಾಸಕ ಸುಧಾಕರನ್ ಆರೋಪಿಸಿದ್ದಾರೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/kerala/kerala-mla-sudhakaran-alleges-congress-cpim-nexus-in-alappuzha/article71269366.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:26.713317"
-  },
-  {
-    "title_en": "Sharanabasaveshwar Sangha offers free education to 10 meritorious girls",
-    "title_kn": "ಶರಣಬಸವೇಶ್ವರ ಸಂಘವು 10 ಜನ ಪ್ರತಿಭಾವಂತ ಹೆಣ್ಣು ಮಕ್ಕಳಿಗೆ ಉಚಿತ ಶಿಕ್ಷಣ ನೀಡುತ್ತಿದೆ",
-    "description_en": "The beneficiaries are students of the Kasturba Gandhi Girls Residential School in Kalaburagi, where classes are offered only up to class 8.",
-    "description_kn": "ಫಲಾನುಭವಿಗಳು ಕಲಬುರಗಿಯ ಕಸ್ತೂರಬಾ ಗಾಂಧಿ ಬಾಲಕಿಯರ ವಸತಿ ಶಾಲೆಯ ವಿದ್ಯಾರ್ಥಿನಿಯರಾಗಿದ್ದು, ಇಲ್ಲಿ 8 ನೇ ತರಗತಿಯವರೆಗೆ ಮಾತ್ರ ತರಗತಿಗಳನ್ನು ನೀಡಲಾಗುತ್ತದೆ.",
-    "link": "https://www.thehindu.com/news/national/karnataka/sharanabasaveshwar-sangha-offers-free-education-to-10-meritorious-girls/article71269523.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:26.904551"
-  },
-  {
-    "title_en": "Maharashtra records 87.79% distribution, 60.44% digitisation of enumeration forms under SIR",
-    "title_kn": "ಮಹಾರಾಷ್ಟ್ರವು 87.79% ವಿತರಣೆಯನ್ನು ದಾಖಲಿಸಿದೆ, SIR ಅಡಿಯಲ್ಲಿ ಎಣಿಕೆ ನಮೂನೆಗಳ 60.44% ಡಿಜಿಟಲೀಕರಣ",
-    "description_en": "Among the major urban districts, Thane reported a distribution of 67.97% and digitisation of 27.56%, Mumbai Suburban 67.79% and 28.72%, Mumbai City 72.37% and 38.88%, while Pune recorded 70% distribution and 45.04% digitisation",
-    "description_kn": "ಪ್ರಮುಖ ನಗರ ಜಿಲ್ಲೆಗಳಲ್ಲಿ, ಥಾಣೆ 67.97% ಮತ್ತು ಡಿಜಿಟಲೀಕರಣವನ್ನು 27.56%, ಮುಂಬೈ ಉಪನಗರ 67.79% ಮತ್ತು 28.72%, ಮುಂಬೈ ನಗರ 72.37% ಮತ್ತು 38.88% ರ ವಿತರಣೆಯನ್ನು ವರದಿ ಮಾಡಿದೆ, ಆದರೆ ಪುಣೆ 70% ವಿತರಣೆ ಮತ್ತು 45.04% ಡಿಜಿಟಲೀಕರಣವನ್ನು ದಾಖಲಿಸಿದೆ.",
-    "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sir-enumeration-forms-distribution-digitisation-updates-july-26-2026/article71269627.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:27.104349"
-  },
-  {
-    "title_en": "Rising egg prices burn holes in consumers’ pockets",
-    "title_kn": "ಏರುತ್ತಿರುವ ಮೊಟ್ಟೆಯ ಬೆಲೆಯು ಗ್ರಾಹಕರ ಜೇಬಿನಲ್ಲಿ ರಂಧ್ರಗಳನ್ನು ಸುಡುತ್ತದೆ",
-    "description_en": "Apart from seasonal and weather factors, the ups and downs caused by the West Asia crisis appear to have hit the egg prices",
-    "description_kn": "ಕಾಲೋಚಿತ ಮತ್ತು ಹವಾಮಾನ ಅಂಶಗಳ ಹೊರತಾಗಿ, ಪಶ್ಚಿಮ ಏಷ್ಯಾದ ಬಿಕ್ಕಟ್ಟಿನಿಂದ ಉಂಟಾದ ಏರಿಳಿತಗಳು ಮೊಟ್ಟೆಯ ಬೆಲೆಯನ್ನು ಹೊಡೆದವು.",
-    "link": "https://www.thehindu.com/news/national/karnataka/rising-egg-prices-burn-holes-in-consumers-pockets/article71266432.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:27.330971"
-  },
-  {
-    "title_en": "From one man’s vision to a people’s movement, Clean Green Panunda sets an example in community participation",
-    "title_kn": "ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ದೃಷ್ಟಿಯಿಂದ ಜನರ ಆಂದೋಲನದವರೆಗೆ, ಕ್ಲೀನ್ ಗ್ರೀನ್ ಪನುಂಡವು ಸಮುದಾಯದ ಭಾಗವಹಿಸುವಿಕೆಯಲ್ಲಿ ಒಂದು ಉದಾಹರಣೆಯಾಗಿದೆ",
-    "description_en": "More than 60 volunteers clean nearly 3 km of roads, bus shelters and public spaces across Panunda, Pottanpara, Eruvatty, and Oliyakkara wards in Pinarayi pancayat every Sunday",
-    "description_kn": "60 ಕ್ಕೂ ಹೆಚ್ಚು ಸ್ವಯಂಸೇವಕರು ಪ್ರತಿ ಭಾನುವಾರ ಪಿಣರಾಯಿ ಪಂಚಾಯತ್‌ನ ಪನುಂಡ, ಪೊಟ್ಟನ್‌ಪಾರ, ಎರುವಟ್ಟಿ ಮತ್ತು ಒಲಿಯಕ್ಕರ ವಾರ್ಡ್‌ಗಳಾದ್ಯಂತ ಸುಮಾರು 3 ಕಿಮೀ ರಸ್ತೆಗಳು, ಬಸ್ ಶೆಲ್ಟರ್‌ಗಳು ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸ್ಥಳಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತಾರೆ.",
-    "link": "https://www.thehindu.com/news/national/kerala/from-one-mans-vision-to-a-peoples-movement-clean-green-panunda-sets-an-example-in-community-participation/article71269295.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:27.983653"
-  },
-  {
-    "title_en": "Hyderabad Police urge mandatory verification of domestic help after 565 theft cases in two years",
-    "title_kn": "ಎರಡು ವರ್ಷಗಳಲ್ಲಿ 565 ಕಳ್ಳತನ ಪ್ರಕರಣಗಳ ನಂತರ ಮನೆಕೆಲಸಗಾರರನ್ನು ಕಡ್ಡಾಯವಾಗಿ ಪರಿಶೀಲಿಸುವಂತೆ ಹೈದರಾಬಾದ್ ಪೊಲೀಸರು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ",
-    "description_en": "The police urged citizens to immediately report any suspicious activity by dialling 100 or contacting the Hyderabad City Police WhatsApp helpline at 94906 16555.",
-    "description_kn": "100 ಗೆ ಡಯಲ್ ಮಾಡುವ ಮೂಲಕ ಅಥವಾ ಹೈದರಾಬಾದ್ ನಗರ ಪೊಲೀಸ್ ವಾಟ್ಸಾಪ್ ಸಹಾಯವಾಣಿ 94906 16555 ಗೆ ಸಂಪರ್ಕಿಸುವ ಮೂಲಕ ಯಾವುದೇ ಅನುಮಾನಾಸ್ಪದ ಚಟುವಟಿಕೆಯನ್ನು ತಕ್ಷಣವೇ ವರದಿ ಮಾಡಲು ಪೊಲೀಸರು ನಾಗರಿಕರನ್ನು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ.",
-    "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-urge-mandatory-verification-of-domestic-help-after-565-theft-cases-in-two-years/article71269499.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:28.671904"
-  },
-  {
-    "title_en": "Depression in the Bay may bring isolated heavy rainfall to North Andhra Pradesh",
-    "title_kn": "ಕೊಲ್ಲಿಯಲ್ಲಿನ ವಾಯುಭಾರ ಕುಸಿತವು ಉತ್ತರ ಆಂಧ್ರಪ್ರದೇಶದಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾದ ಭಾರೀ ಮಳೆಯನ್ನು ತರಬಹುದು",
-    "description_en": "The fresh system is likely to intensify further into a deep depression during the next 24 hours and cross the North Odisha and West Bengal coasts on July 27, says IMD",
-    "description_kn": "ಹೊಸ ವ್ಯವಸ್ಥೆಯು ಮುಂದಿನ 24 ಗಂಟೆಗಳಲ್ಲಿ ಆಳವಾದ ಖಿನ್ನತೆಗೆ ಮತ್ತಷ್ಟು ತೀವ್ರಗೊಳ್ಳುವ ಸಾಧ್ಯತೆಯಿದೆ ಮತ್ತು ಜುಲೈ 27 ರಂದು ಉತ್ತರ ಒಡಿಶಾ ಮತ್ತು ಪಶ್ಚಿಮ ಬಂಗಾಳ ಕರಾವಳಿಯನ್ನು ದಾಟುವ ಸಾಧ್ಯತೆಯಿದೆ ಎಂದು IMD ಹೇಳಿದೆ.",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/depression-in-the-bay-may-bring-isolated-heavy-rainfall-in-north-andhra-pradesh/article71269382.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:28.871817"
-  },
-  {
-    "title_en": "Chittoor police launch 'Operation Flush-out' against drugs",
-    "title_kn": "ಚಿತ್ತೂರು ಪೊಲೀಸರು ಡ್ರಗ್ಸ್ ವಿರುದ್ಧ ‘ಆಪರೇಷನ್ ಫ್ಲಶ್ ಔಟ್’ ಆರಂಭಿಸಿದ್ದಾರೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-police-launch-operation-flush-out-against-drugs/article71269233.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:29.020520"
-  },
-  {
-    "title_en": "NSS objects to employment exchange route for temporary appointments in Kerala schools",
-    "title_kn": "ಕೇರಳದ ಶಾಲೆಗಳಲ್ಲಿ ತಾತ್ಕಾಲಿಕ ನೇಮಕಾತಿಗಳಿಗಾಗಿ ಉದ್ಯೋಗ ವಿನಿಮಯ ಮಾರ್ಗವನ್ನು ಎನ್ಎಸ್ಎಸ್ ವಿರೋಧಿಸುತ್ತದೆ",
-    "description_en": "Govt. circular requires managements of aided educational institutions to make appointments to temporary vacancies, including leave vacancies, only from the list provided by the exchange. NSS says the authority to make all appointments in an aided school is vested with the manager",
-    "description_kn": "ಸರಕಾರ ಸುತ್ತೋಲೆಯು ಅನುದಾನಿತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳ ಆಡಳಿತ ಮಂಡಳಿಗಳು ತಾತ್ಕಾಲಿಕ ಖಾಲಿ ಹುದ್ದೆಗಳಿಗೆ ನೇಮಕಾತಿಗಳನ್ನು ಮಾಡಬೇಕಾಗಿರುತ್ತದೆ, ರಜೆ ಖಾಲಿ ಹುದ್ದೆಗಳು ಸೇರಿದಂತೆ, ವಿನಿಮಯ ಕೇಂದ್ರದಿಂದ ಒದಗಿಸಲಾದ ಪಟ್ಟಿಯಿಂದ ಮಾತ್ರ. ಅನುದಾನಿತ ಶಾಲೆಯಲ್ಲಿ ಎಲ್ಲಾ ನೇಮಕಾತಿಗಳನ್ನು ಮಾಡುವ ಅಧಿಕಾರ ವ್ಯವಸ್ಥಾಪಕರಿಗೆ ಇದೆ ಎಂದು ಎನ್ಎಸ್ಎಸ್ ಹೇಳುತ್ತದೆ",
-    "link": "https://www.thehindu.com/news/national/kerala/nss-objects-to-employment-exchange-route-for-temporary-appointments-in-kerala-schools/article71269405.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:29.218096"
-  },
-  {
-    "title_en": "Fungal-contaminated vegetables, hygiene violations flagged at Hyderabad’s Hotel Sweekar",
-    "title_kn": "ಹೈದರಾಬಾದ್‌ನ ಹೋಟೆಲ್ ಸ್ವೀಕರ್‌ನಲ್ಲಿ ಶಿಲೀಂಧ್ರ-ಕಲುಷಿತ ತರಕಾರಿಗಳು, ನೈರ್ಮಲ್ಯ ಉಲ್ಲಂಘನೆಗಳನ್ನು ಫ್ಲ್ಯಾಗ್ ಮಾಡಲಾಗಿದೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/fungal-contaminated-vegetables-hygiene-violations-flagged-at-hyderabads-hotel-sweekar/article71269462.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:29.305542"
-  },
-  {
-    "title_en": "Crackdown on illegal parking outside Kerala’s Kottayam railway station",
-    "title_kn": "ಕೇರಳದ ಕೊಟ್ಟಾಯಂ ರೈಲ್ವೇ ನಿಲ್ದಾಣದ ಹೊರಗೆ ಅಕ್ರಮ ನಿಲುಗಡೆಗೆ ಕಡಿವಾಣ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/kerala/crackdown-on-illegal-parking-outside-keralas-kottayam-railway-station/article71269269.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:29.411778"
-  },
-  {
-    "title_en": "Protesting youths clash with police during march towards Punjab CM's residence over unemployment",
-    "title_kn": "ನಿರುದ್ಯೋಗ ಕುರಿತಂತೆ ಪಂಜಾಬ್ ಸಿಎಂ ನಿವಾಸದತ್ತ ನಡೆದ ಮೆರವಣಿಗೆಯಲ್ಲಿ ಪ್ರತಿಭಟನಾನಿರತ ಯುವಕರು ಪೊಲೀಸರೊಂದಿಗೆ ಘರ್ಷಣೆ ನಡೆಸಿದರು",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/punjab/protesting-youths-clash-with-police-during-march-towards-punjab-cms-residence-over-unemployment/article71269658.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:29.515215"
-  },
-  {
-    "title_en": "Two held for impersonating Congress leader Priyanka Gandhi’s aide in cyber fraud case",
-    "title_kn": "ಸೈಬರ್ ವಂಚನೆ ಪ್ರಕರಣದಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ನಾಯಕಿ ಪ್ರಿಯಾಂಕಾ ಗಾಂಧಿ ಅವರ ಸಹಾಯಕಿಯಂತೆ ನಟಿಸಿದ್ದಕ್ಕಾಗಿ ಇಬ್ಬರನ್ನು ಬಂಧಿಸಲಾಗಿದೆ",
-    "description_en": "Elathur MLA Vidya Balakrishnan had received a phone call on July 6 from a person claiming to be the private secretary of the Wayanad MP, offering her a Cabinet Minister’s post in exchange for ₹3 crore. Growing suspicious, the MLA contacted the MP’s office, which confirmed it was a scam",
-    "description_kn": "ಎಲತ್ತೂರ್ ಶಾಸಕಿ ವಿದ್ಯಾ ಬಾಲಕೃಷ್ಣನ್ ಅವರು ಜುಲೈ 6 ರಂದು ವಯನಾಡ್ ಸಂಸದರ ಖಾಸಗಿ ಕಾರ್ಯದರ್ಶಿ ಎಂದು ಹೇಳಿಕೊಳ್ಳುವ ವ್ಯಕ್ತಿಯಿಂದ ದೂರವಾಣಿ ಕರೆಯನ್ನು ಸ್ವೀಕರಿಸಿದ್ದು, ₹ 3 ಕೋಟಿಗೆ ಬದಲಾಗಿ ಕ್ಯಾಬಿನೆಟ್ ಸಚಿವ ಸ್ಥಾನವನ್ನು ನೀಡುವುದಾಗಿ ಹೇಳಿದ್ದರು. ಅನುಮಾನಗೊಂಡ ಶಾಸಕರು ಸಂಸದರ ಕಚೇರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿದಾಗ ಇದು ಹಗರಣ ಎಂದು ದೃಢಪಡಿಸಿದರು",
-    "link": "https://www.thehindu.com/news/national/kerala/two-held-for-impersonating-congress-leader-priyanka-gandhis-aide-in-cyber-fraud-case/article71269020.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:29.731465"
-  },
-  {
-    "title_en": "Free health check-up for Vijayanagar 3rd Stage residents",
-    "title_kn": "ವಿಜಯನಗರ 3ನೇ ಹಂತದ ನಿವಾಸಿಗಳಿಗೆ ಉಚಿತ ಆರೋಗ್ಯ ತಪಾಸಣೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/free-health-check-up-for-vijayanagar-3rd-stage-residents/article71269390.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:29.810744"
-  },
-  {
-    "title_en": "YSRCP seeks CBI probe into alleged DSC exam irregularities",
-    "title_kn": "ಆಪಾದಿತ ಡಿಎಸ್‌ಸಿ ಪರೀಕ್ಷೆಯ ಅಕ್ರಮಗಳ ಕುರಿತು ಸಿಬಿಐ ತನಿಖೆಯನ್ನು ವೈಎಸ್‌ಆರ್‌ಸಿಪಿ ಕೋರಿದೆ",
-    "description_en": "Addressing the media, party leader and East Rayalaseema MLC alleges that the system has been compromised at every level and that the ruling dispensation deliberately tweaked the rules",
-    "description_kn": "ಮಾಧ್ಯಮಗಳನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದ ಪಕ್ಷದ ನಾಯಕ ಮತ್ತು ಪೂರ್ವ ರಾಯಲಸೀಮಾ ಎಂಎಲ್‌ಸಿ, ವ್ಯವಸ್ಥೆಯು ಪ್ರತಿಯೊಂದು ಹಂತದಲ್ಲೂ ರಾಜಿಯಾಗಿದೆ ಮತ್ತು ಆಡಳಿತ ಮಂಡಳಿಯು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ನಿಯಮಗಳನ್ನು ತಿರುಚಿದೆ ಎಂದು ಆರೋಪಿಸಿದರು.",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-seeks-cbi-probe-into-alleged-dsc-exam-irregularities/article71269210.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:29.995381"
-  },
-  {
-    "title_en": "Kalaburagi: Central University of Karnataka faculty member appointed consultant for international digital library project",
-    "title_kn": "ಕಲಬುರಗಿ: ಅಂತಾರಾಷ್ಟ್ರೀಯ ಡಿಜಿಟಲ್ ಲೈಬ್ರರಿ ಯೋಜನೆಗೆ ಸಲಹೆಗಾರರಾಗಿ ನೇಮಕಗೊಂಡ ಕರ್ನಾಟಕ ಕೇಂದ್ರೀಯ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಅಧ್ಯಾಪಕರು",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/kalaburagi-central-university-of-karnataka-faculty-member-appointed-consultant-for-international-digital-library-project/article71269494.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:30.082171"
-  },
-  {
-    "title_en": "Hyderabad man drowns while fishing in Baswapur Reservoir",
-    "title_kn": "ಬಸ್ವಾಪುರ ಜಲಾಶಯದಲ್ಲಿ ಮೀನುಗಾರಿಕೆ ನಡೆಸುತ್ತಿದ್ದ ಹೈದರಾಬಾದ್ ವ್ಯಕ್ತಿ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾನೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/telangana/hyderabad-man-drowns-while-fishing-in-baswapur-reservoir/article71269526.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:30.172597"
-  },
-  {
-    "title_en": "Minister visits six-year-old girl undergoing cancer treatment in Hyderabad",
-    "title_kn": "ಹೈದರಾಬಾದ್‌ನಲ್ಲಿ ಕ್ಯಾನ್ಸರ್ ಚಿಕಿತ್ಸೆ ಪಡೆಯುತ್ತಿರುವ ಆರು ವರ್ಷದ ಬಾಲಕಿಯನ್ನು ಭೇಟಿ ಮಾಡಿದ ಸಚಿವರು",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/minister-visits-six-year-old-girl-undergoing-cancer-treatment-in-hyderabad/article71269497.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:30.263439"
-  },
-  {
-    "title_en": "Chowrangee’s ‘Monsoon Magic’ celebrates India’s musical diversity in Hyderabad",
-    "title_kn": "ಚೌರಂಗಿಯ 'ಮಾನ್ಸೂನ್ ಮ್ಯಾಜಿಕ್' ಹೈದರಾಬಾದ್‌ನಲ್ಲಿ ಭಾರತದ ಸಂಗೀತ ವೈವಿಧ್ಯತೆಯನ್ನು ಆಚರಿಸುತ್ತದೆ",
-    "description_en": "",
-    "description_kn": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/chowrangees-monsoon-magic-celebrates-indias-musical-diversity-in-hyderabad/article71269561.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:30.356185"
-  },
-  {
-    "title_en": "MCC steps up public outreach for SIR form collection",
-    "title_kn": "SIR ಫಾರ್ಮ್ ಸಂಗ್ರಹಣೆಗಾಗಿ MCC ಸಾರ್ವಜನಿಕ ಸಂಪರ್ಕವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
-    "description_en": "As part of the campaign, the civic body deployed public announcement vehicles across various localities to inform citizens that SIR forms have been distributed to every household",
-    "description_kn": "ಅಭಿಯಾನದ ಭಾಗವಾಗಿ, ಪ್ರತಿ ಮನೆಗೆ SIR ನಮೂನೆಗಳನ್ನು ವಿತರಿಸಲಾಗಿದೆ ಎಂದು ನಾಗರಿಕರಿಗೆ ತಿಳಿಸಲು ನಾಗರಿಕ ಸಂಸ್ಥೆಯು ವಿವಿಧ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸಾರ್ವಜನಿಕ ಪ್ರಕಟಣೆ ವಾಹನಗಳನ್ನು ನಿಯೋಜಿಸಿತು.",
-    "link": "https://www.thehindu.com/news/national/karnataka/mcc-steps-up-public-outreach-for-sir-form-collection/article71269365.ece",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:30.555479"
+    "date": "2026-07-26 16:15:15.682336"
   },
   {
     "title_en": "What we know so far about the Berlin Pride ramming attack",
@@ -1163,7 +1163,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:30.948056"
+    "date": "2026-07-26 16:15:16.107369"
   },
   {
     "title_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
@@ -1174,7 +1174,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:31.146700"
+    "date": "2026-07-26 16:15:16.322054"
   },
   {
     "title_en": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -1185,7 +1185,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:31.351091"
+    "date": "2026-07-26 16:15:16.515408"
   },
   {
     "title_en": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -1196,7 +1196,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:31.523473"
+    "date": "2026-07-26 16:15:16.723366"
   },
   {
     "title_en": "India's 'cockroach' protest called off after education minister quits",
@@ -1207,7 +1207,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:31.719842"
+    "date": "2026-07-26 16:15:16.915593"
   },
   {
     "title_en": "Ten killed in Russian attack on drone exhibition near Kyiv",
@@ -1218,7 +1218,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:31.899433"
+    "date": "2026-07-26 16:15:17.118005"
   },
   {
     "title_en": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
@@ -1229,7 +1229,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:32.084445"
+    "date": "2026-07-26 16:15:17.377661"
   },
   {
     "title_en": "Iran-backed Houthis claim missile attack on Saudi Arabia",
@@ -1240,7 +1240,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:32.296180"
+    "date": "2026-07-26 16:15:17.590093"
   },
   {
     "title_en": "Four Palestinians and two Israelis killed in West Bank shooting",
@@ -1251,7 +1251,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:32.488191"
+    "date": "2026-07-26 16:15:18.221018"
   },
   {
     "title_en": "ICC top prosecutor removed over sexual misconduct allegations",
@@ -1262,7 +1262,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:32.685003"
+    "date": "2026-07-26 16:15:18.503065"
   },
   {
     "title_en": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
@@ -1273,7 +1273,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:32.886332"
+    "date": "2026-07-26 16:15:18.710474"
   },
   {
     "title_en": "Trump vows to investigate EU over fining of US tech companies",
@@ -1284,7 +1284,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:33.131387"
+    "date": "2026-07-26 16:15:18.923710"
   },
   {
     "title_en": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
@@ -1295,7 +1295,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:33.301990"
+    "date": "2026-07-26 16:15:19.140335"
   },
   {
     "title_en": "US hits dozens of countries with new wave of tariffs",
@@ -1306,7 +1306,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:33.485051"
+    "date": "2026-07-26 16:15:19.356498"
   },
   {
     "title_en": "Nigeria's president approves largest military expansion in recent times",
@@ -1317,7 +1317,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:33.674259"
+    "date": "2026-07-26 16:15:19.563079"
   },
   {
     "title_en": "World chess chief faces endgame after EU announces Russia war sanctions",
@@ -1328,7 +1328,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:33.940442"
+    "date": "2026-07-26 16:15:19.781967"
   },
   {
     "title_en": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
@@ -1339,7 +1339,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:34.189332"
+    "date": "2026-07-26 16:15:20.025544"
   },
   {
     "title_en": "The notorious Cameroonian prison with its own record label",
@@ -1350,7 +1350,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:34.396331"
+    "date": "2026-07-26 16:15:20.249181"
   },
   {
     "title_en": "Would you pay $58.5m to live in this iconic New York building?",
@@ -1361,7 +1361,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:34.642355"
+    "date": "2026-07-26 16:15:20.467597"
   },
   {
     "title_en": "What Love Island tells us about the changing face of dating",
@@ -1372,7 +1372,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:34.841743"
+    "date": "2026-07-26 16:15:20.689218"
   },
   {
     "title_en": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
@@ -1383,7 +1383,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:35.119350"
+    "date": "2026-07-26 16:15:20.922388"
   },
   {
     "title_en": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
@@ -1394,7 +1394,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:35.307392"
+    "date": "2026-07-26 16:15:21.124797"
   },
   {
     "title_en": "Watch: At the scene of Berlin Pride attack as manhunt continues",
@@ -1405,7 +1405,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:35.504153"
+    "date": "2026-07-26 16:15:21.339001"
   },
   {
     "title_en": "Protesters celebrate resignation of India's education minister",
@@ -1416,7 +1416,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:35.698585"
+    "date": "2026-07-26 16:15:21.567424"
   },
   {
     "title_en": "India cockroach protests: Videos show officers firing 'pellet guns'",
@@ -1427,7 +1427,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:35.891867"
+    "date": "2026-07-26 16:15:21.784389"
   },
   {
     "title_en": "Watch: Another day, more Trump tariffs - but are they working?",
@@ -1438,7 +1438,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:36.087194"
+    "date": "2026-07-26 16:15:21.995730"
   },
   {
     "title_en": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
@@ -1449,7 +1449,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:36.460871"
+    "date": "2026-07-26 16:15:22.303355"
   },
   {
     "title_en": "PlayStation Network outage resolved after thousands of gamers unable to play",
@@ -1460,7 +1460,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:36.655307"
+    "date": "2026-07-26 16:15:22.533090"
   },
   {
     "title_en": "Trump vows to investigate EU over fining of US tech companies",
@@ -1471,7 +1471,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:36.845555"
+    "date": "2026-07-26 16:15:22.750667"
   },
   {
     "title_en": "How Jimothy the raccoon became the internet's latest animal obsession",
@@ -1482,7 +1482,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:37.421190"
+    "date": "2026-07-26 16:15:23.311053"
   },
   {
     "title_en": "Google fined €890m by EU for favouring its own apps over rivals",
@@ -1493,7 +1493,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:37.593649"
+    "date": "2026-07-26 16:15:23.510228"
   },
   {
     "title_en": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
@@ -1504,7 +1504,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:37.787504"
+    "date": "2026-07-26 16:15:23.745671"
   },
   {
     "title_en": "Google and Tesla shares plunge as AI spending rattles markets",
@@ -1515,7 +1515,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:37.976105"
+    "date": "2026-07-26 16:15:23.944007"
   },
   {
     "title_en": "Amazon gaming boss predicts future where players no longer need consoles",
@@ -1526,7 +1526,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:38.190822"
+    "date": "2026-07-26 16:15:24.145813"
   },
   {
     "title_en": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
@@ -1537,7 +1537,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:38.384397"
+    "date": "2026-07-26 16:15:24.340622"
   },
   {
     "title_en": "Teenager drops social media addiction lawsuit against Meta",
@@ -1548,7 +1548,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:38.594761"
+    "date": "2026-07-26 16:15:24.544016"
   },
   {
     "title_en": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
@@ -1559,7 +1559,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:38.781817"
+    "date": "2026-07-26 16:15:24.831007"
   },
   {
     "title_en": "AI minister role boosted but tech department axed in Burnham shake-up",
@@ -1570,7 +1570,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:38.972853"
+    "date": "2026-07-26 16:15:25.032903"
   },
   {
     "title_en": "Thousands of websites taken down for illegal World Cup streams",
@@ -1581,7 +1581,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:39.145025"
+    "date": "2026-07-26 16:15:25.215767"
   },
   {
     "title_en": "Tech Life",
@@ -1592,7 +1592,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:39.336030"
+    "date": "2026-07-26 16:15:25.425275"
   },
   {
     "title_en": "Tech Life",
@@ -1603,7 +1603,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:39.510803"
+    "date": "2026-07-26 16:15:25.627784"
   },
   {
     "title_en": "Tech Life",
@@ -1614,7 +1614,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:39.746701"
+    "date": "2026-07-26 16:15:25.844462"
   },
   {
     "title_en": "Tech Life",
@@ -1625,7 +1625,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:39.950916"
+    "date": "2026-07-26 16:15:26.072532"
   },
   {
     "title_en": "Tech Now",
@@ -1636,7 +1636,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:40.128148"
+    "date": "2026-07-26 16:15:26.266660"
   },
   {
     "title_en": "Tech Now",
@@ -1647,7 +1647,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:40.314711"
+    "date": "2026-07-26 16:15:26.526782"
   },
   {
     "title_en": "Tech Now",
@@ -1658,7 +1658,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:40.505874"
+    "date": "2026-07-26 16:15:26.727289"
   },
   {
     "title_en": "Tech Now",
@@ -1669,7 +1669,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:40.723645"
+    "date": "2026-07-26 16:15:26.918529"
   },
   {
     "title_en": "Gatwick Airport left without running water after major outage",
@@ -1680,7 +1680,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:40.972179"
+    "date": "2026-07-26 16:15:27.212775"
   },
   {
     "title_en": "Rental searches for pet friendly properties drop after law change",
@@ -1691,7 +1691,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:41.191620"
+    "date": "2026-07-26 16:15:27.425152"
   },
   {
     "title_en": "Primark's new 'supermarket tactic' to woo customers in online price war",
@@ -1702,7 +1702,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:41.497895"
+    "date": "2026-07-26 16:15:27.604426"
   },
   {
     "title_en": "ADHD has rewired the workplace. This is what it means for bosses and workers",
@@ -1713,7 +1713,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:41.687874"
+    "date": "2026-07-26 16:15:27.920967"
   },
   {
     "title_en": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
@@ -1724,7 +1724,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:41.851961"
+    "date": "2026-07-26 16:15:28.136262"
   },
   {
     "title_en": "Trump vows to investigate EU over fining of US tech companies",
@@ -1735,7 +1735,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:42.030738"
+    "date": "2026-07-26 16:15:28.416639"
   },
   {
     "title_en": "Paramount and Warner Bros pause $110bn merger amid legal challenge",
@@ -1746,7 +1746,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:42.205087"
+    "date": "2026-07-26 16:15:28.612035"
   },
   {
     "title_en": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
@@ -1757,7 +1757,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:42.417194"
+    "date": "2026-07-26 16:15:29.250466"
   },
   {
     "title_en": "UK mortgage rates rise to highest level for a month",
@@ -1768,7 +1768,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:42.594348"
+    "date": "2026-07-26 16:15:29.437610"
   },
   {
     "title_en": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
@@ -1779,7 +1779,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:42.770450"
+    "date": "2026-07-26 16:15:29.632333"
   },
   {
     "title_en": "Watch: Another day, more Trump tariffs - but are they working?",
@@ -1790,7 +1790,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:42.944885"
+    "date": "2026-07-26 16:15:29.867441"
   },
   {
     "title_en": "UK complacent about war threat, warns BAE boss",
@@ -1801,7 +1801,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:43.148776"
+    "date": "2026-07-26 16:15:30.069065"
   },
   {
     "title_en": "We split money equally even when one of us earned a lot more",
@@ -1812,7 +1812,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:43.777507"
+    "date": "2026-07-26 16:15:30.285311"
   },
   {
     "title_en": "US hits dozens of countries with new wave of tariffs",
@@ -1823,7 +1823,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:43.958349"
+    "date": "2026-07-26 16:15:30.478301"
   },
   {
     "title_en": "Why are UK fuel prices rising again?",
@@ -1834,7 +1834,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:44.133158"
+    "date": "2026-07-26 16:15:31.124134"
   },
   {
     "title_en": "Tourist tax introduced in Edinburgh: How much is it and who pays?",
@@ -1845,7 +1845,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:44.303729"
+    "date": "2026-07-26 16:15:31.342199"
   },
   {
     "title_en": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
@@ -1856,7 +1856,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:44.507512"
+    "date": "2026-07-26 16:15:31.531355"
   },
   {
     "title_en": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
@@ -1867,7 +1867,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:44.686576"
+    "date": "2026-07-26 16:15:31.785970"
   },
   {
     "title_en": "Oil prices hit $100 for the first time since May",
@@ -1878,7 +1878,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:44.884690"
+    "date": "2026-07-26 16:15:32.012990"
   },
   {
     "title_en": "Pubs cheer business rates relief while other firms 'left out in the cold'",
@@ -1889,7 +1889,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:45.051441"
+    "date": "2026-07-26 16:15:32.202556"
   },
   {
     "title_en": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
@@ -1900,7 +1900,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:45.262144"
+    "date": "2026-07-26 16:15:32.394749"
   },
   {
     "title_en": "Google and Tesla shares plunge as AI spending rattles markets",
@@ -1911,7 +1911,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:45.456739"
+    "date": "2026-07-26 16:15:32.656154"
   },
   {
     "title_en": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
@@ -1922,7 +1922,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:45.644014"
+    "date": "2026-07-26 16:15:32.845522"
   },
   {
     "title_en": "Burnham says 20% business rates cut for English pubs 'a first step'",
@@ -1933,7 +1933,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:45.856810"
+    "date": "2026-07-26 16:15:33.052997"
   },
   {
     "title_en": "Big bosses reveal the secret to getting hired",
@@ -1944,7 +1944,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:46.041300"
+    "date": "2026-07-26 16:15:33.287939"
   },
   {
     "title_en": "The 20-somethings betting big on tech stocks",
@@ -1955,7 +1955,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:46.253165"
+    "date": "2026-07-26 16:15:33.493606"
   },
   {
     "title_en": "This farmer wanted to quit the cocaine industry - he couldn't",
@@ -1966,7 +1966,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:46.471646"
+    "date": "2026-07-26 16:15:33.705035"
   },
   {
     "title_en": "Is tracking your food purchases good for your health?",
@@ -1977,7 +1977,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:46.658655"
+    "date": "2026-07-26 16:15:33.904906"
   },
   {
     "title_en": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
@@ -1988,7 +1988,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:46.828278"
+    "date": "2026-07-26 16:15:34.117184"
   },
   {
     "title_en": "Wealthy AI workers send San Francisco house prices soaring",
@@ -1999,7 +1999,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:47.024211"
+    "date": "2026-07-26 16:15:34.328457"
   },
   {
     "title_en": "Robots available for rent: But what can they do?",
@@ -2010,7 +2010,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:47.240215"
+    "date": "2026-07-26 16:15:34.553747"
   },
   {
     "title_en": "AI is 'not smart' so what's next in artificial intelligence?",
@@ -2021,7 +2021,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:47.436609"
+    "date": "2026-07-26 16:15:34.813486"
   },
   {
     "title_en": "Why is crucial tech vulnerable to the heat?",
@@ -2032,7 +2032,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:47.633591"
+    "date": "2026-07-26 16:15:35.021157"
   },
   {
     "title_en": "Last chance to apply for help with school costs",
@@ -2043,7 +2043,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:47.880523"
+    "date": "2026-07-26 16:15:35.246947"
   },
   {
     "title_en": "Rental searches for pet friendly properties drop after law change",
@@ -2054,7 +2054,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:48.074442"
+    "date": "2026-07-26 16:15:35.451306"
   },
   {
     "title_en": "What does the South make of the King of the North?",
@@ -2065,7 +2065,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:48.272998"
+    "date": "2026-07-26 16:15:35.667412"
   },
   {
     "title_en": "'We feel the pressure juggling holiday logistics'",
@@ -2076,7 +2076,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:48.467925"
+    "date": "2026-07-26 16:15:36.240820"
   },
   {
     "title_en": "Students tell us how to keep graduation outfit costs down",
@@ -2087,7 +2087,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:48.651766"
+    "date": "2026-07-26 16:15:36.469928"
   },
   {
     "title_en": "Why Gen Z are planning for life without a state pension",
@@ -2098,7 +2098,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:48.995196"
+    "date": "2026-07-26 16:15:36.664397"
   },
   {
     "title_en": "The furious dispute over what caused Air India flight 171 to crash",
@@ -2109,7 +2109,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:49.207312"
+    "date": "2026-07-26 16:15:36.857717"
   },
   {
     "title_en": "How the High Street became a window on our political instability",
@@ -2120,7 +2120,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:49.414222"
+    "date": "2026-07-26 16:15:37.080605"
   },
   {
     "title_en": "The £5 coffee that tells a story of global economic turmoil",
@@ -2131,7 +2131,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:49.729633"
+    "date": "2026-07-26 16:15:37.327811"
   },
   {
     "title_en": "The threat to summer holidays looming from jet fuel shortages",
@@ -2142,7 +2142,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:49.934851"
+    "date": "2026-07-26 16:15:37.520343"
   },
   {
     "title_en": "Money Box",
@@ -2153,7 +2153,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:50.109473"
+    "date": "2026-07-26 16:15:37.708833"
   },
   {
     "title_en": "How much money do you give for a wedding gift?",
@@ -2164,7 +2164,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:50.319688"
+    "date": "2026-07-26 16:15:37.943973"
   },
   {
     "title_en": "Business Daily",
@@ -2175,7 +2175,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:50.506704"
+    "date": "2026-07-26 16:15:38.187894"
   },
   {
     "title_en": "What about cuts for cafes and hotels?",
@@ -2186,7 +2186,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:50.678504"
+    "date": "2026-07-26 16:15:38.496777"
   },
   {
     "title_en": "What we know about 20% cut to some business rates",
@@ -2197,7 +2197,18 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:50.875837"
+    "date": "2026-07-26 16:15:38.750985"
+  },
+  {
+    "title_en": "Norris wins his first grand prix of year in Hungary",
+    "title_kn": "ನಾರ್ರಿಸ್ ಹಂಗೇರಿಯಲ್ಲಿ ವರ್ಷದ ತನ್ನ ಮೊದಲ ಗ್ರ್ಯಾಂಡ್ ಪ್ರಿಕ್ಸ್ ಅನ್ನು ಗೆಲ್ಲುತ್ತಾನೆ",
+    "description_en": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
+    "description_kn": "ಲ್ಯಾಂಡೋ ನಾರ್ರಿಸ್ ತನ್ನ ಮತ್ತು ಮೆಕ್‌ಲಾರೆನ್‌ರ ವರ್ಷದ ಮೊದಲ ವಿಜಯವನ್ನು ಹಂಗೇರಿಯನ್ ಗ್ರ್ಯಾಂಡ್ ಪ್ರಿಕ್ಸ್‌ನಲ್ಲಿ ಪಡೆದರು.",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:39.036466"
   },
   {
     "title_en": "After chaotic return, where does Joshua win leave Fury fight?",
@@ -2208,18 +2219,40 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:51.211373"
+    "date": "2026-07-26 16:15:39.246125"
   },
   {
-    "title_en": "Gomez injury overshadows winning Liverpool start for Iraola",
-    "title_kn": "Iraola ಗೆ ಲಿವರ್‌ಪೂಲ್ ಆರಂಭವನ್ನು ಗೆಲ್ಲುವಲ್ಲಿ ಗೊಮೆಜ್ ಗಾಯದ ನೆರಳು",
-    "description_en": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
-    "description_kn": "ಕೀರನ್ ಮಾರಿಸನ್, ಡೊಮಿನಿಕ್ ಸ್ಜೊಬೊಸ್ಜ್ಲೈ, ಫೆಡೆರಿಕೊ ಚಿಸಾ ಮತ್ತು ಲೆವಿಸ್ ಕೌಮಾಸ್ ಅವರ ಗೋಲುಗಳ ನೆರವಿನಿಂದ ಸುಂದರ್‌ಲ್ಯಾಂಡ್ ವಿರುದ್ಧ 4-2 ಗೆಲುವಿನೊಂದಿಗೆ ಲಿವರ್‌ಪೂಲ್ ಆಂಡೋನಿ ಇರಾಲಾ ನೇತೃತ್ವದಲ್ಲಿ ಜೀವನವನ್ನು ಪ್ರಾರಂಭಿಸಿತು.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
+    "title_en": "Gymnast Ward goes from Glasgow dreamer to gold medallist",
+    "title_kn": "ಜಿಮ್ನಾಸ್ಟ್ ವಾರ್ಡ್ ಗ್ಲ್ಯಾಸ್ಗೋ ಡ್ರೀಮರ್‌ನಿಂದ ಚಿನ್ನದ ಪದಕ ವಿಜೇತರಾಗುತ್ತಾರೆ",
+    "description_en": "Twelve years ago, a young Reuben Ward watched wide-eyed as Dan Keatings won gymnastics gold for Scotland in Glasgow. Now he celebrates achieving the same feat in the 2026 Commonwealth Games.",
+    "description_kn": "ಹನ್ನೆರಡು ವರ್ಷಗಳ ಹಿಂದೆ, ಗ್ಲಾಸ್ಗೋದಲ್ಲಿ ಡ್ಯಾನ್ ಕೀಟಿಂಗ್ಸ್ ಸ್ಕಾಟ್ಲೆಂಡ್‌ಗಾಗಿ ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್ ಚಿನ್ನವನ್ನು ಗೆದ್ದಾಗ ಯುವ ರೂಬೆನ್ ವಾರ್ಡ್ ವಿಶಾಲ ಕಣ್ಣುಗಳಿಂದ ವೀಕ್ಷಿಸಿದರು. ಈಗ ಅವರು 2026 ರ ಕಾಮನ್‌ವೆಲ್ತ್ ಗೇಮ್ಸ್‌ನಲ್ಲಿ ಅದೇ ಸಾಧನೆಯನ್ನು ಸಾಧಿಸಿದ್ದಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/gymnastics/articles/cx2r808lmreo?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:51.782648"
+    "date": "2026-07-26 16:15:40.674033"
+  },
+  {
+    "title_en": "Greaves wins Women's Matchplay in last-leg decider",
+    "title_kn": "ಗ್ರೀವ್ಸ್ ಕೊನೆಯ ಹಂತದ ನಿರ್ಧಾರಕದಲ್ಲಿ ಮಹಿಳೆಯರ ಪಂದ್ಯವನ್ನು ಗೆಲ್ಲುತ್ತಾನೆ",
+    "description_en": "Beau Greaves wins the Women's World Matchplay for the third time after coming through a thrilling last-leg decider to beat Fallon Sherrock.",
+    "description_kn": "ಬ್ಯೂ ಗ್ರೀವ್ಸ್ ಅವರು ಫಾಲನ್ ಶೆರಾಕ್ ಅವರನ್ನು ಸೋಲಿಸಲು ರೋಮಾಂಚಕ ಕೊನೆಯ ಲೆಗ್ ಡಿಸೈಡ್ ಮೂಲಕ ಬಂದ ನಂತರ ಮೂರನೇ ಬಾರಿಗೆ ಮಹಿಳಾ ವಿಶ್ವ ಪಂದ್ಯವನ್ನು ಗೆದ್ದಿದ್ದಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/darts/articles/cy9wvxqqj40o?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:41.744649"
+  },
+  {
+    "title_en": "Raining sixes - Buttler goes big against Birmingham Phoenix",
+    "title_kn": "ಸಿಕ್ಸರ್‌ಗಳ ಸುರಿಮಳೆ - ಬರ್ಮಿಂಗ್ಹ್ಯಾಮ್ ಫೀನಿಕ್ಸ್ ವಿರುದ್ಧ ಬಟ್ಲರ್ ದೊಡ್ಡದಾಗಿದೆ",
+    "description_en": "Jos Buttler scores 90 off 50 balls, in an innings that included five sixes, as he helps his Manchester Super Giants side reach 187-5 against Birmingham Phoenix in the men's Hundred.",
+    "description_kn": "ಜೋಸ್ ಬಟ್ಲರ್ ಐದು ಸಿಕ್ಸರ್‌ಗಳನ್ನು ಒಳಗೊಂಡ ಇನ್ನಿಂಗ್ಸ್‌ನಲ್ಲಿ 50 ಎಸೆತಗಳಲ್ಲಿ 90 ರನ್ ಗಳಿಸಿದರು, ಅವರು ಮ್ಯಾಂಚೆಸ್ಟರ್ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ತಂಡವನ್ನು ಪುರುಷರ ಶತಕದಲ್ಲಿ ಬರ್ಮಿಂಗ್ಹ್ಯಾಮ್ ಫೀನಿಕ್ಸ್ ವಿರುದ್ಧ 187-5 ತಲುಪಲು ಸಹಾಯ ಮಾಡಿದರು.",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyl6expd6wo?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:42.688471"
   },
   {
     "title_en": "England suffer heavy netball defeat by Australia",
@@ -2230,18 +2263,18 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:52.466754"
+    "date": "2026-07-26 16:15:42.929306"
   },
   {
-    "title_en": "Norris wins his first grand prix of year in Hungary",
-    "title_kn": "ನಾರ್ರಿಸ್ ಹಂಗೇರಿಯಲ್ಲಿ ವರ್ಷದ ತನ್ನ ಮೊದಲ ಗ್ರ್ಯಾಂಡ್ ಪ್ರಿಕ್ಸ್ ಅನ್ನು ಗೆಲ್ಲುತ್ತಾನೆ",
-    "description_en": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
-    "description_kn": "ಲ್ಯಾಂಡೋ ನಾರ್ರಿಸ್ ತನ್ನ ಮತ್ತು ಮೆಕ್‌ಲಾರೆನ್‌ರ ವರ್ಷದ ಮೊದಲ ವಿಜಯವನ್ನು ಹಂಗೇರಿಯನ್ ಗ್ರ್ಯಾಂಡ್ ಪ್ರಿಕ್ಸ್‌ನಲ್ಲಿ ಪಡೆದರು.",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
+    "title_en": "Chiesa happy but wants new chapter at Liverpool",
+    "title_kn": "ಚಿಸಾ ಸಂತೋಷವಾಗಿದೆ ಆದರೆ ಲಿವರ್‌ಪೂಲ್‌ನಲ್ಲಿ ಹೊಸ ಅಧ್ಯಾಯವನ್ನು ಬಯಸಿದೆ",
+    "description_en": "Liverpool forward Federico Chiesa says he is \"happy\" at the club amid speculation over his future.",
+    "description_kn": "ಲಿವರ್‌ಪೂಲ್ ಫಾರ್ವರ್ಡ್ ಫೆಡೆರಿಕೊ ಚಿಸಾ ಅವರು ತಮ್ಮ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಊಹಾಪೋಹಗಳ ನಡುವೆ ಕ್ಲಬ್‌ನಲ್ಲಿ \"ಸಂತೋಷ\" ಎಂದು ಹೇಳುತ್ತಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c70gzrx034ro?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:53.597930"
+    "date": "2026-07-26 16:15:43.623746"
   },
   {
     "title_en": "Female referee injured in melee during friendly",
@@ -2252,18 +2285,40 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:54.728244"
+    "date": "2026-07-26 16:15:43.822449"
   },
   {
-    "title_en": "Highlights - Joshua beats Prenga after early scare",
-    "title_kn": "ಮುಖ್ಯಾಂಶಗಳು - ಆರಂಭಿಕ ಭಯದ ನಂತರ ಜೋಶುವಾ ಪ್ರೇಂಗಾವನ್ನು ಸೋಲಿಸಿದರು",
-    "description_en": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.",
-    "description_kn": "ಅವರ ಪುನರಾಗಮನದ ಹೋರಾಟದಲ್ಲಿ, ಆಂಥೋನಿ ಜೋಶುವಾ ಎರಡು ಆರಂಭಿಕ ನಾಕ್‌ಡೌನ್‌ಗಳನ್ನು ಅನುಭವಿಸಿದರು ಆದರೆ ಸೌದಿ ಅರೇಬಿಯಾದಲ್ಲಿ ಎರಡನೇ ಸುತ್ತಿನಲ್ಲಿ ಕ್ರಿಸ್ಟಿಯನ್ ಪ್ರೆಂಗಾವನ್ನು ನಾಟಕೀಯವಾಗಿ ನಿಲ್ಲಿಸಲು ಚೇತರಿಸಿಕೊಂಡರು.",
-    "link": "https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss",
+    "title_en": "Shin holds on to win Women's Scottish Open",
+    "title_kn": "ಶಿನ್ ಮಹಿಳಾ ಸ್ಕಾಟಿಷ್ ಓಪನ್ ಗೆದ್ದುಕೊಂಡಿದ್ದಾರೆ",
+    "description_en": "Jenny Shin survives a tricky final round to see off fellow South Korean A-Lim Kim and win the Women's Scottish Open.",
+    "description_kn": "ಜೆನ್ನಿ ಶಿನ್ ಸಹ ದಕ್ಷಿಣ ಕೊರಿಯಾದ ಎ-ಲಿಮ್ ಕಿಮ್ ಅವರನ್ನು ಸೋಲಿಸಲು ಮತ್ತು ಮಹಿಳಾ ಸ್ಕಾಟಿಷ್ ಓಪನ್ ಅನ್ನು ಗೆಲ್ಲಲು ಟ್ರಿಕಿ ಅಂತಿಮ ಸುತ್ತಿನಲ್ಲಿ ಬದುಕುಳಿದರು.",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/c8enp1w59jgo?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:54.894070"
+    "date": "2026-07-26 16:15:44.723361"
+  },
+  {
+    "title_en": "Leeds go two points clear with win over Bradford",
+    "title_kn": "ಬ್ರಾಡ್‌ಫೋರ್ಡ್ ವಿರುದ್ಧದ ಗೆಲುವಿನೊಂದಿಗೆ ಲೀಡ್ಸ್ ಎರಡು ಅಂಕಗಳನ್ನು ಪಡೆದುಕೊಂಡಿತು",
+    "description_en": "Leeds Rhinos go two points clear at the top of the Super League standings following a comfortable victory over Bradford Bulls.",
+    "description_kn": "ಬ್ರಾಡ್‌ಫೋರ್ಡ್ ಬುಲ್ಸ್ ವಿರುದ್ಧದ ಜಯದ ನಂತರ ಲೀಡ್ಸ್ ರೈನೋಸ್ ಸೂಪರ್ ಲೀಗ್ ಅಂಕಪಟ್ಟಿಯಲ್ಲಿ ಅಗ್ರಸ್ಥಾನದಲ್ಲಿ ಎರಡು ಅಂಕಗಳನ್ನು ಗಳಿಸಿತು.",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gkx42q0g7o?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:45.569931"
+  },
+  {
+    "title_en": "Maynard loses York job three months after dramatic title win",
+    "title_kn": "ನಾಟಕೀಯ ಪ್ರಶಸ್ತಿ ಗೆದ್ದ ಮೂರು ತಿಂಗಳ ನಂತರ ಮೇನಾರ್ಡ್ ಯಾರ್ಕ್ ಕೆಲಸವನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+    "description_en": "York City confirm the exit of manager Stuart Maynard, three months after he guided the club back into the English Football League.",
+    "description_kn": "ಕ್ಲಬ್ ಅನ್ನು ಇಂಗ್ಲಿಷ್ ಫುಟ್‌ಬಾಲ್ ಲೀಗ್‌ಗೆ ಹಿಂತಿರುಗಿಸಿದ ಮೂರು ತಿಂಗಳ ನಂತರ ಮ್ಯಾನೇಜರ್ ಸ್ಟುವರ್ಟ್ ಮೇನಾರ್ಡ್‌ನ ನಿರ್ಗಮನವನ್ನು ಯಾರ್ಕ್ ಸಿಟಿ ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp87v9ddqvvo?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:48.037671"
   },
   {
     "title_en": "Arsenal explore Vinicius Jr move - Sunday's gossip",
@@ -2274,29 +2329,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:55.090676"
-  },
-  {
-    "title_en": "Wilson makes Leeds debut in defeat by Wrexham",
-    "title_kn": "ವಿಲ್ಸನ್ ಲೀಡ್ಸ್‌ಗೆ ವ್ರೆಕ್ಸ್‌ಹ್ಯಾಮ್‌ನ ಸೋಲಿನಲ್ಲಿ ಚೊಚ್ಚಲ ಪ್ರವೇಶ ಮಾಡಿದರು",
-    "description_en": "Wales attacking midfielder Harry Wilson makes his first outing for Leeds United as they are beaten 3-2 by Wrexham in the club's opening pre-season game.",
-    "description_kn": "ವೇಲ್ಸ್‌ನ ಆಕ್ರಮಣಕಾರಿ ಮಿಡ್‌ಫೀಲ್ಡರ್ ಹ್ಯಾರಿ ವಿಲ್ಸನ್ ಅವರು ಲೀಡ್ಸ್ ಯುನೈಟೆಡ್‌ಗಾಗಿ ತಮ್ಮ ಮೊದಲ ಪಂದ್ಯವನ್ನು ಮಾಡಿದರು, ಅವರು ಕ್ಲಬ್‌ನ ಆರಂಭಿಕ ಪೂರ್ವ-ಋತುವಿನ ಪಂದ್ಯದಲ್ಲಿ ರೆಕ್ಸ್‌ಹ್ಯಾಮ್‌ನಿಂದ 3-2 ರಿಂದ ಸೋಲಿಸಲ್ಪಟ್ಟರು.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cy9wvln2234o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:55.273307"
-  },
-  {
-    "title_en": "Ramsay-Peaty in tears after missing out on gold again",
-    "title_kn": "ರಾಮ್ಸೆ-ಪೀಟಿ ಮತ್ತೆ ಚಿನ್ನವನ್ನು ಕಳೆದುಕೊಂಡ ನಂತರ ಕಣ್ಣೀರು ಹಾಕಿದರು",
-    "description_en": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
-    "description_kn": "ಗ್ಲ್ಯಾಸ್ಗೋದಲ್ಲಿ ನಡೆದ ಕಾಮನ್‌ವೆಲ್ತ್ ಕ್ರೀಡಾಕೂಟದಲ್ಲಿ ಚಿನ್ನವನ್ನು ಕಳೆದುಕೊಂಡ ನಂತರ ಅವರ ಭವಿಷ್ಯವು ಹೇಗೆ ಕಾಣುತ್ತದೆ ಎಂದು ಭಾವನಾತ್ಮಕ ಆಡಮ್ ರಾಮ್ಸೆ-ಪೀಟಿ ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ.",
-    "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:55.461474"
+    "date": "2026-07-26 16:15:48.266450"
   },
   {
     "title_en": "Littler sets up Price final at World Matchplay",
@@ -2307,29 +2340,29 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:55.637556"
+    "date": "2026-07-26 16:15:48.473276"
   },
   {
-    "title_en": "Spence Jr to retire after losing comeback fight",
-    "title_kn": "ಸ್ಪೆನ್ಸ್ ಜೂನಿಯರ್ ಪುನರಾಗಮನ ಹೋರಾಟದಲ್ಲಿ ಸೋತ ನಂತರ ನಿವೃತ್ತಿಯಾಗಲಿದ್ದಾರೆ",
-    "description_en": "Former welterweight world champion Errol Spence Jr will retire from boxing after losing his comeback fight to Tim Tszyu in Sydney.",
-    "description_kn": "ಮಾಜಿ ವೆಲ್ಟರ್‌ವೇಟ್ ವಿಶ್ವ ಚಾಂಪಿಯನ್ ಎರೋಲ್ ಸ್ಪೆನ್ಸ್ ಜೂನಿಯರ್ ಅವರು ಸಿಡ್ನಿಯಲ್ಲಿ ಟಿಮ್ ತ್ಸ್ಯು ಅವರ ಪುನರಾಗಮನದ ಹೋರಾಟದಲ್ಲಿ ಸೋತ ನಂತರ ಬಾಕ್ಸಿಂಗ್‌ನಿಂದ ನಿವೃತ್ತರಾಗಲಿದ್ದಾರೆ.",
-    "link": "https://www.bbc.co.uk/sport/boxing/articles/cz05133k3nxo?at_medium=RSS&at_campaign=rss",
+    "title_en": "'Bowls him!'...twice! - Two in two for Tongue as Smeed and Ahmed fall",
+    "title_kn": "'ಅವನಿಗೆ ಬೌಲ್ಸ್!'...ಎರಡು ಬಾರಿ! - ಸ್ಮೀದ್ ಮತ್ತು ಅಹ್ಮದ್ ಪತನದಂತೆ ನಾಲಿಗೆಗೆ ಎರಡು ಎರಡು",
+    "description_en": "Josh Tongue gives Manchester Super Giants the perfect start with the ball as he bowls Will Smeed and Rehan Ahmed in back-to-back deliveries, as Birmingham Phoenix get off to a poor start, chasing 188 to win in the men's Hundred.",
+    "description_kn": "ಜೋಶ್ ಟಂಗ್ ಮ್ಯಾಂಚೆಸ್ಟರ್ ಸೂಪರ್ ಜೈಂಟ್ಸ್‌ಗೆ ವಿಲ್ ಸ್ಮೀಡ್ ಮತ್ತು ರೆಹಾನ್ ಅಹ್ಮದ್ ಅವರನ್ನು ಬ್ಯಾಕ್-ಟು-ಬ್ಯಾಕ್ ಎಸೆತಗಳಲ್ಲಿ ಬೌಲ್ ಮಾಡುವ ಮೂಲಕ ಪರಿಪೂರ್ಣ ಆರಂಭವನ್ನು ನೀಡಿದರು, ಏಕೆಂದರೆ ಬರ್ಮಿಂಗ್ಹ್ಯಾಮ್ ಫೀನಿಕ್ಸ್ ಕಳಪೆ ಆರಂಭವನ್ನು ಪಡೆಯಿತು, ಪುರುಷರ ಶತಕದಲ್ಲಿ ಗೆಲ್ಲಲು 188 ರನ್ ಗಳಿಸಿತು.",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cedjy5031x2o?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:55.805927"
+    "date": "2026-07-26 16:15:49.358856"
   },
   {
-    "title_en": "Who am I? Guess Premier League star No 6",
-    "title_kn": "ನಾನು ಯಾರು? ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಸ್ಟಾರ್ ನಂ 6 ಗೆಸ್",
-    "description_en": "Will you get today's player in as few attempts as possible?",
-    "description_kn": "ನೀವು ಇಂದಿನ ಆಟಗಾರನನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ಕಡಿಮೆ ಪ್ರಯತ್ನಗಳಲ್ಲಿ ಪಡೆಯುತ್ತೀರಾ?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/czekgekw0elo?at_medium=RSS&at_campaign=rss",
+    "title_en": "Highlights - Joshua beats Prenga after early scare",
+    "title_kn": "ಮುಖ್ಯಾಂಶಗಳು - ಆರಂಭಿಕ ಭಯದ ನಂತರ ಜೋಶುವಾ ಪ್ರೇಂಗಾವನ್ನು ಸೋಲಿಸಿದರು",
+    "description_en": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.",
+    "description_kn": "ಅವರ ಪುನರಾಗಮನದ ಹೋರಾಟದಲ್ಲಿ, ಆಂಥೋನಿ ಜೋಶುವಾ ಎರಡು ಆರಂಭಿಕ ನಾಕ್‌ಡೌನ್‌ಗಳನ್ನು ಅನುಭವಿಸಿದರು ಆದರೆ ಸೌದಿ ಅರೇಬಿಯಾದಲ್ಲಿ ಎರಡನೇ ಸುತ್ತಿನಲ್ಲಿ ಕ್ರಿಸ್ಟಿಯನ್ ಪ್ರೆಂಗಾವನ್ನು ನಾಟಕೀಯವಾಗಿ ನಿಲ್ಲಿಸಲು ಚೇತರಿಸಿಕೊಂಡರು.",
+    "link": "https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:55.991356"
+    "date": "2026-07-26 16:15:49.551250"
   },
   {
     "title_en": "Usyk confirms next fight will be his 'last dance'",
@@ -2340,7 +2373,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:56.171025"
+    "date": "2026-07-26 16:15:49.756351"
   },
   {
     "title_en": "How two 'sensational' fielding moments win the match for Sunrisers",
@@ -2351,7 +2384,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:56.355361"
+    "date": "2026-07-26 16:15:49.943275"
   },
   {
     "title_en": "'The game has turned!' - Rashid takes three wickets in five balls",
@@ -2362,29 +2395,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:56.549385"
-  },
-  {
-    "title_en": "Ravindra stars as Welsh Fire beat MI London to continue winning start",
-    "title_kn": "ರವೀಂದ್ರ ಅವರು ವೆಲ್ಷ್ ಫೈರ್ ಆಗಿ MI ಲಂಡನ್ ಅನ್ನು ಸೋಲಿಸಿ ಗೆಲುವಿನ ಆರಂಭವನ್ನು ಮುಂದುವರೆಸಿದರು",
-    "description_en": "Rachin Ravindra's superb 98 from 44 balls helps Welsh Fire win their second game in a row in The Hundred, beating MI London by 15 runs.",
-    "description_kn": "ರಚಿನ್ ರವೀಂದ್ರ ಅವರ 44 ಎಸೆತಗಳಲ್ಲಿ ಅಮೋಘ 98 ರನ್‌ಗಳು ವೆಲ್ಷ್ ಫೈರ್‌ಗೆ ದಿ ಹಂಡ್ರೆಡ್‌ನಲ್ಲಿ ಸತತ ಎರಡನೇ ಪಂದ್ಯವನ್ನು ಗೆಲ್ಲಲು ಸಹಾಯ ಮಾಡಿತು, MI ಲಂಡನ್ ಅನ್ನು 15 ರನ್‌ಗಳಿಂದ ಸೋಲಿಸಿತು.",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/c934l1xp8jqo?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:56.716406"
-  },
-  {
-    "title_en": "Fire smash highest women's Hundred total in 2026 to thrash MI London",
-    "title_kn": "2026 ರಲ್ಲಿ MI ಲಂಡನ್ ಅನ್ನು ಸೋಲಿಸಲು ಫೈರ್ ಸ್ಮ್ಯಾಶ್ ಅತ್ಯಧಿಕ ಮಹಿಳಾ ಶತಕ",
-    "description_en": "Welsh Fire put on a dominant display in Cardiff to make light work of MI London, as captain Sophie Devine's excellent all-round performance leads her side to a 60-run victory. The result leaves the visitors winless in their opening two matches of The Hundred.",
-    "description_kn": "ವೆಲ್ಷ್ ಫೈರ್ ಕಾರ್ಡಿಫ್‌ನಲ್ಲಿ MI ಲಂಡನ್‌ನ ಲಘುವಾಗಿ ಕೆಲಸ ಮಾಡಲು ಪ್ರಬಲ ಪ್ರದರ್ಶನವನ್ನು ನೀಡಿತು, ಏಕೆಂದರೆ ನಾಯಕಿ ಸೋಫಿ ಡಿವೈನ್ ಅವರ ಅತ್ಯುತ್ತಮ ಆಲ್-ರೌಂಡ್ ಪ್ರದರ್ಶನವು ಅವರ ತಂಡವನ್ನು 60 ರನ್‌ಗಳ ವಿಜಯದತ್ತ ಮುನ್ನಡೆಸಿತು. ಇದರ ಫಲಿತಾಂಶವು ಸಂದರ್ಶಕರನ್ನು ದಿ ಹಂಡ್ರೆಡ್‌ನ ಆರಂಭಿಕ ಎರಡು ಪಂದ್ಯಗಳಲ್ಲಿ ಜಯಿಸದೆ ಬಿಡುತ್ತದೆ.",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/c5yveq76p13o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:56.897340"
+    "date": "2026-07-26 16:15:50.176630"
   },
   {
     "title_en": "Joshua's emotional win over Prenga in pictures",
@@ -2395,7 +2406,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:57.103892"
+    "date": "2026-07-26 16:15:50.380878"
   },
   {
     "title_en": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
@@ -2406,29 +2417,40 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:57.278213"
+    "date": "2026-07-26 16:15:50.597725"
   },
   {
-    "title_en": "Vozinha to join Chilean club after World Cup heroics",
-    "title_kn": "ವಿಶ್ವಕಪ್ ಹೀರೋಯಿಕ್ಸ್ ನಂತರ ವೊಜಿನ್ಹಾ ಚಿಲಿಯ ಕ್ಲಬ್‌ಗೆ ಸೇರಲಿದ್ದಾರೆ",
-    "description_en": "Cape Verde goalkeeper Vozinha, who earned plaudits for his feats during the World Cup, is set to join Chilean side Colo Colo.",
-    "description_kn": "ಕೇಪ್ ವರ್ಡೆ ಗೋಲ್‌ಕೀಪರ್ ವೊಜಿನ್ಹಾ, ವಿಶ್ವಕಪ್‌ನಲ್ಲಿ ತಮ್ಮ ಸಾಧನೆಗಳಿಗಾಗಿ ಪ್ರಶಂಸೆ ಗಳಿಸಿದರು, ಚಿಲಿಯ ತಂಡ ಕೊಲೊ ಕೊಲೊಗೆ ಸೇರಲು ಸಿದ್ಧರಾಗಿದ್ದಾರೆ.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss",
+    "title_en": "Spence Jr to retire after losing comeback fight",
+    "title_kn": "ಸ್ಪೆನ್ಸ್ ಜೂನಿಯರ್ ಪುನರಾಗಮನ ಹೋರಾಟದಲ್ಲಿ ಸೋತ ನಂತರ ನಿವೃತ್ತಿಯಾಗಲಿದ್ದಾರೆ",
+    "description_en": "Former welterweight world champion Errol Spence Jr will retire from boxing after losing his comeback fight to Tim Tszyu in Sydney.",
+    "description_kn": "ಮಾಜಿ ವೆಲ್ಟರ್‌ವೇಟ್ ವಿಶ್ವ ಚಾಂಪಿಯನ್ ಎರೋಲ್ ಸ್ಪೆನ್ಸ್ ಜೂನಿಯರ್ ಅವರು ಸಿಡ್ನಿಯಲ್ಲಿ ಟಿಮ್ ತ್ಸ್ಯು ಅವರ ಪುನರಾಗಮನದ ಹೋರಾಟದಲ್ಲಿ ಸೋತ ನಂತರ ಬಾಕ್ಸಿಂಗ್‌ನಿಂದ ನಿವೃತ್ತರಾಗಲಿದ್ದಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cz05133k3nxo?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:57.447632"
+    "date": "2026-07-26 16:15:50.798530"
   },
   {
-    "title_en": "Gymnast Langton cleared of serious injury after shocking fall",
-    "title_kn": "ಆಘಾತಕಾರಿ ಪತನದ ನಂತರ ಜಿಮ್ನಾಸ್ಟ್ ಲ್ಯಾಂಗ್ಟನ್ ಗಂಭೀರ ಗಾಯದಿಂದ ಮುಕ್ತರಾದರು",
-    "description_en": "English gymnast Gabriel Langton is cleared of serious injury after a sickening fall at the Commonwealth Games on Friday.",
-    "description_kn": "ಶುಕ್ರವಾರ ನಡೆದ ಕಾಮನ್‌ವೆಲ್ತ್ ಕ್ರೀಡಾಕೂಟದಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಜಿಮ್ನಾಸ್ಟ್ ಗೇಬ್ರಿಯಲ್ ಲ್ಯಾಂಗ್ಟನ್ ಅವರು ಗಂಭೀರವಾದ ಗಾಯದಿಂದ ಮುಕ್ತರಾಗಿದ್ದಾರೆ.",
-    "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c0jlgx7n40eo?at_medium=RSS&at_campaign=rss",
+    "title_en": "Who am I? Guess Premier League star No 6",
+    "title_kn": "ನಾನು ಯಾರು? ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಸ್ಟಾರ್ ನಂ 6 ಗೆಸ್",
+    "description_en": "Will you get today's player in as few attempts as possible?",
+    "description_kn": "ನೀವು ಇಂದಿನ ಆಟಗಾರನನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ಕಡಿಮೆ ಪ್ರಯತ್ನಗಳಲ್ಲಿ ಪಡೆಯುತ್ತೀರಾ?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czekgekw0elo?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:57.640563"
+    "date": "2026-07-26 16:15:51.010811"
+  },
+  {
+    "title_en": "Wilson makes Leeds debut in defeat by Wrexham",
+    "title_kn": "ವಿಲ್ಸನ್ ಲೀಡ್ಸ್‌ಗೆ ವ್ರೆಕ್ಸ್‌ಹ್ಯಾಮ್‌ನ ಸೋಲಿನಲ್ಲಿ ಚೊಚ್ಚಲ ಪ್ರವೇಶ ಮಾಡಿದರು",
+    "description_en": "Wales attacking midfielder Harry Wilson makes his first outing for Leeds United as they are beaten 3-2 by Wrexham in the club's opening pre-season game.",
+    "description_kn": "ವೇಲ್ಸ್‌ನ ಆಕ್ರಮಣಕಾರಿ ಮಿಡ್‌ಫೀಲ್ಡರ್ ಹ್ಯಾರಿ ವಿಲ್ಸನ್ ಅವರು ಲೀಡ್ಸ್ ಯುನೈಟೆಡ್‌ಗಾಗಿ ತಮ್ಮ ಮೊದಲ ಪಂದ್ಯವನ್ನು ಮಾಡಿದರು, ಅವರು ಕ್ಲಬ್‌ನ ಆರಂಭಿಕ ಪೂರ್ವ-ಋತುವಿನ ಪಂದ್ಯದಲ್ಲಿ ರೆಕ್ಸ್‌ಹ್ಯಾಮ್‌ನಿಂದ 3-2 ರಿಂದ ಸೋಲಿಸಲ್ಪಟ್ಟರು.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy9wvln2234o?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:51.224471"
   },
   {
     "title_en": "Could study into head injuries change women's rugby?",
@@ -2439,18 +2461,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:57.823914"
-  },
-  {
-    "title_en": "Paddle UK chief hails GB start to LA28 qualification",
-    "title_kn": "ಪ್ಯಾಡಲ್ ಯುಕೆ ಮುಖ್ಯಸ್ಥರು ಜಿಬಿ ಪ್ರಾರಂಭದಿಂದ LA28 ಅರ್ಹತೆಯನ್ನು ಹೊಂದಿದ್ದಾರೆ",
-    "description_en": "The British team start their Olympic qualification campaign with third place in the medal table at the ICF Canoe Slalom World Championships in Oklahoma City.",
-    "description_kn": "ಒಕ್ಲಹೋಮ ನಗರದಲ್ಲಿ ನಡೆದ ICF ಕ್ಯಾನೋ ಸ್ಲಾಲೋಮ್ ವರ್ಲ್ಡ್ ಚಾಂಪಿಯನ್‌ಶಿಪ್‌ನಲ್ಲಿ ಪದಕ ಪಟ್ಟಿಯಲ್ಲಿ ಮೂರನೇ ಸ್ಥಾನದೊಂದಿಗೆ ಬ್ರಿಟಿಷ್ ತಂಡವು ತಮ್ಮ ಒಲಿಂಪಿಕ್ ಅರ್ಹತಾ ಅಭಿಯಾನವನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತದೆ.",
-    "link": "https://www.bbc.co.uk/sport/canoeing/articles/cx2d77zqjz1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:58.028439"
+    "date": "2026-07-26 16:15:51.420232"
   },
   {
     "title_en": "68 fights unbeaten - now teenager White is aiming for gold",
@@ -2461,18 +2472,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:58.211519"
-  },
-  {
-    "title_en": "Scotland upset Wales for first win of Commonwealths",
-    "title_kn": "ಕಾಮನ್‌ವೆಲ್ತ್‌ನ ಮೊದಲ ಗೆಲುವಿಗಾಗಿ ಸ್ಕಾಟ್ಲೆಂಡ್ ವೇಲ್ಸ್‌ನ್ನು ಸೋಲಿಸಿತು",
-    "description_en": "Scotland defeat Wales in an all-British clash at The Hydro in Glasgow at the Commonwealth Games",
-    "description_kn": "ಕಾಮನ್‌ವೆಲ್ತ್ ಗೇಮ್ಸ್‌ನಲ್ಲಿ ಗ್ಲಾಸ್ಗೋದಲ್ಲಿನ ದಿ ಹೈಡ್ರೋನಲ್ಲಿ ನಡೆದ ಆಲ್-ಬ್ರಿಟಿಷ್ ಘರ್ಷಣೆಯಲ್ಲಿ ಸ್ಕಾಟ್ಲೆಂಡ್ ವೇಲ್ಸ್ ಅನ್ನು ಸೋಲಿಸಿತು",
-    "link": "https://www.bbc.co.uk/sport/netball/articles/cn8n0015x39o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:12:58.410707"
+    "date": "2026-07-26 16:15:51.663249"
   },
   {
     "title_en": "Daily schedule",
@@ -2483,7 +2483,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:58.613767"
+    "date": "2026-07-26 16:15:51.849203"
   },
   {
     "title_en": "Commonwealth Games medal table and results",
@@ -2494,7 +2494,18 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:59.413411"
+    "date": "2026-07-26 16:15:52.044895"
+  },
+  {
+    "title_en": "Ramsay-Peaty in tears after missing out on gold again",
+    "title_kn": "ರಾಮ್ಸೆ-ಪೀಟಿ ಮತ್ತೆ ಚಿನ್ನವನ್ನು ಕಳೆದುಕೊಂಡ ನಂತರ ಕಣ್ಣೀರು ಹಾಕಿದರು",
+    "description_en": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
+    "description_kn": "ಗ್ಲ್ಯಾಸ್ಗೋದಲ್ಲಿ ನಡೆದ ಕಾಮನ್‌ವೆಲ್ತ್ ಕ್ರೀಡಾಕೂಟದಲ್ಲಿ ಚಿನ್ನವನ್ನು ಕಳೆದುಕೊಂಡ ನಂತರ ಅವರ ಭವಿಷ್ಯವು ಹೇಗೆ ಕಾಣುತ್ತದೆ ಎಂದು ಭಾವನಾತ್ಮಕ ಆಡಮ್ ರಾಮ್ಸೆ-ಪೀಟಿ ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:52.263732"
   },
   {
     "title_en": "How Eala's Wimbledon run made Filipinos fall in love with tennis",
@@ -2505,18 +2516,40 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:59.615018"
+    "date": "2026-07-26 16:15:52.464362"
   },
   {
-    "title_en": "Howe unsure over Guimaraes future amid Arsenal interest",
-    "title_kn": "ಆರ್ಸೆನಲ್ ಆಸಕ್ತಿಯ ನಡುವೆ ಗೈಮಾರೆಸ್ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಹೇಗೆ ಖಚಿತವಾಗಿಲ್ಲ",
-    "description_en": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
-    "description_kn": "ನ್ಯೂಕ್ಯಾಸಲ್ ಯುನೈಟೆಡ್ ಮುಖ್ಯ ತರಬೇತುದಾರ ಎಡ್ಡಿ ಹೋವೆ ಅವರು ನಾಯಕ ಬ್ರೂನೋ ಗೈಮಾರೆಸ್ ಅವರೊಂದಿಗೆ ಸಕಾರಾತ್ಮಕ ಚರ್ಚೆ ನಡೆಸಿದ್ದಾರೆ ಎಂದು ಹೇಳುತ್ತಾರೆ.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
+    "title_en": "Vozinha to join Chilean club after World Cup heroics",
+    "title_kn": "ವಿಶ್ವಕಪ್ ಹೀರೋಯಿಕ್ಸ್ ನಂತರ ವೊಜಿನ್ಹಾ ಚಿಲಿಯ ಕ್ಲಬ್‌ಗೆ ಸೇರಲಿದ್ದಾರೆ",
+    "description_en": "Cape Verde goalkeeper Vozinha, who earned plaudits for his feats during the World Cup, is set to join Chilean side Colo Colo.",
+    "description_kn": "ಕೇಪ್ ವರ್ಡೆ ಗೋಲ್‌ಕೀಪರ್ ವೊಜಿನ್ಹಾ, ವಿಶ್ವಕಪ್‌ನಲ್ಲಿ ತಮ್ಮ ಸಾಧನೆಗಳಿಗಾಗಿ ಪ್ರಶಂಸೆ ಗಳಿಸಿದರು, ಚಿಲಿಯ ತಂಡ ಕೊಲೊ ಕೊಲೊಗೆ ಸೇರಲು ಸಿದ್ಧರಾಗಿದ್ದಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:59.807176"
+    "date": "2026-07-26 16:15:52.647131"
+  },
+  {
+    "title_en": "Paddle UK chief hails GB start to LA28 qualification",
+    "title_kn": "ಪ್ಯಾಡಲ್ ಯುಕೆ ಮುಖ್ಯಸ್ಥರು ಜಿಬಿ ಪ್ರಾರಂಭದಿಂದ LA28 ಅರ್ಹತೆಯನ್ನು ಹೊಂದಿದ್ದಾರೆ",
+    "description_en": "The British team start their Olympic qualification campaign with third place in the medal table at the ICF Canoe Slalom World Championships in Oklahoma City.",
+    "description_kn": "ಒಕ್ಲಹೋಮ ನಗರದಲ್ಲಿ ನಡೆದ ICF ಕ್ಯಾನೋ ಸ್ಲಾಲೋಮ್ ವರ್ಲ್ಡ್ ಚಾಂಪಿಯನ್‌ಶಿಪ್‌ನಲ್ಲಿ ಪದಕ ಪಟ್ಟಿಯಲ್ಲಿ ಮೂರನೇ ಸ್ಥಾನದೊಂದಿಗೆ ಬ್ರಿಟಿಷ್ ತಂಡವು ತಮ್ಮ ಒಲಿಂಪಿಕ್ ಅರ್ಹತಾ ಅಭಿಯಾನವನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತದೆ.",
+    "link": "https://www.bbc.co.uk/sport/canoeing/articles/cx2d77zqjz1o?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:52.857936"
+  },
+  {
+    "title_en": "Scotland upset Wales for first win of Commonwealths",
+    "title_kn": "ಕಾಮನ್‌ವೆಲ್ತ್‌ನ ಮೊದಲ ಗೆಲುವಿಗಾಗಿ ಸ್ಕಾಟ್ಲೆಂಡ್ ವೇಲ್ಸ್‌ನ್ನು ಸೋಲಿಸಿತು",
+    "description_en": "Scotland defeat Wales in an all-British clash at The Hydro in Glasgow at the Commonwealth Games",
+    "description_kn": "ಕಾಮನ್‌ವೆಲ್ತ್ ಗೇಮ್ಸ್‌ನಲ್ಲಿ ಗ್ಲಾಸ್ಗೋದಲ್ಲಿನ ದಿ ಹೈಡ್ರೋನಲ್ಲಿ ನಡೆದ ಆಲ್-ಬ್ರಿಟಿಷ್ ಘರ್ಷಣೆಯಲ್ಲಿ ಸ್ಕಾಟ್ಲೆಂಡ್ ವೇಲ್ಸ್ ಅನ್ನು ಸೋಲಿಸಿತು",
+    "link": "https://www.bbc.co.uk/sport/netball/articles/cn8n0015x39o?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:53.113883"
   },
   {
     "title_en": "Malaysia to host postponed Bahrain GP",
@@ -2527,7 +2560,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:12:59.999538"
+    "date": "2026-07-26 16:15:53.349300"
   },
   {
     "title_en": "Who am I? Guess The Hundred cricket star No 6",
@@ -2538,40 +2571,29 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:00.196728"
+    "date": "2026-07-26 16:15:53.548266"
   },
   {
-    "title_en": "Could Mount be final piece in Man Utd midfield jigsaw?",
-    "title_kn": "ಮ್ಯಾನ್ ಯುಟಿಡಿ ಮಿಡ್‌ಫೀಲ್ಡ್ ಜಿಗ್ಸಾದಲ್ಲಿ ಮೌಂಟ್ ಅಂತಿಮ ಭಾಗವಾಗಿರಬಹುದೇ?",
-    "description_en": "Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games.",
-    "description_kn": "ಮೇಸನ್ ಮೌಂಟ್ ತಮ್ಮ ಮೊದಲ ಎರಡು ಪೂರ್ವ-ಋತುವಿನ ಪಂದ್ಯಗಳಲ್ಲಿ ಮ್ಯಾಂಚೆಸ್ಟರ್ ಯುನೈಟೆಡ್‌ಗಾಗಿ ಹೊಸ ಆಗಮನದ ಆಂಡ್ರೆ ಸ್ಯಾಂಟೋಸ್ ಜೊತೆಗೆ ಅತ್ಯುತ್ತಮವಾಗಿದೆ.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
+    "title_en": "Ravindra stars as Welsh Fire beat MI London to continue winning start",
+    "title_kn": "ರವೀಂದ್ರ ಅವರು ವೆಲ್ಷ್ ಫೈರ್ ಆಗಿ MI ಲಂಡನ್ ಅನ್ನು ಸೋಲಿಸಿ ಗೆಲುವಿನ ಆರಂಭವನ್ನು ಮುಂದುವರೆಸಿದರು",
+    "description_en": "Rachin Ravindra's superb 98 from 44 balls helps Welsh Fire win their second game in a row in The Hundred, beating MI London by 15 runs.",
+    "description_kn": "ರಚಿನ್ ರವೀಂದ್ರ ಅವರ 44 ಎಸೆತಗಳಲ್ಲಿ ಅಮೋಘ 98 ರನ್‌ಗಳು ವೆಲ್ಷ್ ಫೈರ್‌ಗೆ ದಿ ಹಂಡ್ರೆಡ್‌ನಲ್ಲಿ ಸತತ ಎರಡನೇ ಪಂದ್ಯವನ್ನು ಗೆಲ್ಲಲು ಸಹಾಯ ಮಾಡಿತು, MI ಲಂಡನ್ ಅನ್ನು 15 ರನ್‌ಗಳಿಂದ ಸೋಲಿಸಿತು.",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/c934l1xp8jqo?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:00.381364"
+    "date": "2026-07-26 16:15:53.746074"
   },
   {
-    "title_en": "Bloodied Kelly battles past Agyarko to retain title",
-    "title_kn": "ರಕ್ತಸಿಕ್ತ ಕೆಲ್ಲಿ ಪ್ರಶಸ್ತಿಯನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು ಅಗ್ಯಾರ್ಕೊ ಅವರ ಹಿಂದೆ ಹೋರಾಡುತ್ತಾನೆ",
-    "description_en": "Briton Josh Kelly is forced to dig deep to retain his IBF light-middleweight world title in a points win against Ireland's Caoimhin Agyarko.",
-    "description_kn": "ಬ್ರಿಟನ್ ಜೋಶ್ ಕೆಲ್ಲಿ ತನ್ನ IBF ಲೈಟ್-ಮಿಡಲ್‌ವೇಟ್ ವಿಶ್ವ ಪ್ರಶಸ್ತಿಯನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು ಆಳವಾಗಿ ಅಗೆಯಲು ಬಲವಂತವಾಗಿ ಐರ್ಲೆಂಡ್‌ನ ಕಾವೊಯಿಮ್‌ಹಿನ್ ಅಗ್ಯಾರ್ಕೊ ವಿರುದ್ಧದ ಅಂಕಗಳ ಗೆಲುವಿನಲ್ಲಿ.",
-    "link": "https://www.bbc.co.uk/sport/boxing/articles/clyqz0lq4keo?at_medium=RSS&at_campaign=rss",
+    "title_en": "Fire smash highest women's Hundred total in 2026 to thrash MI London",
+    "title_kn": "2026 ರಲ್ಲಿ MI ಲಂಡನ್ ಅನ್ನು ಸೋಲಿಸಲು ಫೈರ್ ಸ್ಮ್ಯಾಶ್ ಅತ್ಯಧಿಕ ಮಹಿಳಾ ಶತಕ",
+    "description_en": "Welsh Fire put on a dominant display in Cardiff to make light work of MI London, as captain Sophie Devine's excellent all-round performance leads her side to a 60-run victory. The result leaves the visitors winless in their opening two matches of The Hundred.",
+    "description_kn": "ವೆಲ್ಷ್ ಫೈರ್ ಕಾರ್ಡಿಫ್‌ನಲ್ಲಿ MI ಲಂಡನ್‌ನ ಲಘುವಾಗಿ ಕೆಲಸ ಮಾಡಲು ಪ್ರಬಲ ಪ್ರದರ್ಶನವನ್ನು ನೀಡಿತು, ಏಕೆಂದರೆ ನಾಯಕಿ ಸೋಫಿ ಡಿವೈನ್ ಅವರ ಅತ್ಯುತ್ತಮ ಆಲ್-ರೌಂಡ್ ಪ್ರದರ್ಶನವು ಅವರ ತಂಡವನ್ನು 60 ರನ್‌ಗಳ ವಿಜಯದತ್ತ ಮುನ್ನಡೆಸಿತು. ಇದರ ಫಲಿತಾಂಶವು ಸಂದರ್ಶಕರನ್ನು ದಿ ಹಂಡ್ರೆಡ್‌ನ ಆರಂಭಿಕ ಎರಡು ಪಂದ್ಯಗಳಲ್ಲಿ ಜಯಿಸದೆ ಬಿಡುತ್ತದೆ.",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/c5yveq76p13o?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:00.553513"
-  },
-  {
-    "title_en": "'Maybe he's a racist' - Trump critical of James",
-    "title_kn": "'ಬಹುಶಃ ಅವನು ಜನಾಂಗೀಯವಾದಿಯಾಗಿರಬಹುದು' - ಜೇಮ್ಸ್‌ಗೆ ಟ್ರಂಪ್ ಟೀಕೆ",
-    "description_en": "United States President Donald Trump said LeBron James might be \"a racist\" when asked if the basketball star is the \"best ever\" to play the sport.",
-    "description_kn": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಅಧ್ಯಕ್ಷ ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್, ಬ್ಯಾಸ್ಕೆಟ್‌ಬಾಲ್ ತಾರೆ ಕ್ರೀಡೆಯನ್ನು ಆಡಲು \"ಎಂದೆಂದಿಗೂ ಉತ್ತಮ\" ಎಂದು ಕೇಳಿದಾಗ ಲೆಬ್ರಾನ್ ಜೇಮ್ಸ್ \"ಜನಾಂಗೀಯವಾದಿ\" ಆಗಿರಬಹುದು ಎಂದು ಹೇಳಿದರು.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:13:00.729087"
+    "date": "2026-07-26 16:15:54.004677"
   },
   {
     "title_en": "Big-hitting Marsh helps Sunrisers beat Brave for first win",
@@ -2582,7 +2604,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:00.898502"
+    "date": "2026-07-26 16:15:54.193323"
   },
   {
     "title_en": "'One more last dance' - Usyk says retirement is near",
@@ -2593,7 +2615,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:01.099294"
+    "date": "2026-07-26 16:15:54.403288"
   },
   {
     "title_en": "'That is some brutal hitting' - Marsh hits six sixes in huge innings",
@@ -2604,29 +2626,40 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:01.287803"
+    "date": "2026-07-26 16:15:54.601869"
   },
   {
-    "title_en": "Wong stars for Southern Brave as they beat Sunrisers",
-    "title_kn": "ಸನ್‌ರೈಸರ್ಸ್ ಅನ್ನು ಸೋಲಿಸಿದ ಸದರ್ನ್ ಬ್ರೇವ್‌ಗೆ ವಾಂಗ್ ಸ್ಟಾರ್",
-    "description_en": "Issy Wong takes three wickets to help Southern Brave make it two wins from two in the women's Hundred, as they beat Sunrisers Leeds by five wickets at Headingley.",
-    "description_kn": "ಹೆಡಿಂಗ್ಲಿಯಲ್ಲಿ ಸನ್‌ರೈಸರ್ಸ್ ಲೀಡ್ಸ್ ಅನ್ನು ಐದು ವಿಕೆಟ್‌ಗಳಿಂದ ಸೋಲಿಸಿದ ಸದರ್ನ್ ಬ್ರೇವ್ ಮಹಿಳೆಯರ ಹಂಡ್ರೆಡ್‌ನಲ್ಲಿ ಎರಡರಿಂದ ಎರಡು ಗೆಲುವು ಸಾಧಿಸಲು ಸಹಾಯ ಮಾಡಲು ಇಸ್ಸಿ ವಾಂಗ್ ಮೂರು ವಿಕೆಟ್‌ಗಳನ್ನು ಪಡೆದರು.",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/cy8ep5l3z1wo?at_medium=RSS&at_campaign=rss",
+    "title_en": "Bloodied Kelly battles past Agyarko to retain title",
+    "title_kn": "ರಕ್ತಸಿಕ್ತ ಕೆಲ್ಲಿ ಪ್ರಶಸ್ತಿಯನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು ಅಗ್ಯಾರ್ಕೊ ಅವರ ಹಿಂದೆ ಹೋರಾಡುತ್ತಾನೆ",
+    "description_en": "Briton Josh Kelly is forced to dig deep to retain his IBF light-middleweight world title in a points win against Ireland's Caoimhin Agyarko.",
+    "description_kn": "ಬ್ರಿಟನ್ ಜೋಶ್ ಕೆಲ್ಲಿ ತನ್ನ IBF ಲೈಟ್-ಮಿಡಲ್‌ವೇಟ್ ವಿಶ್ವ ಪ್ರಶಸ್ತಿಯನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು ಆಳವಾಗಿ ಅಗೆಯಲು ಬಲವಂತವಾಗಿ ಐರ್ಲೆಂಡ್‌ನ ಕಾವೊಯಿಮ್‌ಹಿನ್ ಅಗ್ಯಾರ್ಕೊ ವಿರುದ್ಧದ ಅಂಕಗಳ ಗೆಲುವಿನಲ್ಲಿ.",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/clyqz0lq4keo?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:01.451067"
+    "date": "2026-07-26 16:15:54.896045"
   },
   {
-    "title_en": "You can be a hero or a coward, I'm trying to be the hero - Joshua",
-    "title_kn": "ನೀನು ನಾಯಕನಾಗಬಹುದು ಅಥವಾ ಹೇಡಿಯಾಗಬಹುದು, ನಾನು ನಾಯಕನಾಗಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದೇನೆ - ಜೋಶುವಾ",
-    "description_en": "Anthony Joshua admits to being a \"little bit nervous\" for Saturday's fight with Kristian Prenga but believes that if he is victorious, he will go on to beat Tyson Fury at the end of the year.",
-    "description_kn": "ಆಂಥೋನಿ ಜೋಶುವಾ ಅವರು ಕ್ರಿಸ್ಟಿಯನ್ ಪ್ರೆಂಗಾ ಅವರೊಂದಿಗಿನ ಶನಿವಾರದ ಹೋರಾಟಕ್ಕಾಗಿ \"ಸ್ವಲ್ಪ ನರ್ವಸ್\" ಎಂದು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ ಆದರೆ ಅವರು ವಿಜಯಶಾಲಿಯಾದರೆ, ಅವರು ವರ್ಷದ ಕೊನೆಯಲ್ಲಿ ಟೈಸನ್ ಫ್ಯೂರಿಯನ್ನು ಸೋಲಿಸುತ್ತಾರೆ ಎಂದು ನಂಬುತ್ತಾರೆ.",
-    "link": "https://www.bbc.co.uk/sport/boxing/videos/c204pdd68pdo?at_medium=RSS&at_campaign=rss",
+    "title_en": "Howe unsure over Guimaraes future amid Arsenal interest",
+    "title_kn": "ಆರ್ಸೆನಲ್ ಆಸಕ್ತಿಯ ನಡುವೆ ಗೈಮಾರೆಸ್ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಹೇಗೆ ಖಚಿತವಾಗಿಲ್ಲ",
+    "description_en": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
+    "description_kn": "ನ್ಯೂಕ್ಯಾಸಲ್ ಯುನೈಟೆಡ್ ಮುಖ್ಯ ತರಬೇತುದಾರ ಎಡ್ಡಿ ಹೋವೆ ಅವರು ನಾಯಕ ಬ್ರೂನೋ ಗೈಮಾರೆಸ್ ಅವರೊಂದಿಗೆ ಸಕಾರಾತ್ಮಕ ಚರ್ಚೆ ನಡೆಸಿದ್ದಾರೆ ಎಂದು ಹೇಳುತ್ತಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:01.619809"
+    "date": "2026-07-26 16:15:55.126236"
+  },
+  {
+    "title_en": "Could Mount be final piece in Man Utd midfield jigsaw?",
+    "title_kn": "ಮ್ಯಾನ್ ಯುಟಿಡಿ ಮಿಡ್‌ಫೀಲ್ಡ್ ಜಿಗ್ಸಾದಲ್ಲಿ ಮೌಂಟ್ ಅಂತಿಮ ಭಾಗವಾಗಿರಬಹುದೇ?",
+    "description_en": "Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games.",
+    "description_kn": "ಮೇಸನ್ ಮೌಂಟ್ ತಮ್ಮ ಮೊದಲ ಎರಡು ಪೂರ್ವ-ಋತುವಿನ ಪಂದ್ಯಗಳಲ್ಲಿ ಮ್ಯಾಂಚೆಸ್ಟರ್ ಯುನೈಟೆಡ್‌ಗಾಗಿ ಹೊಸ ಆಗಮನದ ಆಂಡ್ರೆ ಸ್ಯಾಂಟೋಸ್ ಜೊತೆಗೆ ಅತ್ಯುತ್ತಮವಾಗಿದೆ.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:55.373585"
   },
   {
     "title_en": "Unhappy Tottenham players should leave - De Zerbi",
@@ -2637,7 +2670,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:01.808103"
+    "date": "2026-07-26 16:15:55.549781"
   },
   {
     "title_en": "Bodo/Glimt's Hogh to have Celtic medical within 24 hours",
@@ -2648,51 +2681,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:02.048994"
-  },
-  {
-    "title_en": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
-    "title_kn": "ಸಿನ್ನರ್ ಮತ್ತು ಜೊಕೊವಿಕ್ ಕೆನಡಿಯನ್ ಓಪನ್‌ನಿಂದ ಹಿಂದೆ ಸರಿಯುವಂತೆ ಬದಲಾವಣೆಗಳನ್ನು ಕರೆಯಲಾಯಿತು",
-    "description_en": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pull out of the Masters 1000 event.",
-    "description_kn": "ಜಾನಿಕ್ ಸಿನ್ನರ್ ಮತ್ತು ನೊವಾಕ್ ಜೊಕೊವಿಕ್ ಮಾಸ್ಟರ್ಸ್ 1000 ಈವೆಂಟ್‌ನಿಂದ ಹೊರಬಂದ ನಂತರ ಆಟಗಾರರ \"ಬೇಡಿಕೆ ವೇಳಾಪಟ್ಟಿ\" ಗೆ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಬೇಕಾಗಿದೆ ಎಂದು ಕೆನಡಿಯನ್ ಓಪನ್ ಪಂದ್ಯಾವಳಿಯ ನಿರ್ದೇಶಕರು ಹೇಳುತ್ತಾರೆ.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:13:02.236689"
-  },
-  {
-    "title_en": "Ravindra stars with 98 as Fire beat MI London",
-    "title_kn": "ರವೀಂದ್ರ 98 ರಲ್ಲಿ ಫೈರ್ ಬೀಟ್ ಎಂಐ ಲಂಡನ್ ಆಗಿ ನಟಿಸಿದ್ದಾರೆ",
-    "description_en": "Welsh Fire continue their winning start to the men's Hundred with a 15-run win over MI London, after Sunrisers Leeds beat Southern Brave in the earlier game.",
-    "description_kn": "ಮುಂಚಿನ ಪಂದ್ಯದಲ್ಲಿ ಸನ್‌ರೈಸರ್ಸ್ ಲೀಡ್ಸ್ ಸದರ್ನ್ ಬ್ರೇವ್ ಅನ್ನು ಸೋಲಿಸಿದ ನಂತರ ವೆಲ್ಷ್ ಫೈರ್ MI ಲಂಡನ್ ವಿರುದ್ಧ 15 ರನ್‌ಗಳ ಜಯದೊಂದಿಗೆ ಪುರುಷರ ಹಂಡ್ರೆಡ್‌ಗೆ ತಮ್ಮ ಗೆಲುವಿನ ಆರಂಭವನ್ನು ಮುಂದುವರೆಸಿತು.",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cnvnzne8yy6o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:13:02.426679"
-  },
-  {
-    "title_en": "Growing concerns before Defoe exit - Woking director",
-    "title_kn": "ಡೆಫೊ ನಿರ್ಗಮಿಸುವ ಮೊದಲು ಬೆಳೆಯುತ್ತಿರುವ ಕಾಳಜಿ - ವೋಕಿಂಗ್ ನಿರ್ದೇಶಕ",
-    "description_en": "Woking director of football Jody Brown says there were \"growing concerns\" across the club before the National League side parted ways with former England striker Jermain Defoe as manager.",
-    "description_kn": "ಫುಟ್‌ಬಾಲ್‌ನ ವೋಕಿಂಗ್ ನಿರ್ದೇಶಕ ಜೋಡಿ ಬ್ರೌನ್, ಮಾಜಿ ಇಂಗ್ಲೆಂಡ್ ಸ್ಟ್ರೈಕರ್ ಜರ್ಮೈನ್ ಡೆಫೊ ಮ್ಯಾನೇಜರ್ ಆಗಿ ನ್ಯಾಷನಲ್ ಲೀಗ್ ತಂಡವು ಬೇರ್ಪಡುವ ಮೊದಲು ಕ್ಲಬ್‌ನಾದ್ಯಂತ \"ಬೆಳೆಯುತ್ತಿರುವ ಕಾಳಜಿ\" ಇತ್ತು.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:13:02.647711"
-  },
-  {
-    "title_en": "Ipswich sign Japan forward Maeda from Celtic",
-    "title_kn": "ಸೆಲ್ಟಿಕ್‌ನಿಂದ ಇಪ್ಸ್‌ವಿಚ್ ಜಪಾನ್ ಫಾರ್ವರ್ಡ್ ಮೈಡಾಗೆ ಸಹಿ ಹಾಕಿತು",
-    "description_en": "Ipswich Town sign Japan forward Daizen Maeda from Celtic on a contract until summer 2029.",
-    "description_kn": "ಇಪ್ಸ್‌ವಿಚ್ ಟೌನ್ 2029 ರ ಬೇಸಿಗೆಯವರೆಗೆ ಒಪ್ಪಂದದ ಮೇಲೆ ಸೆಲ್ಟಿಕ್‌ನಿಂದ ಜಪಾನ್ ಫಾರ್ವರ್ಡ್ ಡೈಜೆನ್ ಮೈಡಾಗೆ ಸಹಿ ಹಾಕಿತು.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2dgkg5rq0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:13:02.816180"
+    "date": "2026-07-26 16:15:55.749028"
   },
   {
     "title_en": "On the move - football's youngest journeymen",
@@ -2703,7 +2692,18 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:02.995941"
+    "date": "2026-07-26 16:15:55.943976"
+  },
+  {
+    "title_en": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
+    "title_kn": "ಸಿನ್ನರ್ ಮತ್ತು ಜೊಕೊವಿಕ್ ಕೆನಡಿಯನ್ ಓಪನ್‌ನಿಂದ ಹಿಂದೆ ಸರಿಯುವಂತೆ ಬದಲಾವಣೆಗಳನ್ನು ಕರೆಯಲಾಯಿತು",
+    "description_en": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pull out of the Masters 1000 event.",
+    "description_kn": "ಜಾನಿಕ್ ಸಿನ್ನರ್ ಮತ್ತು ನೊವಾಕ್ ಜೊಕೊವಿಕ್ ಮಾಸ್ಟರ್ಸ್ 1000 ಈವೆಂಟ್‌ನಿಂದ ಹೊರಬಂದ ನಂತರ ಆಟಗಾರರ \"ಬೇಡಿಕೆ ವೇಳಾಪಟ್ಟಿ\" ಗೆ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಬೇಕಾಗಿದೆ ಎಂದು ಕೆನಡಿಯನ್ ಓಪನ್ ಪಂದ್ಯಾವಳಿಯ ನಿರ್ದೇಶಕರು ಹೇಳುತ್ತಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:56.160269"
   },
   {
     "title_en": "Find out more here",
@@ -2714,7 +2714,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:03.172777"
+    "date": "2026-07-26 16:15:56.391584"
   },
   {
     "title_en": "Norris wins his first grand prix of year in Hungary",
@@ -2725,18 +2725,40 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:03.347266"
+    "date": "2026-07-26 16:15:56.620331"
   },
   {
-    "title_en": "Middlesex seamers rout hapless Glamorgan",
-    "title_kn": "ಮಿಡ್ಲ್‌ಸೆಕ್ಸ್ ಸೀಮರ್‌ಗಳು ದುರದೃಷ್ಟಕರ ಗ್ಲಾಮೊರ್ಗಾನ್ ಅನ್ನು ಸೋಲಿಸುತ್ತಾರೆ",
-    "description_en": "Middlesex's seamers destroy Glamorgan in an eight-wicket victory, with the Welsh side's 66 their fourth-lowest score ever in List A cricket.",
-    "description_kn": "ಮಿಡ್ಲ್‌ಸೆಕ್ಸ್‌ನ ಸೀಮರ್‌ಗಳು ಎಂಟು-ವಿಕೆಟ್‌ಗಳ ವಿಜಯದಲ್ಲಿ ಗ್ಲಾಮೊರ್ಗನ್‌ನನ್ನು ನಾಶಪಡಿಸಿದರು, ವೆಲ್ಷ್ ತಂಡವು 66 ಲಿಸ್ಟ್ ಎ ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ಅವರ ನಾಲ್ಕನೇ ಕಡಿಮೆ ಸ್ಕೋರ್‌ನೊಂದಿಗೆ.",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cy8m31jydz4o?at_medium=RSS&at_campaign=rss",
+    "title_en": "Gymnast Ward goes from Glasgow dreamer to gold medallist",
+    "title_kn": "ಜಿಮ್ನಾಸ್ಟ್ ವಾರ್ಡ್ ಗ್ಲ್ಯಾಸ್ಗೋ ಡ್ರೀಮರ್‌ನಿಂದ ಚಿನ್ನದ ಪದಕ ವಿಜೇತರಾಗುತ್ತಾರೆ",
+    "description_en": "Twelve years ago, a young Reuben Ward watched wide-eyed as Dan Keatings won gymnastics gold for Scotland in Glasgow. Now he celebrates achieving the same feat in the 2026 Commonwealth Games.",
+    "description_kn": "ಹನ್ನೆರಡು ವರ್ಷಗಳ ಹಿಂದೆ, ಗ್ಲಾಸ್ಗೋದಲ್ಲಿ ಡ್ಯಾನ್ ಕೀಟಿಂಗ್ಸ್ ಸ್ಕಾಟ್ಲೆಂಡ್‌ಗಾಗಿ ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್ ಚಿನ್ನವನ್ನು ಗೆದ್ದಾಗ ಯುವ ರೂಬೆನ್ ವಾರ್ಡ್ ವಿಶಾಲ ಕಣ್ಣುಗಳಿಂದ ವೀಕ್ಷಿಸಿದರು. ಈಗ ಅವರು 2026 ರ ಕಾಮನ್‌ವೆಲ್ತ್ ಗೇಮ್ಸ್‌ನಲ್ಲಿ ಅದೇ ಸಾಧನೆಯನ್ನು ಸಾಧಿಸಿದ್ದಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/gymnastics/articles/cx2r808lmreo?at_medium=RSS&at_campaign=rss",
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:03.522609"
+    "date": "2026-07-26 16:15:56.806773"
+  },
+  {
+    "title_en": "Wong stars for Southern Brave as they beat Sunrisers",
+    "title_kn": "ಸನ್‌ರೈಸರ್ಸ್ ಅನ್ನು ಸೋಲಿಸಿದ ಸದರ್ನ್ ಬ್ರೇವ್‌ಗೆ ವಾಂಗ್ ಸ್ಟಾರ್",
+    "description_en": "Issy Wong takes three wickets to help Southern Brave make it two wins from two in the women's Hundred, as they beat Sunrisers Leeds by five wickets at Headingley.",
+    "description_kn": "ಹೆಡಿಂಗ್ಲಿಯಲ್ಲಿ ಸನ್‌ರೈಸರ್ಸ್ ಲೀಡ್ಸ್ ಅನ್ನು ಐದು ವಿಕೆಟ್‌ಗಳಿಂದ ಸೋಲಿಸಿದ ಸದರ್ನ್ ಬ್ರೇವ್ ಮಹಿಳೆಯರ ಹಂಡ್ರೆಡ್‌ನಲ್ಲಿ ಎರಡರಿಂದ ಎರಡು ಗೆಲುವು ಸಾಧಿಸಲು ಸಹಾಯ ಮಾಡಲು ಇಸ್ಸಿ ವಾಂಗ್ ಮೂರು ವಿಕೆಟ್‌ಗಳನ್ನು ಪಡೆದರು.",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cy8ep5l3z1wo?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:57.011152"
+  },
+  {
+    "title_en": "You can be a hero or a coward, I'm trying to be the hero - Joshua",
+    "title_kn": "ನೀನು ನಾಯಕನಾಗಬಹುದು ಅಥವಾ ಹೇಡಿಯಾಗಬಹುದು, ನಾನು ನಾಯಕನಾಗಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದೇನೆ - ಜೋಶುವಾ",
+    "description_en": "Anthony Joshua admits to being a \"little bit nervous\" for Saturday's fight with Kristian Prenga but believes that if he is victorious, he will go on to beat Tyson Fury at the end of the year.",
+    "description_kn": "ಆಂಥೋನಿ ಜೋಶುವಾ ಅವರು ಕ್ರಿಸ್ಟಿಯನ್ ಪ್ರೆಂಗಾ ಅವರೊಂದಿಗಿನ ಶನಿವಾರದ ಹೋರಾಟಕ್ಕಾಗಿ \"ಸ್ವಲ್ಪ ನರ್ವಸ್\" ಎಂದು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ ಆದರೆ ಅವರು ವಿಜಯಶಾಲಿಯಾದರೆ, ಅವರು ವರ್ಷದ ಕೊನೆಯಲ್ಲಿ ಟೈಸನ್ ಫ್ಯೂರಿಯನ್ನು ಸೋಲಿಸುತ್ತಾರೆ ಎಂದು ನಂಬುತ್ತಾರೆ.",
+    "link": "https://www.bbc.co.uk/sport/boxing/videos/c204pdd68pdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://placehold.co/600x400?text=News",
+    "category": "News",
+    "district": "Karnataka",
+    "date": "2026-07-26 16:15:57.212790"
   },
   {
     "title_en": "'This is not great' - McCarthy's big batting blunder",
@@ -2747,7 +2769,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:03.709663"
+    "date": "2026-07-26 16:15:57.427504"
   },
   {
     "title_en": "'What a ball!' - Wonderful Wong gets three for the Southern Brave",
@@ -2758,7 +2780,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:03.884460"
+    "date": "2026-07-26 16:15:57.604673"
   },
   {
     "title_en": "Instant impact! Wong and Corteen-Coleman both strike with first ball",
@@ -2769,7 +2791,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:04.076961"
+    "date": "2026-07-26 16:15:57.822648"
   },
   {
     "title_en": "Birmingham Phoenix beat Trent Rockets in record-breaking thriller",
@@ -2780,7 +2802,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:04.257559"
+    "date": "2026-07-26 16:15:58.044856"
   },
   {
     "title_en": "Trent Rockets make light work of Birmingham Phoenix",
@@ -2791,7 +2813,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:04.451993"
+    "date": "2026-07-26 16:15:58.274988"
   },
   {
     "title_en": "Every boundary from Clarke's blistering innings",
@@ -2802,29 +2824,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:04.665463"
-  },
-  {
-    "title_en": "'What's happened there?!' - Buttler and Dawson's moment to forget",
-    "title_kn": "'ಅಲ್ಲಿ ಏನಾಯ್ತು?!' - ಬಟ್ಲರ್ ಮತ್ತು ಡಾಸನ್ ಮರೆಯುವ ಕ್ಷಣ",
-    "description_en": "Manchester Super Giants fielders Jos Buttler and Liam Dawson inadvertently teach a vital lesson in communication after a huge fielding mix-up, missing a simple catch that would have removed London Spirit's Kiran Carlson in the men's Hundred.",
-    "description_kn": "ಮ್ಯಾಂಚೆಸ್ಟರ್ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ಫೀಲ್ಡರ್‌ಗಳಾದ ಜೋಸ್ ಬಟ್ಲರ್ ಮತ್ತು ಲಿಯಾಮ್ ಡಾಸನ್ ಅಚಾತುರ್ಯದಿಂದ ಬೃಹತ್ ಫೀಲ್ಡಿಂಗ್ ಮಿಶ್ರಣದ ನಂತರ ಸಂವಹನದಲ್ಲಿ ಪ್ರಮುಖ ಪಾಠವನ್ನು ಕಲಿಸುತ್ತಾರೆ, ಪುರುಷರ ಹಂಡ್ರೆಡ್‌ನಲ್ಲಿ ಲಂಡನ್ ಸ್ಪಿರಿಟ್‌ನ ಕಿರಣ್ ಕಾರ್ಲ್ಸನ್ ಅವರನ್ನು ತೆಗೆದುಹಾಕುವ ಸರಳ ಕ್ಯಾಚ್ ಅನ್ನು ಕಳೆದುಕೊಂಡರು.",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/c20ekyq6g62o?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:13:04.831690"
-  },
-  {
-    "title_en": "A night of brilliant batting but Livingstone's efforts fall just short",
-    "title_kn": "ಅದ್ಭುತವಾದ ಬ್ಯಾಟಿಂಗ್‌ನ ರಾತ್ರಿ ಆದರೆ ಲಿವಿಂಗ್‌ಸ್ಟೋನ್‌ನ ಪ್ರಯತ್ನಗಳು ಕಡಿಮೆಯಾಗುತ್ತವೆ",
-    "description_en": "Liam Livingstone hits 69 off 40 balls as he almost leads London Spirit to a successful chase of 139 against Manchester Super Giants, but is bowled with just three balls remaining as his side fall short in their opening game of The Hundred.",
-    "description_kn": "ಲಿಯಾಮ್ ಲಿವಿಂಗ್‌ಸ್ಟೋನ್ 40 ಎಸೆತಗಳಲ್ಲಿ 69 ರನ್ ಗಳಿಸಿ ಲಂಡನ್ ಸ್ಪಿರಿಟ್ ತಂಡವನ್ನು ಮ್ಯಾಂಚೆಸ್ಟರ್ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ವಿರುದ್ಧ 139 ರನ್‌ಗಳ ಯಶಸ್ವಿ ಚೇಸ್‌ಗೆ ಮುನ್ನಡೆಸಿದರು, ಆದರೆ ದಿ ಹಂಡ್ರೆಡ್‌ನ ಆರಂಭಿಕ ಪಂದ್ಯದಲ್ಲಿ ಅವರ ತಂಡವು ಕೇವಲ ಮೂರು ಎಸೆತಗಳು ಬಾಕಿ ಇರುವಾಗ ಬೌಲ್ಡ್ ಆಗಿದ್ದಾರೆ.",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/cqlxdx06vklo?at_medium=RSS&at_campaign=rss",
-    "image": "https://placehold.co/600x400?text=News",
-    "category": "News",
-    "district": "Karnataka",
-    "date": "2026-07-26 15:13:05.158926"
+    "date": "2026-07-26 16:15:58.557774"
   },
   {
     "title_en": "A nostalgic look at the glory years of snooker",
@@ -2835,7 +2835,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:05.334284"
+    "date": "2026-07-26 16:15:58.746636"
   },
   {
     "title_en": "Why did England’s 2006 World Cup dream end in agony?",
@@ -2846,7 +2846,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:05.540840"
+    "date": "2026-07-26 16:15:58.926592"
   },
   {
     "title_en": "How do Manchester City manage the Rodri dilemma?",
@@ -2857,7 +2857,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:05.730959"
+    "date": "2026-07-26 16:15:59.147180"
   },
   {
     "title_en": "Empty cupboards to full hearts - Tonga's remarkable road to Glasgow",
@@ -2868,7 +2868,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:05.903778"
+    "date": "2026-07-26 16:15:59.351881"
   },
   {
     "title_en": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
@@ -2879,7 +2879,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:06.084290"
+    "date": "2026-07-26 16:15:59.551130"
   },
   {
     "title_en": "What's working - and what's not - for WSL fans?",
@@ -2890,7 +2890,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:06.280069"
+    "date": "2026-07-26 16:15:59.765576"
   },
   {
     "title_en": "LA Dodgers and MVP Ohtani launch summer of live baseball on BBC",
@@ -2901,7 +2901,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:06.471443"
+    "date": "2026-07-26 16:15:59.963476"
   },
   {
     "title_en": "Is 2026 the Commonwealth Games' last dance or a future-proofing revamp?",
@@ -2912,7 +2912,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:06.692743"
+    "date": "2026-07-26 16:16:00.176088"
   },
   {
     "title_en": "Why are cycling's anti-doping tests being carried out at night?",
@@ -2923,7 +2923,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:06.871348"
+    "date": "2026-07-26 16:16:00.373095"
   },
   {
     "title_en": "The feminist netball pioneer who set out to build 'physically perfect' women",
@@ -2934,7 +2934,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:07.053079"
+    "date": "2026-07-26 16:16:00.598969"
   },
   {
     "title_en": "The country that doesn't play football... yet",
@@ -2945,7 +2945,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:07.233472"
+    "date": "2026-07-26 16:16:00.806980"
   },
   {
     "title_en": "The people and places that shaped a two-time Wimbledon champion",
@@ -2956,7 +2956,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:07.461665"
+    "date": "2026-07-26 16:16:01.007739"
   },
   {
     "title_en": "The man who invented a sport and played tennis with Willy Wonka",
@@ -2967,7 +2967,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:07.660270"
+    "date": "2026-07-26 16:16:01.201217"
   },
   {
     "title_en": "How Cornish miners brought football to Mexico",
@@ -2978,7 +2978,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:07.848824"
+    "date": "2026-07-26 16:16:01.413688"
   },
   {
     "title_en": "In spotlight but shunning limelight - Olise's unique rise to top",
@@ -2989,7 +2989,7 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:08.011774"
+    "date": "2026-07-26 16:16:01.603278"
   },
   {
     "title_en": "When five Wimbledon titles in one weekend changed British tennis",
@@ -3000,6 +3000,6 @@
     "image": "https://placehold.co/600x400?text=News",
     "category": "News",
     "district": "Karnataka",
-    "date": "2026-07-26 15:13:08.196132"
+    "date": "2026-07-26 16:16:01.811038"
   }
 ]
